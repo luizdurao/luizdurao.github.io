@@ -51,7 +51,17 @@ html {
     margin-bottom: 1rem;
   }
   .figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
+    align-items: center;
+  }
+
+  .figure h4{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
   }
   
   ul {
