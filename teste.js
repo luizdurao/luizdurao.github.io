@@ -12,6 +12,7 @@ var trace3 = {
     size:12
   },
   textposition: 'right center',
+  hoverinfo:"text",
   marker: { size: 15,
             line:{
               width:0.5,
@@ -28,6 +29,7 @@ var trace2 = {
   mode: 'markers',
   type: 'scatter',
   name: 'Digital - Biologia',
+  hoverinfo:"text",
   text: data2["q2"]["text"][0],
   textfont : {
     family:'Poppins',
@@ -47,6 +49,7 @@ var trace2 = {
 var trace1 = {
   x: data2["q1"]["x"],
   y: data2["q1"]["y"],
+  hoverinfo:"text",
   mode: 'markers',
   type: 'scatter',
   name: 'Real - Biologia',
@@ -68,6 +71,7 @@ var trace1 = {
 var trace4 = {
   x: data2["q4"]["x"],
   y: data2["q4"]["y"],
+  hoverinfo:"text",
   mode: 'markers',
   type: 'scatter',
   name: 'Team B',
@@ -238,23 +242,26 @@ myPlot.on('plotly_click', function(data1){
         x=data1.points[i].x
         y=data1.points[i].y
     }
-    console.log(x)
-    console.log(data2[quadrante]["x"])
+    //console.log(x)
+    //console.log(data2[quadrante]["x"])
     index=[]
     for ([valor,elemento] of data2[quadrante]["x"].entries()){
       if(elemento==x){
         index.push(valor)
       }
     }
-    console.log(index)
+    //console.log(index)
     final = 100000
     for (valor1 of index){
       if(data2[quadrante]["y"][valor1]==y){
         final = valor1
       }
     }
-    console.log(final)
-    console.log(data2[quadrante]["text"][1][final])
-
-    location.href = data2[quadrante]["text"][1][final]
+    //console.log(final)
+    //console.log(data2[quadrante]["text"][1][final])
+    window.open(
+      data2[quadrante]["text"][1][final],
+      '_blank' // <- This is what makes it open in a new window.
+    );
+    //location.href = data2[quadrante]["text"][1][final]
 });
