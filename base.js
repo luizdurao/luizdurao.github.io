@@ -1,4 +1,4 @@
-var data2 = {
+var data2 ={
     "q1": {
         "x": [
             -10.0,
@@ -44,27 +44,6 @@ var data2 = {
         ],
         "text": [
             [
-                "Bact\u00e9ria para drug delivery",
-                "Edi\u00e7\u00e3o gen\u00f4mica de humanos",
-                "Bact\u00e9ria para tratar c\u00e2ncer",
-                "Engenharia de part\u00edculas virais para drug delivery",
-                "Terapia G\u00eanica para anemia falciforme",
-                "Bacteri\u00f3fagos como antibi\u00f3ticos",
-                "Organoids para neurobiologia",
-                "Bi\u00f3psia l\u00edquida",
-                "Farmacogen\u00f4mica",
-                "Transplante de \u00f3rg\u00e3os de porcos em humanos",
-                "Desenvolvimento de alimentos n\u00e3o alerg\u00eanicos",
-                "Vacina de spray nasal contra COVID-19",
-                "Infec\u00e7\u00e3o por Zika para curar contra glioblastoma",
-                "Uso de microbiota para diminuir vetores de doen\u00e7as",
-                "CAR T Cells: Engineering Patients\u2019 Immune Cells to Treat Their Cancers",
-                "Pele de til\u00e1pia para tratar queimadura",
-                "Nanotecnologia para desenvolvimento de vacinas",
-                "Gene-drive para erradicar vetores de doen\u00e7as",
-                "Desenvolvimento de insetos polinizadores"
-            ],
-            [
                 "https://chainbiotech.com/",
                 "https://www.nature.com/articles/d41586-019-00673-1",
                 "https://www.prokarium.com/",
@@ -84,7 +63,49 @@ var data2 = {
                 "http://www.ctvacinas.ufmg.br/index.php/nanotecnologia/",
                 "https://www.wired.com/story/heres-the-plan-to-end-malaria-with-crispr-edited-mosquitoes/",
                 "https://www.oxitec.com/en/food-sustainability"
+            ],
+            [
+                "Bact\u00e9ria para drug delivery",
+                "Edi\u00e7\u00e3o gen\u00f4mica de humanos",
+                "Bact\u00e9ria para tratar c\u00e2ncer",
+                "Engenharia de part\u00edculas virais para drug delivery",
+                "Terapia G\u00eanica para anemia falciforme",
+                "Bacteri\u00f3fagos como antibi\u00f3ticos",
+                "Organoids para neurobiologia",
+                "Bi\u00f3psia l\u00edquida",
+                "Farmacogen\u00f4mica",
+                "Transplante de \u00f3rg\u00e3os de porcos em humanos",
+                "Desenvolvimento de alimentos n\u00e3o alerg\u00eanicos",
+                "Vacina de spray nasal contra COVID-19",
+                "Infec\u00e7\u00e3o por Zika para curar contra glioblastoma",
+                "Uso de microbiota para diminuir vetores de doen\u00e7as",
+                "CAR T Cells: Engineering Patients\u2019 Immune Cells to Treat Their Cancers",
+                "Pele de til\u00e1pia para tratar queimadura",
+                "Nanotecnologia para desenvolvimento de vacinas",
+                "Gene-drive para erradicar vetores de doen\u00e7as",
+                "Desenvolvimento de insetos polinizadores"
             ]
+        ],
+        "size": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            7,
+            9
         ]
     },
     "q2": {
@@ -118,20 +139,6 @@ var data2 = {
         ],
         "text": [
             [
-                "Chatbot para sa\u00fade",
-                "Detec\u00e7\u00e3o de COVID-19 por voz",
-                "Realidade virtual para administrar vacina para crian\u00e7as",
-                "Epidemiologia Digital",
-                "Realidade virtual para reabilita\u00e7\u00e3o",
-                "Detec\u00e7\u00e3o precoce de c\u00e2ncer por epigen\u00f4mica",
-                "Epidemiologia Gen\u00f4mica",
-                "Integra\u00e7\u00e3o de Big Data em sa\u00fade",
-                "Uso de CRISPR Technology para modificar alimentos",
-                "DNA Data storage",
-                "Mind uploading ou digitaliza\u00e7\u00e3o do c\u00e9rebro",
-                "Transmiss\u00e3o de impulsos nervosos para rob\u00f4s"
-            ],
-            [
                 "https://medicalfuturist.com/top-12-health-chatbots/",
                 "https://macmagazine.com.br/post/2021/04/05/inteligencia-artificial-de-app-pode-detectar-covid-19-pela-voz/",
                 "https://clinprosaude.com.br/vr-vacina-realidade-virtual-para-aplicacao-de-vacinas-em-criancas/",
@@ -144,7 +151,35 @@ var data2 = {
                 "https://www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/",
                 "https://pt.wikipedia.org/wiki/Transfer%C3%AAncia_mental",
                 "https://www.nytimes.com/2008/01/15/science/15robo.html"
+            ],
+            [
+                "Chatbot para sa\u00fade",
+                "Detec\u00e7\u00e3o de COVID-19 por voz",
+                "Realidade virtual para administrar vacina para crian\u00e7as",
+                "Epidemiologia Digital",
+                "Realidade virtual para reabilita\u00e7\u00e3o",
+                "Detec\u00e7\u00e3o precoce de c\u00e2ncer por epigen\u00f4mica",
+                "Epidemiologia Gen\u00f4mica",
+                "Integra\u00e7\u00e3o de Big Data em sa\u00fade",
+                "Uso de CRISPR Technology para modificar alimentos",
+                "DNA Data storage",
+                "Mind uploading ou digitaliza\u00e7\u00e3o do c\u00e9rebro",
+                "Transmiss\u00e3o de impulsos nervosos para rob\u00f4s"
             ]
+        ],
+        "size": [
+            9,
+            9,
+            9,
+            10,
+            10,
+            10,
+            12,
+            12,
+            12,
+            12,
+            12,
+            14
         ]
     },
     "q3": {
@@ -176,19 +211,6 @@ var data2 = {
         ],
         "text": [
             [
-                "Google Glass para amamenta\u00e7\u00e3o",
-                "Internet das Coisas para a sa\u00fade",
-                "Microsoft\u2019s HoloLens Headset para anatomia humana",
-                "Realidade aumentada para ajudar paciente a descrever problemas visuais",
-                "Wearables",
-                "Biopol\u00edmeros para tratar ferimentos",
-                "MIRS",
-                "Implantes customizados",
-                "Bio-implantes",
-                "3D Bioprinting",
-                "Cirurgia rob\u00f3tica aut\u00f4noma"
-            ],
-            [
                 "https://bit.ly/3u9Upu3",
                 "https://www.wipro.com/business-process/what-can-iot-do-for-healthcare-/#:~:text=IoT%20enables%20healthcare%20professionals%20to,and%20reach%20the%20expected%20outcomes.&text=The%20spread%20of%20infections%20is%20a%20major%20concern%20for%20patients%20in%20hospitals.",
                 "https://www.microsoft.com/en-us/hololens",
@@ -200,7 +222,33 @@ var data2 = {
                 "https://www.intechopen.com/books/biomaterials/biomedical-implants-for-regenerative-therapies",
                 "https://wyss.harvard.edu/technology/3d-bioprinting/",
                 "https://olhardigital.com.br/2016/05/05/noticias/robo-cirurgiao-autonomo-supera-humanos-em-operacao-de-tecido-mole/"
+            ],
+            [
+                "Google Glass para amamenta\u00e7\u00e3o",
+                "Internet das Coisas para a sa\u00fade",
+                "Microsoft\u2019s HoloLens Headset para anatomia humana",
+                "Realidade aumentada para ajudar paciente a descrever problemas visuais",
+                "Wearables",
+                "Biopol\u00edmeros para tratar ferimentos",
+                "MIRS",
+                "Implantes customizados",
+                "Bio-implantes",
+                "3D Bioprinting",
+                "Cirurgia rob\u00f3tica aut\u00f4noma"
             ]
+        ],
+        "size": [
+            14,
+            14,
+            16,
+            16,
+            16,
+            16,
+            18,
+            18,
+            20,
+            20,
+            20
         ]
     },
     "q4": {
@@ -232,19 +280,6 @@ var data2 = {
         ],
         "text": [
             [
-                "IBM Watson Health",
-                "Aparelho para achar veias",
-                "Realidade virtual para reduzir a dor",
-                "Realidade virtual para sa\u00fade mental",
-                "Google AI de reconhecimento de imagem de retina para detectar doen\u00e7as card\u00edacas",
-                "Realidade virtual para cirurgia",
-                "Realidade aumentada para cirurgia",
-                "Cybersecurity for medical devices",
-                "\u201canytime, anywhere\u201d healthcare",
-                "Aprendizado de m\u00e1quina na sa\u00fade",
-                "Healthcare platforms"
-            ],
-            [
                 "https://www.ibm.com/br-pt/watson-health",
                 "https://www.accuvein.com/",
                 "https://karunalabs.com/",
@@ -256,7 +291,33 @@ var data2 = {
                 "https://pubmed.ncbi.nlm.nih.gov/10293171/",
                 "https://online.stanford.edu/programs/artificial-intelligence-healthcare",
                 "https://www.rolandberger.com/en/Insights/Publications/Future-of-Health-The-rise-of-healthcare-platforms.html"
+            ],
+            [
+                "IBM Watson Health",
+                "Aparelho para achar veias",
+                "Realidade virtual para reduzir a dor",
+                "Realidade virtual para sa\u00fade mental",
+                "Google AI de reconhecimento de imagem de retina para detectar doen\u00e7as card\u00edacas",
+                "Realidade virtual para cirurgia",
+                "Realidade aumentada para cirurgia",
+                "Cybersecurity for medical devices",
+                "\u201canytime, anywhere\u201d healthcare",
+                "Aprendizado de m\u00e1quina na sa\u00fade",
+                "Healthcare platforms"
             ]
+        ],
+        "size": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            25,
+            25,
+            25
         ]
     }
 }

@@ -5,7 +5,7 @@ var trace3 = {
   mode: 'markers',
   type: 'scatter',
   name: 'Digital - Engenharia',
-  text: data2["q3"]["text"][0],
+  text: data2["q3"]["text"][1],
   textfont : {
     family:'Poppins',
     color:"gray",
@@ -13,7 +13,7 @@ var trace3 = {
   },
   textposition: 'right center',
   hoverinfo:"text",
-  marker: { size: 15,
+  marker: { size: data2["q3"]["size"],
             line:{
               width:0.5,
               color:"rgb(80,156,199)",
@@ -30,14 +30,14 @@ var trace2 = {
   type: 'scatter',
   name: 'Digital - Biologia',
   hoverinfo:"text",
-  text: data2["q2"]["text"][0],
+  text: data2["q2"]["text"][1],
   textfont : {
     family:'Poppins',
     color:"#93D94E",
     size:12
   },
   textposition: 'right center',
-  marker: { size: 15,
+  marker: { size:  data2["q2"]["size"],
             line:{
               width:0.5,
               color:"rgb(147,217,78)",
@@ -53,14 +53,14 @@ var trace1 = {
   mode: 'markers',
   type: 'scatter',
   name: 'Real - Biologia',
-  text: data2["q1"]["text"][0],
+  text: data2["q1"]["text"][1],
   textfont : {
     family:'Poppins',
     color:"rgba(103, 192, 173)",
     size:12
   },
   textposition: 'right center',
-  marker: { size: 15,
+  marker: { size:  data2["q1"]["size"],
             line:{
               width:0.5,
               color:"rgba(103, 192, 173)",
@@ -75,14 +75,14 @@ var trace4 = {
   mode: 'markers',
   type: 'scatter',
   name: 'Team B',
-  text: data2["q4"]["text"][0],
+  text: data2["q4"]["text"][1],
   textfont : {
     family:'Poppins',
     color:"#F2DC6B",
     size:12
   },
   textposition: 'right center',
-  marker: { size: 15,
+  marker: { size:  data2["q4"]["size"],
             line:{
               width:0.5,
               color:"rgb(217,165,80)",
