@@ -105,11 +105,11 @@ var layout = {
             size:24
         }
     } ,
-    range: [ -11, 11 ],
+    range: [ -15, 15 ],
     showticklabels: false,
   },
   yaxis: {
-    range: [-11, 11.25],
+    range: [-15, 15.25],
     showticklabels: false,
     zerolinecolor: '#636363',
     zerolinewidth: 2,
@@ -125,7 +125,7 @@ var layout = {
   hovermode:'closest',
   showlegend: false,
   title:{
-      text:'Projetos',
+      text:'BIOENGENHARIA',
       font:{
           font:"Work Sans",
           size:30
@@ -140,7 +140,7 @@ var layout = {
 
       {
         x:0,
-        y:-11,
+        y:-15,
         xref: 'x',
         yref: 'y',
         text: 'ENGENHARIA',
@@ -159,7 +159,7 @@ var layout = {
       },
       {
         x:0,
-        y:11,
+        y:15,
         xref: 'x',
         yref: 'y',
         text: 'BIOLOGIA',
@@ -177,7 +177,7 @@ var layout = {
         opacity: 1
       },
       {
-        x:10,
+        x:13,
         y:-0.25,
         xref: 'x',
         yref: 'y',
@@ -196,7 +196,7 @@ var layout = {
         opacity: 1
       },
       {
-        x:-10,
+        x:-13,
         y:-0.25,
         xref: 'x',
         yref: 'y',
