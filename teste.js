@@ -260,7 +260,7 @@ myPlot.on('plotly_click', function(data1){
     //console.log(final)
     //console.log(data2[quadrante]["text"][1][final])
     window.open(
-      data2[quadrante]["text"][1][final],
+      data2[quadrante]["text"][0][final],
       '_blank' // <- This is what makes it open in a new window.
     );
     //location.href = data2[quadrante]["text"][1][final]
