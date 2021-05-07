@@ -606,12 +606,12 @@
             "color": "?",
             "link": "https://csbiology.org/",
             "photo": "logo.png",
-            "status": ""
+            "status": null
         },
         {
             "id": 85,
             "name": "Analyst",
-            "color": "#11896C",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -619,7 +619,7 @@
         {
             "id": 86,
             "name": "Collaborator",
-            "color": "#1F77AD",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -627,7 +627,7 @@
         {
             "id": 87,
             "name": "Consultant",
-            "color": "#086197",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -635,7 +635,7 @@
         {
             "id": 88,
             "name": "Database",
-            "color": "#010171",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -643,7 +643,7 @@
         {
             "id": 89,
             "name": "Designer",
-            "color": "#010171",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -651,7 +651,7 @@
         {
             "id": 90,
             "name": "Developer",
-            "color": "#010178",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -659,7 +659,7 @@
         {
             "id": 91,
             "name": "Master",
-            "color": "#350081",
+            "color": "rgb(49, 216, 182)1",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -667,7 +667,7 @@
         {
             "id": 92,
             "name": "PhD",
-            "color": "#350101",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -675,7 +675,7 @@
         {
             "id": 93,
             "name": "PostDoc",
-            "color": "#31D8B19",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -683,7 +683,7 @@
         {
             "id": 95,
             "name": "PI",
-            "color": "?",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
@@ -691,7 +691,7 @@
         {
             "id": 94,
             "name": "Undergraduate",
-            "color": "#2424A16",
+            "color": "rgb(49, 216, 182)",
             "link": "",
             "photo": "hcabr.png",
             "status": ""
