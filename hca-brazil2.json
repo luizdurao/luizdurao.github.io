@@ -5,7 +5,7 @@
             "name": "Alan Barzilay",
             "color": "#2424A0",
             "link": "https://csbiology.org/team/AlanBarzilay",
-            "photo": "AlanBarzilay.jfif",
+            "photo": "AlanBarzilay.png",
             "status": "Former"
         },
         {
@@ -13,7 +13,7 @@
             "name": "Allan Rodrigo Nascimento de Carvalho",
             "color": "#010171",
             "link": "https://csbiology.org/team/AllanCarvalho",
-            "photo": "AllanCarvalho.jpg",
+            "photo": "AllanCarvalho.png",
             "status": "Current"
         },
         {
@@ -21,7 +21,7 @@
             "name": "Alysson Henrique Urbanski",
             "color": "#350082",
             "link": "https://csbiology.org/team/AlyssonUrbanski",
-            "photo": "AlyssonUrbanski.jpg",
+            "photo": "AlyssonUrbanski.png",
             "status": "Current"
         },
         {
@@ -29,7 +29,7 @@
             "name": "Amanda Pereira Vasconcelos",
             "color": "#350083",
             "link": "https://csbiology.org/team/AmandaVasconcelos",
-            "photo": "AmandaVasconcelos.jpg",
+            "photo": "AmandaVasconcelos.png",
             "status": "Current"
         },
         {
@@ -37,7 +37,7 @@
             "name": "Ana Orsi",
             "color": "#2424A1",
             "link": "https://csbiology.org/team/AnaOrsi",
-            "photo": "logo.jpeg",
+            "photo": "logo.png",
             "status": "Former"
         },
         {
@@ -45,15 +45,15 @@
             "name": "Andre Guilherme da Costa Martins",
             "color": "#31D8B5",
             "link": "https://csbiology.org/team/AndreMartins",
-            "photo": "AndreMartins.jpeg",
+            "photo": "AndreMartins.png",
             "status": "Current"
         },
         {
             "id": 7,
-            "name": "Andr\u00e9 Nicolau Aquime Gon\u00e7alves",
+            "name": "Andre Nicolau Aquime Gon\u00e7alves",
             "color": "#31D8B6",
             "link": "https://csbiology.org/team/AndreNicolau",
-            "photo": "AndreNicolau.jpeg",
+            "photo": "AndreNicolau.png",
             "status": "Current"
         },
         {
@@ -61,7 +61,7 @@
             "name": "Andre Vicioli",
             "color": "#2424A2",
             "link": "https://csbiology.org/team/AndrePina",
-            "photo": "AndrePina.jfif",
+            "photo": "AndrePina.png",
             "status": "Former"
         },
         {
@@ -69,7 +69,7 @@
             "name": "Antonio Edson Rocha Oliveira",
             "color": "#31D8B7",
             "link": "https://csbiology.org/team/AntonioOliveira",
-            "photo": "AntonioOliveira.jpeg",
+            "photo": "AntonioOliveira.png",
             "status": "Current"
         },
         {
@@ -77,7 +77,7 @@
             "name": "Bruna Garbes Gon\u00e7alves Pinto",
             "color": "#350071",
             "link": "https://csbiology.org/team/BrunaGarbes",
-            "photo": "BrunaGarbes.jpeg",
+            "photo": "BrunaGarbes.png",
             "status": "Former"
         },
         {
@@ -85,7 +85,7 @@
             "name": "Bruno E Xavier",
             "color": "#2424A3",
             "link": "https://csbiology.org/team/BrunoXavier",
-            "photo": "logo.jpeg",
+            "photo": "logo.png",
             "status": "Former"
         },
         {
@@ -93,7 +93,7 @@
             "name": "Camilo Rebolledo",
             "color": "#350084",
             "link": "https://csbiology.org/team/CamiloRebolledo",
-            "photo": "logo.jpeg",
+            "photo": "logo.png",
             "status": "Former"
         },
         {
@@ -101,7 +101,7 @@
             "name": "Cesar Prada",
             "color": "#350085",
             "link": "https://csbiology.org/team/CesarPrada",
-            "photo": "CesarPrada.jfif",
+            "photo": "CesarPrada.png",
             "status": "Former"
         },
         {
@@ -109,7 +109,7 @@
             "name": "David F Cuellar",
             "color": "#350086",
             "link": "https://csbiology.org/team/DavidCuellar",
-            "photo": "DavidCuellar.jfif",
+            "photo": "DavidCuellar.png",
             "status": "Former"
         },
         {
@@ -117,7 +117,7 @@
             "name": "Diogenes Lima",
             "color": "#350087",
             "link": "https://csbiology.org/team/DiogenesLima",
-            "photo": "DiogenesLima.jpeg",
+            "photo": "DiogenesLima.png",
             "status": "Former"
         },
         {
@@ -125,7 +125,7 @@
             "name": "Diogo Matos",
             "color": "#010172",
             "link": "https://csbiology.org/team/DiogoMatos",
-            "photo": "DiogoMatos.jpg",
+            "photo": "DiogoMatos.png",
             "status": "Former"
         },
         {
@@ -133,7 +133,7 @@
             "name": "Fabio Pohl",
             "color": "#350072",
             "link": "https://csbiology.org/team/FabioPohl",
-            "photo": "FabioPohl.jpg",
+            "photo": "FabioPohl.png",
             "status": "Former"
         },
         {
@@ -141,7 +141,7 @@
             "name": "Felipe Martins",
             "color": "#31D8B8",
             "link": "https://csbiology.org/team/FelipeMartins",
-            "photo": "FelipeMartins.jpg",
+            "photo": "FelipeMartins.png",
             "status": "Former"
         },
         {
@@ -149,7 +149,7 @@
             "name": "Felipe ten Caten",
             "color": "#31D8B9",
             "link": "https://csbiology.org/team/FelipeCaten",
-            "photo": "FelipeCaten.jpeg",
+            "photo": "FelipeCaten.png",
             "status": "Current"
         },
         {
@@ -157,7 +157,7 @@
             "name": "Fernando Marcon",
             "color": "#350073",
             "link": "https://csbiology.org/team/FernandoMarcon",
-            "photo": "FernandoMarcon.jpg",
+            "photo": "FernandoMarcon.png",
             "status": "Former"
         },
         {
@@ -165,7 +165,7 @@
             "name": "Flavio Lichtenstein",
             "color": "#31D8B10",
             "link": "https://csbiology.org/team/FlavioLichtenstein",
-            "photo": "FlavioLichtenstein.jfif",
+            "photo": "FlavioLichtenstein.png",
             "status": "Former"
         },
         {
@@ -173,7 +173,7 @@
             "name": "Gabriel Amoroso de Castro",
             "color": "#2424A4",
             "link": "https://csbiology.org/team/GabrielCastro",
-            "photo": "logo.jpeg",
+            "photo": "logo.png",
             "status": "Current"
         },
         {
@@ -181,7 +181,7 @@
             "name": "Giovana Silva",
             "color": "#2424A5",
             "link": "https://csbiology.org/team/GiovanaSilva",
-            "photo": "GiovanaSilva.jfif",
+            "photo": "GiovanaSilva.png",
             "status": "Former"
         },
         {
@@ -189,7 +189,7 @@
             "name": "Gustavo R. Ferreira",
             "color": "#2424A6",
             "link": "https://csbiology.org/team/GustavoFerreira",
-            "photo": "GustavoFerreira.jfif",
+            "photo": "GustavoFerreira.png",
             "status": "Former"
         },
         {
@@ -197,20 +197,20 @@
             "name": "Helder Nakaya",
             "color": "#00E577",
             "link": "https://csbiology.org/team/HelderNakaya",
-            "photo": "HelderNakaya.jfif",
+            "photo": "HelderNakaya.png",
             "status": "Current"
         },
         {
             "id": 27,
             "name": "Heloisa de Lazari Bento",
             "color": "#2424A7",
-            "link": "https://csbiology.org/team/HeloisaBento",
-            "photo": "logo.jpeg",
+            "link": "https://csbiology.org/team/Helo\u00edsaBento",
+            "photo": "logo.png",
             "status": "Current"
         },
         {
             "id": 28,
-            "name": "\u00cdcaro Maia Santos de Castro",
+            "name": "Icaro Maia Santos de Castro",
             "color": "#350088",
             "link": "https://csbiology.org/team/IcaroCastro",
             "photo": "IcaroCastro.png",
@@ -226,10 +226,10 @@
         },
         {
             "id": 30,
-            "name": "Izabela Mamede Costa Andrade da Conceicao",
+            "name": "Izabela Mamede Costa Andrade da Concei\u00e7\u00e3o",
             "color": "#1F77AD",
             "link": "https://csbiology.org/team/IzabelaMamede",
-            "photo": "IzabelaMamede.jpg",
+            "photo": "IzabelaMamede.png",
             "status": "Former"
         },
         {
@@ -237,7 +237,7 @@
             "name": "Jacqueline Silva",
             "color": "#010173",
             "link": "https://csbiology.org/team/JacquelineSilva",
-            "photo": "JacquelineSilva.jpg",
+            "photo": "JacquelineSilva.png",
             "status": "Current"
         },
         {
@@ -245,7 +245,7 @@
             "name": "Jaqueline Wang",
             "color": "#350074",
             "link": "https://csbiology.org/team/JaquelineWang",
-            "photo": "JaquelineWang.jfif",
+            "photo": "JaquelineWang.png",
             "status": "Former"
         },
         {
@@ -253,7 +253,7 @@
             "name": "Jeevan Giddaluru",
             "color": "#350089",
             "link": "https://csbiology.org/team/JeevanGiddaluru",
-            "photo": "JeevanGiddaluru.jpeg",
+            "photo": "JeevanGiddaluru.png",
             "status": "Current"
         },
         {
@@ -261,7 +261,7 @@
             "name": "Jeffersson Leandro Jimenez Restrepo",
             "color": "#350090",
             "link": "https://csbiology.org/team/JefferssonRestrepo",
-            "photo": "JefferssonRestrepo.jpg",
+            "photo": "JefferssonRestrepo.png",
             "status": "Current"
         },
         {
@@ -269,7 +269,7 @@
             "name": "Jimmy Hanyu",
             "color": "#2424A9",
             "link": "https://csbiology.org/team/JimmyHanyu",
-            "photo": "JimmyHanyu.jpg",
+            "photo": "JimmyHanyu.png",
             "status": "Current"
         },
         {
@@ -277,7 +277,7 @@
             "name": "Jose Deney Alves de Araujo",
             "color": "#350091",
             "link": "https://csbiology.org/team/JoseDeney",
-            "photo": "JoseDeney.jpeg",
+            "photo": "JoseDeney.png",
             "status": "Current"
         },
         {
@@ -285,7 +285,7 @@
             "name": "Juan Carlo Santos e Silva",
             "color": "#350092",
             "link": "https://csbiology.org/team/JuanCarlo",
-            "photo": "JuanCarlo.jpg",
+            "photo": "JuanCarlo.png",
             "status": "Current"
         },
         {
@@ -293,7 +293,7 @@
             "name": "Julia L. Romualdo",
             "color": "#2424A10",
             "link": "https://csbiology.org/team/JuliaRomualdo",
-            "photo": "JuliaRomualdo.jpg",
+            "photo": "JuliaRomualdo.png",
             "status": "Former"
         },
         {
@@ -301,7 +301,7 @@
             "name": "Juliana Yang",
             "color": "#2424A11",
             "link": "https://csbiology.org/team/JulianaYang",
-            "photo": "logo.jpeg",
+            "photo": "logo.png",
             "status": "Former"
         },
         {
@@ -317,7 +317,7 @@
             "name": "Leonardo R. Gama",
             "color": "#2424A12",
             "link": "https://csbiology.org/team/LeonardoGama",
-            "photo": "LeonardoGama.jpg",
+            "photo": "LeonardoGama.png",
             "status": "Former"
         },
         {
@@ -325,7 +325,7 @@
             "name": "Luana Barretos Domingos",
             "color": "#1F77AD",
             "link": "https://csbiology.org/team/LuanaDomingos",
-            "photo": "LuanaDomingos.jpg",
+            "photo": "LuanaDomingos.png",
             "status": "Former"
         },
         {
@@ -333,7 +333,7 @@
             "name": "Lucas Cardozo",
             "color": "#350075",
             "link": "https://csbiology.org/team/LucasCardozo",
-            "photo": "LucasCardozo.jfif",
+            "photo": "LucasCardozo.png",
             "status": "Former"
         },
         {
@@ -341,7 +341,7 @@
             "name": "Lucas Fleig",
             "color": "#010174",
             "link": "https://csbiology.org/team/LucasFleig",
-            "photo": "LucasFleig.jfif",
+            "photo": "LucasFleig.png",
             "status": "Former"
         },
         {
@@ -349,7 +349,7 @@
             "name": "Lucas Kaoru",
             "color": "#2424A13",
             "link": "https://csbiology.org/team/LucasKaoru",
-            "photo": "LucasKaoru.jpg",
+            "photo": "LucasKaoru.png",
             "status": "Former"
         },
         {
@@ -362,10 +362,10 @@
         },
         {
             "id": 48,
-            "name": "Luiz Fernando Cardoso dos Santos Dur\u00e3o",
+            "name": "Luiz Fernando Cardoso dos Santos Durao",
             "color": "#010175",
             "link": "https://csbiology.org/team/LuizDurao",
-            "photo": "LuizDurao.jpg",
+            "photo": "LuizDurao.png",
             "status": "Current"
         },
         {
@@ -373,7 +373,7 @@
             "name": "Maiara Prado",
             "color": "#2424A14",
             "link": "https://csbiology.org/team/MaiaraPrado",
-            "photo": "logo.jpeg",
+            "photo": "logo.png",
             "status": "Former"
         },
         {
@@ -381,7 +381,7 @@
             "name": "Manoela Gomes",
             "color": "#010176",
             "link": "https://csbiology.org/team/ManoelaGomes",
-            "photo": "ManoelaGomes.jpeg",
+            "photo": "ManoelaGomes.png",
             "status": "Current"
         },
         {
@@ -389,7 +389,7 @@
             "name": "Marcos Paulo",
             "color": "#11896C",
             "link": "https://csbiology.org/team/MarcosPaulo",
-            "photo": "logo.jpeg",
+            "photo": "logo.png",
             "status": "Current"
         },
         {
@@ -397,7 +397,7 @@
             "name": "Mariana A Pereira",
             "color": "#350076",
             "link": "https://csbiology.org/team/MarianaPereira",
-            "photo": "MarianaPereira.jpg",
+            "photo": "MarianaPereira.png",
             "status": "Former"
         },
         {
@@ -405,15 +405,15 @@
             "name": "Marielton Cunha",
             "color": "#31D8B11",
             "link": "https://csbiology.org/team/MarieltonCunha",
-            "photo": "MarieltonCunha.gif",
+            "photo": "MarieltonCunha.png",
             "status": "Former"
         },
         {
             "id": 54,
-            "name": "Matheus C Bucrger",
+            "name": "Matheus C Burger",
             "color": "#350077",
             "link": "https://csbiology.org/team/MatheusBurger",
-            "photo": "MatheusBurger.jfif",
+            "photo": "MatheusBurger.png",
             "status": "Former"
         },
         {
@@ -421,7 +421,7 @@
             "name": "Mauro Cesar Cafundo de Morais",
             "color": "#31D8B12",
             "link": "https://csbiology.org/team/MauroCafundo",
-            "photo": "MauroCafundo.jpg",
+            "photo": "MauroCafundo.png",
             "status": "Current"
         },
         {
@@ -429,7 +429,7 @@
             "name": "Melissa Lever",
             "color": "#31D8B13",
             "link": "https://csbiology.org/team/MelissaLever",
-            "photo": "MelissaLever.jpg",
+            "photo": "MelissaLever.png",
             "status": "Former"
         },
         {
@@ -437,7 +437,7 @@
             "name": "Mindy Munoz",
             "color": "#350093",
             "link": "https://csbiology.org/team/MindyMunoz",
-            "photo": "MindyMunoz.jpg",
+            "photo": "MindyMunoz.png",
             "status": "Former"
         },
         {
@@ -445,7 +445,7 @@
             "name": "Natalia Cruz",
             "color": "#350078",
             "link": "https://csbiology.org/team/NataliaCruz",
-            "photo": "logo.jpeg",
+            "photo": "logo.png",
             "status": "Former"
         },
         {
@@ -453,7 +453,7 @@
             "name": "Patricia Conceicao Gonzalez Dias Carvalho",
             "color": "#350094",
             "link": "https://csbiology.org/team/PatriciaCarvalho",
-            "photo": "PatriciaCarvalho.jpg",
+            "photo": "PatriciaCarvalho.png",
             "status": "Current"
         },
         {
@@ -461,7 +461,7 @@
             "name": "Paulo de Paiva Rosa Amaral",
             "color": "#31D8B14",
             "link": "https://csbiology.org/team/PauloAmaral",
-            "photo": "PauloAmaral.jpg",
+            "photo": "PauloAmaral.png",
             "status": "Current"
         },
         {
@@ -477,7 +477,7 @@
             "name": "Rachel Creighton",
             "color": "#350096",
             "link": "https://csbiology.org/team/RachelCreighton",
-            "photo": "RachelCreighton.jfif",
+            "photo": "RachelCreighton.png",
             "status": "Former"
         },
         {
@@ -485,7 +485,7 @@
             "name": "Roberto Lavor",
             "color": "#010171",
             "link": "https://csbiology.org/team/RobertoLavor",
-            "photo": "RobertoLavor.jpg",
+            "photo": "RobertoLavor.png",
             "status": "Current"
         },
         {
@@ -493,7 +493,7 @@
             "name": "Roberto Marcondes",
             "color": "#086197",
             "link": "https://csbiology.org/team/RobertoMarcondes",
-            "photo": "RobertoMarcondes.jpg",
+            "photo": "RobertoMarcondes.png",
             "status": "Current"
         },
         {
@@ -501,7 +501,7 @@
             "name": "Rodrigo Luiz Tomio Ogava",
             "color": "#010171",
             "link": "https://csbiology.org/team/RodrigoAquino",
-            "photo": "RodrigoAquino.jpeg",
+            "photo": "RodrigoAquino.png",
             "status": "Current"
         },
         {
@@ -517,7 +517,7 @@
             "name": "Ronaldo Silva",
             "color": "#350080",
             "link": "https://csbiology.org/team/RonaldoSilva",
-            "photo": "RonaldoSilva.jpg",
+            "photo": "RonaldoSilva.png",
             "status": "Former"
         },
         {
@@ -525,7 +525,7 @@
             "name": "Sara Sorgi",
             "color": "#350097",
             "link": "https://csbiology.org/team/SaraSorgi",
-            "photo": "SaraSorgi.jfif",
+            "photo": "SaraSorgi.png",
             "status": "Former"
         },
         {
@@ -533,7 +533,7 @@
             "name": "Stella Francy",
             "color": "#2424A15",
             "link": "https://csbiology.org/team/StellaFrancy",
-            "photo": "StellaFrancy.jfif",
+            "photo": "StellaFrancy.png",
             "status": "Former"
         },
         {
@@ -541,7 +541,7 @@
             "name": "Thiago Dominguez Crespo Hirata",
             "color": "#31D8B15",
             "link": "https://csbiology.org/team/ThiagoHirata",
-            "photo": "ThiagoHirata.jpg",
+            "photo": "ThiagoHirata.png",
             "status": "Current"
         },
         {
@@ -549,7 +549,7 @@
             "name": "Thomaz Luscher Dias",
             "color": "#31D8B16",
             "link": "https://csbiology.org/team/ThomazLuscher",
-            "photo": "ThomazLuscher.jpg",
+            "photo": "ThomazLuscher.png",
             "status": "Current"
         },
         {
@@ -557,7 +557,7 @@
             "name": "Tiago Lubiana",
             "color": "#350098",
             "link": "https://csbiology.org/team/TiagoLubiana",
-            "photo": "TiagoLubiana.jpeg",
+            "photo": "TiagoLubiana.png",
             "status": "Current"
         },
         {
@@ -565,7 +565,7 @@
             "name": "Vanessa Escolano Maso",
             "color": "#350099",
             "link": "https://csbiology.org/team/VanessaEscolano",
-            "photo": "VanessaEscolano.jpeg",
+            "photo": "VanessaEscolano.png",
             "status": "Current"
         },
         {
@@ -581,7 +581,7 @@
             "name": "Vitor Felix",
             "color": "#010177",
             "link": "https://csbiology.org/team/VitorFelix",
-            "photo": "VitorFelix.jfif",
+            "photo": "VitorFelix.png",
             "status": "Current"
         },
         {
@@ -589,7 +589,7 @@
             "name": "Viviane Schuch",
             "color": "#31D8B17",
             "link": "https://csbiology.org/team/VivianeSchuch",
-            "photo": "VivianeSchuch.jpeg",
+            "photo": "VivianeSchuch.png",
             "status": "Current"
         },
         {
@@ -597,7 +597,7 @@
             "name": "Youvika Singh",
             "color": "#31D8B18",
             "link": "https://csbiology.org/team/YouvikaSingh",
-            "photo": "YouvikaSingh.jpg",
+            "photo": "YouvikaSingh.png",
             "status": "Current"
         },
         {
@@ -605,7 +605,7 @@
             "name": "CSBL",
             "color": "?",
             "link": "https://csbiology.org/",
-            "photo": "logo.jpeg",
+            "photo": "logo.png",
             "status": "?"
         },
         {
