@@ -177,7 +177,7 @@ function(error, graph) {
         .append("svg:image")
         .attr("xlink:href", function(d) {
             return (
-                "http://csbiology.com/wp-content/uploads/2019/09/hcabr" +
+                "https://ensinoai.com/csbl/fotos/" +
                 d.photo
             );
         })
