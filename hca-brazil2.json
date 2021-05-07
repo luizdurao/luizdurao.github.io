@@ -2,780 +2,768 @@
     "nodes": [
         {
             "id": 1,
-            "name": "Alessandro S Farias",
-            "color": "#82E6C9",
-            "link": "http://lattes.cnpq.br/2553642936891041",
-            "photo": "1.png",
+            "name": "Alan Barzilay",
+            "color": "#2424A0",
+            "link": "https://csbiology.org/team/AlanBarzilay",
+            "photo": "AlanBarzilay.jfif",
             "status": "Former"
         },
         {
             "id": 2,
-            "name": "Alexandre Bruni Cardoso",
-            "color": "#C082E6",
-            "link": "http://www.ecm-signaling.com/",
-            "photo": "2.png",
-            "status": "Former"
+            "name": "Allan Rodrigo Nascimento de Carvalho",
+            "color": "#010171",
+            "link": "https://csbiology.org/team/AllanCarvalho",
+            "photo": "AllanCarvalho.jpg",
+            "status": "Current"
         },
         {
             "id": 3,
-            "name": "Alexandre Chiavegatto Filho",
-            "color": "#C082E6",
-            "link": "https://sites.google.com/view/labdaps/p%C3%A1gina-inicial",
-            "photo": "3.png",
-            "status": "Former"
+            "name": "Alysson Henrique Urbanski",
+            "color": "#350082",
+            "link": "https://csbiology.org/team/AlyssonUrbanski",
+            "photo": "AlyssonUrbanski.jpg",
+            "status": "Current"
         },
         {
             "id": 4,
-            "name": "Ana Claudia",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/6265729565537987",
-            "photo": "4.png",
-            "status": "Former"
+            "name": "Amanda Pereira Vasconcelos",
+            "color": "#350083",
+            "link": "https://csbiology.org/team/AmandaVasconcelos",
+            "photo": "AmandaVasconcelos.jpg",
+            "status": "Current"
         },
         {
             "id": 5,
-            "name": "Ana Krepischi",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/9202788560457272",
-            "photo": "5.png",
+            "name": "Ana Orsi",
+            "color": "#2424A1",
+            "link": "https://csbiology.org/team/AnaOrsi",
+            "photo": "logo.jpeg",
             "status": "Former"
         },
         {
             "id": 6,
-            "name": "Ana Marisa Chudzinski Tavassi",
-            "color": "#91E682",
-            "link": "http://lattes.cnpq.br/6899353560628046",
-            "photo": "6.png",
-            "status": "Former"
+            "name": "Andre Guilherme da Costa Martins",
+            "color": "#31D8B5",
+            "link": "https://csbiology.org/team/AndreMartins",
+            "photo": "AndreMartins.jpeg",
+            "status": "Current"
         },
         {
             "id": 7,
-            "name": "Andre Fujita",
-            "color": "#C082E6",
-            "link": "https://www.ime.usp.br/~fujita/",
-            "photo": "7.png",
-            "status": "Former"
+            "name": "Andr\u00e9 Nicolau Aquime Gon\u00e7alves",
+            "color": "#31D8B6",
+            "link": "https://csbiology.org/team/AndreNicolau",
+            "photo": "AndreNicolau.jpeg",
+            "status": "Current"
         },
         {
             "id": 8,
-            "name": "Benilton de Sa Carvalho",
-            "color": "#82E6C9",
-            "link": "http://lattes.cnpq.br/0897291971174045",
-            "photo": "8.png",
+            "name": "Andre Vicioli",
+            "color": "#2424A2",
+            "link": "https://csbiology.org/team/AndrePina",
+            "photo": "AndrePina.jfif",
             "status": "Former"
         },
         {
             "id": 9,
-            "name": "Carla Rosenberg",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/8046043341509137",
-            "photo": "9.png",
-            "status": "Former"
+            "name": "Antonio Edson Rocha Oliveira",
+            "color": "#31D8B7",
+            "link": "https://csbiology.org/team/AntonioOliveira",
+            "photo": "AntonioOliveira.jpeg",
+            "status": "Current"
         },
         {
             "id": 10,
-            "name": "Celia Garcia",
-            "color": "#C082E6",
-            "link": "http://www.usp.br/garciamalarialab/",
-            "photo": "10.png",
+            "name": "Bruna Garbes Gon\u00e7alves Pinto",
+            "color": "#350071",
+            "link": "https://csbiology.org/team/BrunaGarbes",
+            "photo": "BrunaGarbes.jpeg",
             "status": "Former"
         },
         {
             "id": 11,
-            "name": "Celia Priszkulnik Koiffmann",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/2529689139869418",
-            "photo": "11.png",
+            "name": "Bruno E Xavier",
+            "color": "#2424A3",
+            "link": "https://csbiology.org/team/BrunoXavier",
+            "photo": "logo.jpeg",
             "status": "Former"
         },
         {
             "id": 12,
-            "name": "Daniel Martins-de-Souza",
-            "color": "#82E6C9",
-            "link": "http://lattes.cnpq.br/3326522478832809",
-            "photo": "12.png",
+            "name": "Camilo Rebolledo",
+            "color": "#350084",
+            "link": "https://csbiology.org/team/CamiloRebolledo",
+            "photo": "logo.jpeg",
             "status": "Former"
         },
         {
             "id": 13,
-            "name": "Daniela Basseres",
-            "color": "#C082E6",
-            "link": "http://lapic.iq.usp.br/en/",
-            "photo": "13.png",
+            "name": "Cesar Prada",
+            "color": "#350085",
+            "link": "https://csbiology.org/team/CesarPrada",
+            "photo": "CesarPrada.jfif",
             "status": "Former"
         },
         {
             "id": 14,
-            "name": "Deborah Schechtman",
-            "color": "#C082E6",
-            "link": "http://lapic.iq.usp.br/en/",
-            "photo": "14.png",
+            "name": "David F Cuellar",
+            "color": "#350086",
+            "link": "https://csbiology.org/team/DavidCuellar",
+            "photo": "DavidCuellar.jfif",
             "status": "Former"
         },
         {
             "id": 15,
-            "name": "Edecio Cunha",
-            "color": "#C082E6",
-            "link": "http://www.incor.usp.br/imunologia/",
-            "photo": "15.png",
+            "name": "Diogenes Lima",
+            "color": "#350087",
+            "link": "https://csbiology.org/team/DiogenesLima",
+            "photo": "DiogenesLima.jpeg",
             "status": "Former"
         },
         {
             "id": 16,
-            "name": "Eduardo Lani Volpe da Silveira",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/8350231821881891",
-            "photo": "16.png",
+            "name": "Diogo Matos",
+            "color": "#010172",
+            "link": "https://csbiology.org/team/DiogoMatos",
+            "photo": "DiogoMatos.jpg",
             "status": "Former"
         },
         {
             "id": 17,
-            "name": "Eduardo Reis",
-            "color": "#C082E6",
-            "link": "http://lapic.iq.usp.br/en/",
-            "photo": "17.png",
+            "name": "Fabio Pohl",
+            "color": "#350072",
+            "link": "https://csbiology.org/team/FabioPohl",
+            "photo": "FabioPohl.jpg",
             "status": "Former"
         },
         {
             "id": 18,
-            "name": "Emmanuel Dias Neto",
-            "color": "#828EE6",
-            "link": "http://lattes.cnpq.br/0278717765065500",
-            "photo": "18.png",
+            "name": "Felipe Martins",
+            "color": "#31D8B8",
+            "link": "https://csbiology.org/team/FelipeMartins",
+            "photo": "FelipeMartins.jpg",
             "status": "Former"
         },
         {
             "id": 19,
-            "name": "Esper Kallas",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/0583426620456900",
-            "photo": "19.png",
-            "status": "Former"
+            "name": "Felipe ten Caten",
+            "color": "#31D8B9",
+            "link": "https://csbiology.org/team/FelipeCaten",
+            "photo": "FelipeCaten.jpeg",
+            "status": "Current"
         },
         {
             "id": 20,
-            "name": "Ester Sabino",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/8590492866942091",
-            "photo": "20.png",
+            "name": "Fernando Marcon",
+            "color": "#350073",
+            "link": "https://csbiology.org/team/FernandoMarcon",
+            "photo": "FernandoMarcon.jpg",
             "status": "Former"
         },
         {
             "id": 21,
-            "name": "Fabio Costa",
-            "color": "#82E6C9",
-            "link": "http://lattes.cnpq.br/6591054979909368",
-            "photo": "21.png",
+            "name": "Flavio Lichtenstein",
+            "color": "#31D8B10",
+            "link": "https://csbiology.org/team/FlavioLichtenstein",
+            "photo": "FlavioLichtenstein.jfif",
             "status": "Former"
         },
         {
             "id": 22,
-            "name": "Fernando Cunha",
-            "color": "#C082E6",
-            "link": "http://cepid.fapesp.br/en/centro/20/",
-            "photo": "22.png",
-            "status": "Former"
+            "name": "Gabriel Amoroso de Castro",
+            "color": "#2424A4",
+            "link": "https://csbiology.org/team/GabrielCastro",
+            "photo": "logo.jpeg",
+            "status": "Current"
         },
         {
             "id": 23,
-            "name": "Giuseppe Palmisano",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/7279925544830340",
-            "photo": "23.png",
-            "status": "Former"
-        },
-        {
-            "id": 24,
-            "name": "Helena Brentani",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/4585253466628293",
-            "photo": "24.png",
+            "name": "Giovana Silva",
+            "color": "#2424A5",
+            "link": "https://csbiology.org/team/GiovanaSilva",
+            "photo": "GiovanaSilva.jfif",
             "status": "Former"
         },
         {
             "id": 25,
-            "name": "Jean Pierre Schatzmann Peron",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/8556721425351491",
-            "photo": "25.png",
+            "name": "Gustavo R. Ferreira",
+            "color": "#2424A6",
+            "link": "https://csbiology.org/team/GustavoFerreira",
+            "photo": "GustavoFerreira.jfif",
             "status": "Former"
         },
         {
             "id": 26,
-            "name": "Joao Carlos Setubal",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/0527652166877006",
-            "photo": "26.png",
-            "status": "Former"
+            "name": "Helder Nakaya",
+            "color": "#00E577",
+            "link": "https://csbiology.org/team/HelderNakaya",
+            "photo": "HelderNakaya.jfif",
+            "status": "Current"
         },
         {
             "id": 27,
-            "name": "Joao Santana",
-            "color": "#91E682",
-            "link": "http://lattes.cnpq.br/1551316349134426",
-            "photo": "27.png",
-            "status": "Former"
+            "name": "Heloisa de Lazari Bento",
+            "color": "#2424A7",
+            "link": "https://csbiology.org/team/HeloisaBento",
+            "photo": "logo.jpeg",
+            "status": "Current"
         },
         {
             "id": 28,
-            "name": "Jorge Kalil",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/4720283421615359",
-            "photo": "28.png",
-            "status": "Former"
+            "name": "\u00cdcaro Maia Santos de Castro",
+            "color": "#350088",
+            "link": "https://csbiology.org/team/IcaroCastro",
+            "photo": "IcaroCastro.png",
+            "status": "Current"
         },
         {
             "id": 29,
-            "name": "Jose Luiz Proenca Modena",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/5935921596694874",
-            "photo": "29.png",
+            "name": "Isabelle Moscardini",
+            "color": "#2424A8",
+            "link": "https://csbiology.org/team/IsabelleMoscardini",
+            "photo": "IsabelleMoscardini.png",
             "status": "Former"
         },
         {
             "id": 30,
-            "name": "Karina Bortoluci",
-            "color": "#E6C882",
-            "link": "http://lattes.cnpq.br/0159648961678651",
-            "photo": "30.png",
+            "name": "Izabela Mamede Costa Andrade da Conceicao",
+            "color": "#1F77AD",
+            "link": "https://csbiology.org/team/IzabelaMamede",
+            "photo": "IzabelaMamede.jpg",
             "status": "Former"
         },
         {
             "id": 31,
-            "name": "Keith Okamoto",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/6200322566506704",
-            "photo": "31.png",
-            "status": "Former"
+            "name": "Jacqueline Silva",
+            "color": "#010173",
+            "link": "https://csbiology.org/team/JacquelineSilva",
+            "photo": "JacquelineSilva.jpg",
+            "status": "Current"
         },
         {
             "id": 33,
-            "name": "Lucas Souza",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/7170001355062603",
-            "photo": "33.png",
+            "name": "Jaqueline Wang",
+            "color": "#350074",
+            "link": "https://csbiology.org/team/JaquelineWang",
+            "photo": "JaquelineWang.jfif",
             "status": "Former"
         },
         {
             "id": 34,
-            "name": "Luciana Leite",
-            "color": "#91E682",
-            "link": "http://lattes.cnpq.br/8833338702482722",
-            "photo": "34.png",
-            "status": "Former"
+            "name": "Jeevan Giddaluru",
+            "color": "#350089",
+            "link": "https://csbiology.org/team/JeevanGiddaluru",
+            "photo": "JeevanGiddaluru.jpeg",
+            "status": "Current"
         },
         {
             "id": 35,
-            "name": "Lucio Freitas",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/2136191319465692",
-            "photo": "35.png",
-            "status": "?"
+            "name": "Jeffersson Leandro Jimenez Restrepo",
+            "color": "#350090",
+            "link": "https://csbiology.org/team/JefferssonRestrepo",
+            "photo": "JefferssonRestrepo.jpg",
+            "status": "Current"
         },
         {
             "id": 36,
-            "name": "Luis Carlos",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/7408984376493963",
-            "photo": "36.png",
-            "status": "?"
+            "name": "Jimmy Hanyu",
+            "color": "#2424A9",
+            "link": "https://csbiology.org/team/JimmyHanyu",
+            "photo": "JimmyHanyu.jpg",
+            "status": "Current"
         },
         {
             "id": 37,
-            "name": "Lygia V. Pereira",
-            "color": "#C082E6",
-            "link": "http://biologia.ib.usp.br/lance/index.php",
-            "photo": "37.png",
-            "status": "?"
+            "name": "Jose Deney Alves de Araujo",
+            "color": "#350091",
+            "link": "https://csbiology.org/team/JoseDeney",
+            "photo": "JoseDeney.jpeg",
+            "status": "Current"
         },
         {
             "id": 38,
-            "name": "Marcelo Mori",
-            "color": "#82E6C9",
-            "link": "https://www.ocrc.org.br/",
-            "photo": "38.png",
-            "status": "?"
+            "name": "Juan Carlo Santos e Silva",
+            "color": "#350092",
+            "link": "https://csbiology.org/team/JuanCarlo",
+            "photo": "JuanCarlo.jpg",
+            "status": "Current"
         },
         {
             "id": 39,
-            "name": "Marco Aurelio Ramirez Vinolo",
-            "color": "#82E6C9",
-            "link": "http://lattes.cnpq.br/6165339279159262",
-            "photo": "39.png",
-            "status": "?"
+            "name": "Julia L. Romualdo",
+            "color": "#2424A10",
+            "link": "https://csbiology.org/team/JuliaRomualdo",
+            "photo": "JuliaRomualdo.jpg",
+            "status": "Former"
         },
         {
             "id": 40,
-            "name": "Maria Rita dos Santos e Passos-Bueno",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/4063718580685742",
-            "photo": "40.png",
-            "status": "?"
+            "name": "Juliana Yang",
+            "color": "#2424A11",
+            "link": "https://csbiology.org/team/JulianaYang",
+            "photo": "logo.jpeg",
+            "status": "Former"
         },
         {
             "id": 41,
-            "name": "Marilene H. Lopes",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/4085502364048357",
-            "photo": "41.png",
-            "status": "?"
+            "name": "Leandro Yukio Mano Alves",
+            "color": "#086197",
+            "link": "https://csbiology.org/team/LeandroYukio",
+            "photo": "LeandroYukio.png",
+            "status": "Current"
         },
         {
             "id": 42,
-            "name": "Mario Hirata",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/8551642748793896",
-            "photo": "42.png",
-            "status": "?"
+            "name": "Leonardo R. Gama",
+            "color": "#2424A12",
+            "link": "https://csbiology.org/team/LeonardoGama",
+            "photo": "LeonardoGama.jpg",
+            "status": "Former"
         },
         {
             "id": 43,
-            "name": "Mariz Vainzof",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/2151728380413759",
-            "photo": "43.png",
-            "status": "?"
+            "name": "Luana Barretos Domingos",
+            "color": "#1F77AD",
+            "link": "https://csbiology.org/team/LuanaDomingos",
+            "photo": "LuanaDomingos.jpg",
+            "status": "Former"
         },
         {
             "id": 44,
-            "name": "Mayana Zatz",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/2454447846752426",
-            "photo": "44.png",
-            "status": "?"
+            "name": "Lucas Cardozo",
+            "color": "#350075",
+            "link": "https://csbiology.org/team/LucasCardozo",
+            "photo": "LucasCardozo.jfif",
+            "status": "Former"
         },
         {
             "id": 45,
-            "name": "Michel Naslavsky",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/5084104783599564",
-            "photo": "45.png",
-            "status": "?"
+            "name": "Lucas Fleig",
+            "color": "#010174",
+            "link": "https://csbiology.org/team/LucasFleig",
+            "photo": "LucasFleig.jfif",
+            "status": "Former"
         },
         {
             "id": 46,
-            "name": "Milton Yutaka Nishiyama Junior",
-            "color": "#91E682",
-            "link": "http://lattes.cnpq.br/2462633063143454",
-            "photo": "46.png",
-            "status": "?"
+            "name": "Lucas Kaoru",
+            "color": "#2424A13",
+            "link": "https://csbiology.org/team/LucasKaoru",
+            "photo": "LucasKaoru.jpg",
+            "status": "Former"
         },
         {
             "id": 47,
-            "name": "Murilo Vieira Geraldo",
-            "color": "#82E6C9",
-            "link": "http://lattes.cnpq.br/7450532814515185",
-            "photo": "47.png",
-            "status": "?"
+            "name": "Luciana Costa",
+            "color": "#11896C",
+            "link": "https://csbiology.org/team/LucianaCosta",
+            "photo": "LucianaCosta.png",
+            "status": "Current"
         },
         {
             "id": 48,
-            "name": "Neuza Mariko A. Hassimotto",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/5055687282141055",
-            "photo": "48.png",
-            "status": "?"
+            "name": "Luiz Fernando Cardoso dos Santos Dur\u00e3o",
+            "color": "#010175",
+            "link": "https://csbiology.org/team/LuizDurao",
+            "photo": "LuizDurao.jpg",
+            "status": "Current"
         },
         {
             "id": 49,
-            "name": "Niels Olsen Saraiva Camara",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/8098379714093877",
-            "photo": "49.png",
-            "status": "?"
+            "name": "Maiara Prado",
+            "color": "#2424A14",
+            "link": "https://csbiology.org/team/MaiaraPrado",
+            "photo": "logo.jpeg",
+            "status": "Former"
         },
         {
             "id": 50,
-            "name": "Paola Minoprio",
-            "color": "#91E682",
-            "link": "http://lattes.cnpq.br/2831829315183620",
-            "photo": "50.png",
-            "status": "?"
+            "name": "Manoela Gomes",
+            "color": "#010176",
+            "link": "https://csbiology.org/team/ManoelaGomes",
+            "photo": "ManoelaGomes.jpeg",
+            "status": "Current"
         },
         {
             "id": 51,
-            "name": "Patricia Braga",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/3122212287500803",
-            "photo": "51.png",
-            "status": "?"
+            "name": "Marcos Paulo",
+            "color": "#11896C",
+            "link": "https://csbiology.org/team/MarcosPaulo",
+            "photo": "logo.jpeg",
+            "status": "Current"
         },
         {
             "id": 52,
-            "name": "Patricia Severino",
-            "color": "#828EE6",
-            "link": "http://lattes.cnpq.br/3451134794633517",
-            "photo": "52.png",
-            "status": "?"
+            "name": "Mariana A Pereira",
+            "color": "#350076",
+            "link": "https://csbiology.org/team/MarianaPereira",
+            "photo": "MarianaPereira.jpg",
+            "status": "Former"
         },
         {
             "id": 53,
-            "name": "Pedro A F Galante",
-            "color": "#828EE6",
-            "link": "https://www.bioinfo.mochsl.org.br/",
-            "photo": "53.png",
-            "status": "?"
+            "name": "Marielton Cunha",
+            "color": "#31D8B11",
+            "link": "https://csbiology.org/team/MarieltonCunha",
+            "photo": "MarieltonCunha.gif",
+            "status": "Former"
         },
         {
             "id": 54,
-            "name": "Pedro Manoel Mendes de Moraes Vieira",
-            "color": "#82E6C9",
-            "link": "http://lattes.cnpq.br/6667440528985761",
-            "photo": "54.png",
-            "status": "?"
+            "name": "Matheus C Bucrger",
+            "color": "#350077",
+            "link": "https://csbiology.org/team/MatheusBurger",
+            "photo": "MatheusBurger.jfif",
+            "status": "Former"
         },
         {
             "id": 55,
-            "name": "Regina Celia Mingroni Netto",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/9574793532076058",
-            "photo": "55.png",
-            "status": "?"
+            "name": "Mauro Cesar Cafundo de Morais",
+            "color": "#31D8B12",
+            "link": "https://csbiology.org/team/MauroCafundo",
+            "photo": "MauroCafundo.jpg",
+            "status": "Current"
         },
         {
             "id": 56,
-            "name": "Rita Tostes",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/3151839347265148",
-            "photo": "56.png",
-            "status": "?"
+            "name": "Melissa Lever",
+            "color": "#31D8B13",
+            "link": "https://csbiology.org/team/MelissaLever",
+            "photo": "MelissaLever.jpg",
+            "status": "Former"
         },
         {
             "id": 57,
-            "name": "Roger Chammas",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/6888998874990744",
-            "photo": "57.png",
-            "status": "?"
+            "name": "Mindy Munoz",
+            "color": "#350093",
+            "link": "https://csbiology.org/team/MindyMunoz",
+            "photo": "MindyMunoz.jpg",
+            "status": "Former"
         },
         {
             "id": 58,
-            "name": "Sayuri Miyamoto",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/4430532090643829",
-            "photo": "58.png",
-            "status": "?"
+            "name": "Natalia Cruz",
+            "color": "#350078",
+            "link": "https://csbiology.org/team/NataliaCruz",
+            "photo": "logo.jpeg",
+            "status": "Former"
         },
         {
             "id": 59,
-            "name": "Sergio Schenkman",
-            "color": "#E6C882",
-            "link": "https://sergioschenkman.wixsite.com/schenkmanlab",
-            "photo": "59.png",
-            "status": "?"
+            "name": "Patricia Conceicao Gonzalez Dias Carvalho",
+            "color": "#350094",
+            "link": "https://csbiology.org/team/PatriciaCarvalho",
+            "photo": "PatriciaCarvalho.jpg",
+            "status": "Current"
         },
         {
             "id": 60,
-            "name": "Sergio Verjovski-Almeida",
-            "color": "#91E682",
-            "link": "http://www.iq.usp.br/verjo/index.html",
-            "photo": "60.png",
-            "status": "?"
+            "name": "Paulo de Paiva Rosa Amaral",
+            "color": "#31D8B14",
+            "link": "https://csbiology.org/team/PauloAmaral",
+            "photo": "PauloAmaral.jpg",
+            "status": "Current"
         },
         {
             "id": 61,
-            "name": "Silvya Stuchi Maria-Engler",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/5532816581852742",
-            "photo": "61.png",
-            "status": "?"
+            "name": "Pedro Russo",
+            "color": "#350095",
+            "link": "https://csbiology.org/team/PedroRusso",
+            "photo": "PedroRusso.png",
+            "status": "Former"
         },
         {
             "id": 62,
-            "name": "Thiago Cunha",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/0585283327853481",
-            "photo": "62.png",
-            "status": "?"
+            "name": "Rachel Creighton",
+            "color": "#350096",
+            "link": "https://csbiology.org/team/RachelCreighton",
+            "photo": "RachelCreighton.jfif",
+            "status": "Former"
         },
         {
             "id": 64,
-            "name": "Wilson Silva Junior",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/8655277884027052",
-            "photo": "64.png",
-            "status": "?"
+            "name": "Roberto Lavor",
+            "color": "#010171",
+            "link": "https://csbiology.org/team/RobertoLavor",
+            "photo": "RobertoLavor.jpg",
+            "status": "Current"
         },
         {
             "id": 65,
-            "name": "Jose Carlos Alves Filho",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/1316491658346452",
-            "photo": "65.png",
-            "status": "?"
+            "name": "Roberto Marcondes",
+            "color": "#086197",
+            "link": "https://csbiology.org/team/RobertoMarcondes",
+            "photo": "RobertoMarcondes.jpg",
+            "status": "Current"
         },
         {
             "id": 67,
-            "name": "Alan Durham",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/1927611801056285",
-            "photo": "67.png",
-            "status": "?"
+            "name": "Rodrigo Luiz Tomio Ogava",
+            "color": "#010171",
+            "link": "https://csbiology.org/team/RodrigoAquino",
+            "photo": "RodrigoAquino.jpeg",
+            "status": "Current"
         },
         {
             "id": 68,
-            "name": "Ana Paula Lepique",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/0808439926941946",
-            "photo": "68.png",
-            "status": "?"
+            "name": "Rodrigo Monteiro de Aquino",
+            "color": "#350079",
+            "link": "https://csbiology.org/team/RodrigoOgava",
+            "photo": "RodrigoOgava.png",
+            "status": "Current"
         },
         {
             "id": 69,
-            "name": "Anamaria Aranha Camargo",
-            "color": "#828EE6",
-            "link": "http://lattes.cnpq.br/7884742100487918",
-            "photo": "69.png",
-            "status": "?"
+            "name": "Ronaldo Silva",
+            "color": "#350080",
+            "link": "https://csbiology.org/team/RonaldoSilva",
+            "photo": "RonaldoSilva.jpg",
+            "status": "Former"
         },
         {
             "id": 70,
-            "name": "Anatoly Yambartsev",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/1874644681647792",
-            "photo": "70.png",
-            "status": "?"
+            "name": "Sara Sorgi",
+            "color": "#350097",
+            "link": "https://csbiology.org/team/SaraSorgi",
+            "photo": "SaraSorgi.jfif",
+            "status": "Former"
         },
         {
             "id": 71,
-            "name": "Dario Sim\u00f5es Zamboni",
-            "color": "#C082E6",
-            "link": "https://lpm.fmrp.usp.br/en/",
-            "photo": "71.png",
-            "status": "?"
+            "name": "Stella Francy",
+            "color": "#2424A15",
+            "link": "https://csbiology.org/team/StellaFrancy",
+            "photo": "StellaFrancy.jfif",
+            "status": "Former"
         },
         {
             "id": 72,
-            "name": "Edison Durigon",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/0942014519604427",
-            "photo": "72.png",
-            "status": "?"
+            "name": "Thiago Dominguez Crespo Hirata",
+            "color": "#31D8B15",
+            "link": "https://csbiology.org/team/ThiagoHirata",
+            "photo": "ThiagoHirata.jpg",
+            "status": "Current"
         },
         {
             "id": 73,
-            "name": "Eduardo Krieger",
-            "color": "#C082E6",
-            "link": "https://genetica.incor.usp.br/",
-            "photo": "73.png",
-            "status": "?"
+            "name": "Thomaz Luscher Dias",
+            "color": "#31D8B16",
+            "link": "https://csbiology.org/team/ThomazLuscher",
+            "photo": "ThomazLuscher.jpg",
+            "status": "Current"
         },
         {
             "id": 75,
-            "name": "Gustavo Amarante Mendes",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/3033400086575581",
-            "photo": "75.png",
-            "status": "?"
+            "name": "Tiago Lubiana",
+            "color": "#350098",
+            "link": "https://csbiology.org/team/TiagoLubiana",
+            "photo": "TiagoLubiana.jpeg",
+            "status": "Current"
         },
         {
             "id": 77,
-            "name": "Iscia Cendes",
-            "color": "#82E6C9",
-            "link": "https://www.fcm.unicamp.br/fcm/en/en/molecular-genetics-laboratory",
-            "photo": "77.png",
-            "status": "?"
+            "name": "Vanessa Escolano Maso",
+            "color": "#350099",
+            "link": "https://csbiology.org/team/VanessaEscolano",
+            "photo": "VanessaEscolano.jpeg",
+            "status": "Current"
         },
         {
             "id": 79,
-            "name": "Luciano Costa",
-            "color": "#C082E6",
-            "link": "http://cyvision.ifsc.usp.br/cyvision/home.php",
-            "photo": "79.png",
-            "status": "?"
+            "name": "Vitor Augusto Outi Crupe",
+            "color": "#350100",
+            "link": "https://csbiology.org/team/VitorCrupe",
+            "photo": "VitorCrupe.png",
+            "status": "Current"
         },
         {
             "id": 81,
-            "name": "Paulo A Lotufo",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/6689535213333940",
-            "photo": "81.png",
-            "status": "?"
+            "name": "Vitor Felix",
+            "color": "#010177",
+            "link": "https://csbiology.org/team/VitorFelix",
+            "photo": "VitorFelix.jfif",
+            "status": "Current"
         },
         {
             "id": 82,
-            "name": "Paulo Louzada",
-            "color": "#C082E6",
-            "link": "http://cepid.fapesp.br/en/centro/20/",
-            "photo": "82.png",
-            "status": "?"
+            "name": "Viviane Schuch",
+            "color": "#31D8B17",
+            "link": "https://csbiology.org/team/VivianeSchuch",
+            "photo": "VivianeSchuch.jpeg",
+            "status": "Current"
         },
         {
             "id": 83,
-            "name": "Ronaldo Fumio Hashimoto",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/9283304583756076",
-            "photo": "83.png",
-            "status": "?"
+            "name": "Youvika Singh",
+            "color": "#31D8B18",
+            "link": "https://csbiology.org/team/YouvikaSingh",
+            "photo": "YouvikaSingh.jpg",
+            "status": "Current"
         },
         {
             "id": 84,
-            "name": "Sandra Farsky",
-            "color": "#C082E6",
-            "link": "http://lattes.cnpq.br/4280607371037073",
-            "photo": "84.png",
+            "name": "CSBL",
+            "color": "?",
+            "link": "https://csbiology.org/",
+            "photo": "logo.jpeg",
             "status": "?"
         },
         {
             "id": 85,
-            "name": "Helder Nakaya",
-            "color": "#C082E6",
-            "link": "http://csbiology.com",
-            "photo": "85.png",
+            "name": "Analyst",
+            "color": "#11896C",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
             "id": 86,
-            "name": "Immunology",
-            "color": "#82AEE6",
-            "link": "NA",
-            "photo": "0.png",
+            "name": "Collaborator",
+            "color": "#1F77AD",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
             "id": 87,
-            "name": "Bioinformatics",
-            "color": "#82E6CE",
-            "link": "NA",
-            "photo": "0.png",
+            "name": "Consultant",
+            "color": "#086197",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
             "id": 88,
-            "name": "Oncology",
-            "color": "#E6CF82",
-            "link": "NA",
-            "photo": "0.png",
+            "name": "Database",
+            "color": "#010171",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
             "id": 89,
-            "name": "Neuroscience",
-            "color": "#C4D4DE",
-            "link": "NA",
-            "photo": "0.png",
+            "name": "Designer",
+            "color": "#010171",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
             "id": 90,
-            "name": "Rheumatology",
-            "color": "#E5D338",
-            "link": "NA",
-            "photo": "0.png",
+            "name": "Developer",
+            "color": "#010178",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
             "id": 91,
-            "name": "Infectious diseases",
-            "color": "#E5385F",
-            "link": "NA",
-            "photo": "0.png",
+            "name": "Master",
+            "color": "#350081",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
             "id": 92,
-            "name": "Cell models",
-            "color": "#F1F16E",
-            "link": "NA",
-            "photo": "0.png",
+            "name": "PhD",
+            "color": "#350101",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
             "id": 93,
-            "name": "Genetics",
-            "color": "#C9ACE6",
-            "link": "NA",
-            "photo": "0.png",
-            "status": "?"
-        },
-        {
-            "id": 94,
-            "name": "Cardiovascular",
-            "color": "#E6ACE4",
-            "link": "NA",
-            "photo": "0.png",
+            "name": "PostDoc",
+            "color": "#31D8B19",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
             "id": 95,
-            "name": "Transcriptome",
-            "color": "#09B4F5",
-            "link": "NA",
-            "photo": "0.png",
+            "name": "PI",
+            "color": "?",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         },
         {
-            "id": 96,
-            "name": "Mass Spectrometry",
-            "color": "#79BE68",
-            "link": "NA",
-            "photo": "0.png",
-            "status": "?"
-        },
-        {
-            "id": 97,
-            "name": "Metabolism",
-            "color": "#975B0B",
-            "link": "NA",
-            "photo": "0.png",
-            "status": "?"
-        },
-        {
-            "id": 98,
-            "name": "Drug discovery",
-            "color": "#E8C0E4",
-            "link": "NA",
-            "photo": "0.png",
-            "status": "?"
-        },
-        {
-            "id": 100,
-            "name": "Human Cell Atlas",
-            "color": "#244ED5",
-            "link": "https://www.humancellatlas.org/",
-            "photo": "HCA.png",
+            "id": 94,
+            "name": "Undergraduate",
+            "color": "#2424A16",
+            "link": "?",
+            "photo": "?",
             "status": "?"
         }
     ],
     "links": [
         {
-            "source": 1,
+            "source": 47,
+            "target": 85
+        },
+        {
+            "source": 51,
+            "target": 85
+        },
+        {
+            "source": 30,
+            "target": 86
+        },
+        {
+            "source": 43,
+            "target": 86
+        },
+        {
+            "source": 41,
+            "target": 87
+        },
+        {
+            "source": 65,
+            "target": 87
+        },
+        {
+            "source": 64,
+            "target": 88
+        },
+        {
+            "source": 68,
+            "target": 88
+        },
+        {
+            "source": 2,
             "target": 89
+        },
+        {
+            "source": 16,
+            "target": 90
+        },
+        {
+            "source": 31,
+            "target": 90
+        },
+        {
+            "source": 45,
+            "target": 90
+        },
+        {
+            "source": 48,
+            "target": 90
+        },
+        {
+            "source": 50,
+            "target": 90
+        },
+        {
+            "source": 81,
+            "target": 90
         },
         {
             "source": 10,
             "target": 91
         },
         {
-            "source": 12,
-            "target": 89
-        },
-        {
-            "source": 13,
-            "target": 88
-        },
-        {
-            "source": 14,
-            "target": 88
-        },
-        {
-            "source": 15,
-            "target": 91
-        },
-        {
-            "source": 16,
-            "target": 86
-        },
-        {
             "source": 17,
-            "target": 88
-        },
-        {
-            "source": 18,
-            "target": 88
-        },
-        {
-            "source": 19,
             "target": 91
         },
         {
@@ -783,379 +771,35 @@
             "target": 91
         },
         {
-            "source": 21,
+            "source": 33,
             "target": 91
         },
         {
-            "source": 22,
-            "target": 90
-        },
-        {
-            "source": 24,
-            "target": 89
-        },
-        {
-            "source": 25,
-            "target": 86
-        },
-        {
-            "source": 25,
-            "target": 89
-        },
-        {
-            "source": 25,
+            "source": 44,
             "target": 91
         },
         {
-            "source": 26,
-            "target": 87
-        },
-        {
-            "source": 27,
-            "target": 86
-        },
-        {
-            "source": 27,
+            "source": 52,
             "target": 91
         },
         {
-            "source": 28,
-            "target": 86
+            "source": 54,
+            "target": 91
         },
         {
-            "source": 29,
+            "source": 58,
+            "target": 91
+        },
+        {
+            "source": 67,
+            "target": 91
+        },
+        {
+            "source": 69,
             "target": 91
         },
         {
             "source": 3,
-            "target": 87
-        },
-        {
-            "source": 30,
-            "target": 86
-        },
-        {
-            "source": 31,
-            "target": 88
-        },
-        {
-            "source": 34,
-            "target": 91
-        },
-        {
-            "source": 36,
-            "target": 86
-        },
-        {
-            "source": 44,
-            "target": 91
-        },
-        {
-            "source": 46,
-            "target": 87
-        },
-        {
-            "source": 47,
-            "target": 88
-        },
-        {
-            "source": 49,
-            "target": 90
-        },
-        {
-            "source": 50,
-            "target": 91
-        },
-        {
-            "source": 51,
-            "target": 89
-        },
-        {
-            "source": 52,
-            "target": 88
-        },
-        {
-            "source": 53,
-            "target": 87
-        },
-        {
-            "source": 54,
-            "target": 86
-        },
-        {
-            "source": 56,
-            "target": 90
-        },
-        {
-            "source": 57,
-            "target": 88
-        },
-        {
-            "source": 59,
-            "target": 91
-        },
-        {
-            "source": 60,
-            "target": 91
-        },
-        {
-            "source": 61,
-            "target": 88
-        },
-        {
-            "source": 62,
-            "target": 90
-        },
-        {
-            "source": 64,
-            "target": 87
-        },
-        {
-            "source": 64,
-            "target": 88
-        },
-        {
-            "source": 65,
-            "target": 90
-        },
-        {
-            "source": 67,
-            "target": 87
-        },
-        {
-            "source": 68,
-            "target": 86
-        },
-        {
-            "source": 68,
-            "target": 88
-        },
-        {
-            "source": 69,
-            "target": 88
-        },
-        {
-            "source": 7,
-            "target": 87
-        },
-        {
-            "source": 7,
-            "target": 89
-        },
-        {
-            "source": 70,
-            "target": 87
-        },
-        {
-            "source": 71,
-            "target": 86
-        },
-        {
-            "source": 71,
-            "target": 91
-        },
-        {
-            "source": 72,
-            "target": 91
-        },
-        {
-            "source": 75,
-            "target": 86
-        },
-        {
-            "source": 75,
-            "target": 88
-        },
-        {
-            "source": 79,
-            "target": 87
-        },
-        {
-            "source": 8,
-            "target": 87
-        },
-        {
-            "source": 82,
-            "target": 90
-        },
-        {
-            "source": 83,
-            "target": 87
-        },
-        {
-            "source": 84,
-            "target": 90
-        },
-        {
-            "source": 85,
-            "target": 86
-        },
-        {
-            "source": 85,
-            "target": 87
-        },
-        {
-            "source": 17,
-            "target": 95
-        },
-        {
-            "source": 38,
-            "target": 95
-        },
-        {
-            "source": 47,
-            "target": 95
-        },
-        {
-            "source": 53,
-            "target": 95
-        },
-        {
-            "source": 85,
-            "target": 95
-        },
-        {
-            "source": 15,
-            "target": 94
-        },
-        {
-            "source": 28,
-            "target": 94
-        },
-        {
-            "source": 42,
-            "target": 94
-        },
-        {
-            "source": 73,
-            "target": 94
-        },
-        {
-            "source": 81,
-            "target": 94
-        },
-        {
-            "source": 12,
-            "target": 96
-        },
-        {
-            "source": 23,
-            "target": 96
-        },
-        {
-            "source": 58,
-            "target": 96
-        },
-        {
-            "source": 85,
-            "target": 96
-        },
-        {
-            "source": 22,
-            "target": 98
-        },
-        {
-            "source": 35,
-            "target": 98
-        },
-        {
-            "source": 6,
-            "target": 98
-        },
-        {
-            "source": 62,
-            "target": 98
-        },
-        {
-            "source": 1,
-            "target": 97
-        },
-        {
-            "source": 39,
-            "target": 97
-        },
-        {
-            "source": 48,
-            "target": 97
-        },
-        {
-            "source": 49,
-            "target": 97
-        },
-        {
-            "source": 54,
-            "target": 97
-        },
-        {
-            "source": 56,
-            "target": 97
-        },
-        {
-            "source": 11,
-            "target": 93
-        },
-        {
-            "source": 24,
-            "target": 93
-        },
-        {
-            "source": 31,
-            "target": 93
-        },
-        {
-            "source": 40,
-            "target": 93
-        },
-        {
-            "source": 43,
-            "target": 93
-        },
-        {
-            "source": 44,
-            "target": 93
-        },
-        {
-            "source": 45,
-            "target": 93
-        },
-        {
-            "source": 5,
-            "target": 93
-        },
-        {
-            "source": 55,
-            "target": 93
-        },
-        {
-            "source": 73,
-            "target": 93
-        },
-        {
-            "source": 77,
-            "target": 93
-        },
-        {
-            "source": 8,
-            "target": 93
-        },
-        {
-            "source": 81,
-            "target": 93
-        },
-        {
-            "source": 9,
-            "target": 93
-        },
-        {
-            "source": 2,
-            "target": 92
-        },
-        {
-            "source": 33,
-            "target": 92
-        },
-        {
-            "source": 37,
             "target": 92
         },
         {
@@ -1163,11 +807,43 @@
             "target": 92
         },
         {
-            "source": 41,
+            "source": 13,
             "target": 92
         },
         {
-            "source": 51,
+            "source": 14,
+            "target": 92
+        },
+        {
+            "source": 15,
+            "target": 92
+        },
+        {
+            "source": 28,
+            "target": 92
+        },
+        {
+            "source": 34,
+            "target": 92
+        },
+        {
+            "source": 35,
+            "target": 92
+        },
+        {
+            "source": 37,
+            "target": 92
+        },
+        {
+            "source": 38,
+            "target": 92
+        },
+        {
+            "source": 57,
+            "target": 92
+        },
+        {
+            "source": 59,
             "target": 92
         },
         {
@@ -1175,56 +851,196 @@
             "target": 92
         },
         {
-            "source": 100,
-            "target": 86
-        },
-        {
-            "source": 100,
-            "target": 87
-        },
-        {
-            "source": 100,
-            "target": 88
-        },
-        {
-            "source": 100,
-            "target": 89
-        },
-        {
-            "source": 100,
-            "target": 90
-        },
-        {
-            "source": 100,
-            "target": 91
-        },
-        {
-            "source": 100,
+            "source": 75,
             "target": 92
         },
         {
-            "source": 100,
+            "source": 77,
+            "target": 92
+        },
+        {
+            "source": 79,
+            "target": 92
+        },
+        {
+            "source": 62,
+            "target": 92
+        },
+        {
+            "source": 70,
+            "target": 92
+        },
+        {
+            "source": 12,
+            "target": 92
+        },
+        {
+            "source": 6,
             "target": 93
         },
         {
-            "source": 100,
+            "source": 7,
+            "target": 93
+        },
+        {
+            "source": 9,
+            "target": 93
+        },
+        {
+            "source": 18,
+            "target": 93
+        },
+        {
+            "source": 19,
+            "target": 93
+        },
+        {
+            "source": 21,
+            "target": 93
+        },
+        {
+            "source": 53,
+            "target": 93
+        },
+        {
+            "source": 55,
+            "target": 93
+        },
+        {
+            "source": 56,
+            "target": 93
+        },
+        {
+            "source": 60,
+            "target": 93
+        },
+        {
+            "source": 72,
+            "target": 93
+        },
+        {
+            "source": 73,
+            "target": 93
+        },
+        {
+            "source": 82,
+            "target": 93
+        },
+        {
+            "source": 83,
+            "target": 93
+        },
+        {
+            "source": 1,
             "target": 94
         },
         {
-            "source": 100,
+            "source": 5,
+            "target": 94
+        },
+        {
+            "source": 8,
+            "target": 94
+        },
+        {
+            "source": 11,
+            "target": 94
+        },
+        {
+            "source": 23,
+            "target": 94
+        },
+        {
+            "source": 25,
+            "target": 94
+        },
+        {
+            "source": 29,
+            "target": 94
+        },
+        {
+            "source": 39,
+            "target": 94
+        },
+        {
+            "source": 40,
+            "target": 94
+        },
+        {
+            "source": 42,
+            "target": 94
+        },
+        {
+            "source": 46,
+            "target": 94
+        },
+        {
+            "source": 49,
+            "target": 94
+        },
+        {
+            "source": 71,
+            "target": 94
+        },
+        {
+            "source": 36,
+            "target": 94
+        },
+        {
+            "source": 27,
+            "target": 94
+        },
+        {
+            "source": 22,
+            "target": 94
+        },
+        {
+            "source": 26,
             "target": 95
         },
         {
-            "source": 100,
-            "target": 96
+            "source": 84,
+            "target": 85
         },
         {
-            "source": 100,
-            "target": 97
+            "source": 84,
+            "target": 86
         },
         {
-            "source": 100,
-            "target": 98
+            "source": 84,
+            "target": 87
+        },
+        {
+            "source": 84,
+            "target": 88
+        },
+        {
+            "source": 84,
+            "target": 89
+        },
+        {
+            "source": 84,
+            "target": 90
+        },
+        {
+            "source": 84,
+            "target": 91
+        },
+        {
+            "source": 84,
+            "target": 92
+        },
+        {
+            "source": 84,
+            "target": 93
+        },
+        {
+            "source": 84,
+            "target": 94
+        },
+        {
+            "source": 84,
+            "target": 95
         }
     ]
 }
