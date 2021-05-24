@@ -685,15 +685,6 @@
             "size": 40.0
         },
         {
-            "id": 86,
-            "name": "Collaborator",
-            "color": "rgb(229, 204, 255)",
-            "link": "",
-            "photo": "hcabr.png",
-            "status": "",
-            "size": 40.0
-        },
-        {
             "id": 87,
             "name": "Consultant",
             "color": "rgb(229, 204, 255)",
@@ -751,15 +742,6 @@
             "id": 93,
             "name": "PostDoc",
             "color": "rgb(255, 204, 204)",
-            "link": "",
-            "photo": "hcabr.png",
-            "status": "",
-            "size": 40.0
-        },
-        {
-            "id": 95,
-            "name": "PI",
-            "color": "rgb(229, 255, 204)",
             "link": "",
             "photo": "hcabr.png",
             "status": "",
@@ -871,10 +853,6 @@
         {
             "source": 25,
             "target": 94
-        },
-        {
-            "source": 26,
-            "target": 84
         },
         {
             "source": 27,
@@ -1107,6 +1085,10 @@
         {
             "source": 84,
             "target": 94
+        },
+        {
+            "source": 26,
+            "target": 84
         }
     ]
 }
