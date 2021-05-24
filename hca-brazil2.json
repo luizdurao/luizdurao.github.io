@@ -7,7 +7,7 @@
             "link": "https://www.csbiology.org/team/AlanBarzilay",
             "photo": "AlanBarzilay.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "link": "https://www.csbiology.org/team/AllanCarvalho",
             "photo": "AllanCarvalho.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "link": "https://www.csbiology.org/team/AlyssonUrbanski",
             "photo": "AlyssonUrbanski.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "link": "https://www.csbiology.org/team/AmandaVasconcelos",
             "photo": "AmandaVasconcelos.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "link": "https://www.csbiology.org/team/AnaOrsi",
             "photo": "generico.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 6,
@@ -52,7 +52,7 @@
             "link": "https://www.csbiology.org/team/AndreMartins",
             "photo": "AndreMartins.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 7,
@@ -61,7 +61,7 @@
             "link": "https://www.csbiology.org/team/AndreNicolau",
             "photo": "AndreNicolau.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 8,
@@ -70,7 +70,7 @@
             "link": "https://www.csbiology.org/team/AndrePina",
             "photo": "AndrePina.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 9,
@@ -79,7 +79,7 @@
             "link": "https://www.csbiology.org/team/AntonioOliveira",
             "photo": "AntonioOliveira.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 10,
@@ -88,7 +88,7 @@
             "link": "https://www.csbiology.org/team/BrunaGarbes",
             "photo": "BrunaGarbes.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 11,
@@ -97,7 +97,7 @@
             "link": "https://www.csbiology.org/team/BrunoXavier",
             "photo": "generico.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 12,
@@ -106,7 +106,7 @@
             "link": "https://www.csbiology.org/team/CamiloRebolledo",
             "photo": "generico.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 13,
@@ -115,7 +115,7 @@
             "link": "https://www.csbiology.org/team/CesarPrada",
             "photo": "CesarPrada.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 14,
@@ -124,7 +124,7 @@
             "link": "https://www.csbiology.org/team/DavidCuellar",
             "photo": "DavidCuellar.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 15,
@@ -133,7 +133,7 @@
             "link": "https://www.csbiology.org/team/DiogenesLima",
             "photo": "DiogenesLima.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 16,
@@ -142,7 +142,7 @@
             "link": "https://www.csbiology.org/team/DiogoMatos",
             "photo": "DiogoMatos.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 17,
@@ -151,7 +151,7 @@
             "link": "https://www.csbiology.org/team/FabioPohl",
             "photo": "FabioPohl.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 18,
@@ -160,7 +160,7 @@
             "link": "https://www.csbiology.org/team/FelipeMartins",
             "photo": "FelipeMartins.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 19,
@@ -169,7 +169,7 @@
             "link": "https://www.csbiology.org/team/FelipeCaten",
             "photo": "FelipeCaten.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 20,
@@ -178,7 +178,7 @@
             "link": "https://www.csbiology.org/team/FernandoMarcon",
             "photo": "FernandoMarcon.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 21,
@@ -187,7 +187,7 @@
             "link": "https://www.csbiology.org/team/FlavioLichtenstein",
             "photo": "FlavioLichtenstein.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 22,
@@ -196,7 +196,7 @@
             "link": "https://www.csbiology.org/team/GabrielCastro",
             "photo": "generico.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 23,
@@ -205,7 +205,7 @@
             "link": "https://www.csbiology.org/team/GiovanaSilva",
             "photo": "GiovanaSilva.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 25,
@@ -214,7 +214,7 @@
             "link": "https://www.csbiology.org/team/GustavoFerreira",
             "photo": "GustavoFerreira.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 26,
@@ -223,7 +223,7 @@
             "link": "https://www.csbiology.org/team/HelderNakaya",
             "photo": "HelderNakaya.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 27,
@@ -232,7 +232,7 @@
             "link": "https://www.csbiology.org/team/Helo\u00edsaBento",
             "photo": "generico.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 28,
@@ -241,7 +241,7 @@
             "link": "https://www.csbiology.org/team/IcaroCastro",
             "photo": "IcaroCastro.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 29,
@@ -250,7 +250,7 @@
             "link": "https://www.csbiology.org/team/IsabelleMoscardini",
             "photo": "IsabelleMoscardini.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 30,
@@ -259,7 +259,7 @@
             "link": "https://www.csbiology.org/team/IzabelaMamede",
             "photo": "IzabelaMamede.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 31,
@@ -268,7 +268,7 @@
             "link": "https://www.csbiology.org/team/JacquelineSilva",
             "photo": "JacquelineSilva.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 33,
@@ -277,7 +277,7 @@
             "link": "https://www.csbiology.org/team/JaquelineWang",
             "photo": "JaquelineWang.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 34,
@@ -286,7 +286,7 @@
             "link": "https://www.csbiology.org/team/JeevanGiddaluru",
             "photo": "JeevanGiddaluru.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 35,
@@ -295,7 +295,7 @@
             "link": "https://www.csbiology.org/team/JefferssonRestrepo",
             "photo": "JeffersonRestrepo.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 36,
@@ -304,7 +304,7 @@
             "link": "https://www.csbiology.org/team/JimmyHanyu",
             "photo": "JimmyHanyu.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 37,
@@ -313,7 +313,7 @@
             "link": "https://www.csbiology.org/team/JoseDeney",
             "photo": "JoseDeney.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 38,
@@ -322,7 +322,7 @@
             "link": "https://www.csbiology.org/team/JuanCarlo",
             "photo": "JuanCarlo.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 39,
@@ -331,7 +331,7 @@
             "link": "https://www.csbiology.org/team/JuliaRomualdo",
             "photo": "JuliaRomualdo.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 40,
@@ -340,7 +340,7 @@
             "link": "https://www.csbiology.org/team/JulianaYang",
             "photo": "generico.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 41,
@@ -349,7 +349,7 @@
             "link": "https://www.csbiology.org/team/LeandroYukio",
             "photo": "LeandroYukio.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 42,
@@ -358,7 +358,7 @@
             "link": "https://www.csbiology.org/team/LeonardoGama",
             "photo": "LeonardoGama.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 43,
@@ -367,7 +367,7 @@
             "link": "https://www.csbiology.org/team/LuanaDomingos",
             "photo": "LuanaDomingos.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 44,
@@ -376,7 +376,7 @@
             "link": "https://www.csbiology.org/team/LucasCardozo",
             "photo": "LucasCardozo.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 45,
@@ -385,7 +385,7 @@
             "link": "https://www.csbiology.org/team/LucasFleig",
             "photo": "LucasFleig.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 46,
@@ -394,7 +394,7 @@
             "link": "https://www.csbiology.org/team/LucasKaoru",
             "photo": "LucasKaoru.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 47,
@@ -403,7 +403,7 @@
             "link": "https://www.csbiology.org/team/LucianaCosta",
             "photo": "LucianaCosta.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 48,
@@ -412,7 +412,7 @@
             "link": "https://www.csbiology.org/team/LuizDurao",
             "photo": "LuizDurao.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 49,
@@ -421,7 +421,7 @@
             "link": "https://www.csbiology.org/team/MaiaraPrado",
             "photo": "generico.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 50,
@@ -430,7 +430,7 @@
             "link": "https://www.csbiology.org/team/ManoelaGomes",
             "photo": "ManoelaGomes.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 51,
@@ -439,7 +439,7 @@
             "link": "https://www.csbiology.org/team/MarcosPaulo",
             "photo": "generico.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 52,
@@ -448,7 +448,7 @@
             "link": "https://www.csbiology.org/team/MarianaPereira",
             "photo": "MarianaPereira.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 53,
@@ -457,7 +457,7 @@
             "link": "https://www.csbiology.org/team/MarieltonCunha",
             "photo": "MarieltonCunha.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 54,
@@ -466,7 +466,7 @@
             "link": "https://www.csbiology.org/team/MatheusBurger",
             "photo": "MatheusBurger.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 55,
@@ -475,7 +475,7 @@
             "link": "https://www.csbiology.org/team/MauroCafundo",
             "photo": "MauroCafundo.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 56,
@@ -484,7 +484,7 @@
             "link": "https://www.csbiology.org/team/MelissaLever",
             "photo": "MelissaLever.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 57,
@@ -493,7 +493,7 @@
             "link": "https://www.csbiology.org/team/MindyMunoz",
             "photo": "MindyMunoz.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 58,
@@ -502,7 +502,7 @@
             "link": "https://www.csbiology.org/team/NataliaCruz",
             "photo": "generico.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 59,
@@ -511,7 +511,7 @@
             "link": "https://www.csbiology.org/team/PatriciaCarvalho",
             "photo": "PatriciaCarvalho.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 60,
@@ -520,7 +520,7 @@
             "link": "https://www.csbiology.org/team/PauloAmaral",
             "photo": "PauloAmaral.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 61,
@@ -529,7 +529,7 @@
             "link": "https://www.csbiology.org/team/PedroRusso",
             "photo": "PedroRusso.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 62,
@@ -538,7 +538,7 @@
             "link": "https://www.csbiology.org/team/RachelCreighton",
             "photo": "RachelCreighton.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 64,
@@ -547,7 +547,7 @@
             "link": "https://www.csbiology.org/team/RobertoLavor",
             "photo": "RobertoLavor.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 65,
@@ -556,7 +556,7 @@
             "link": "https://www.csbiology.org/team/RobertoMarcondes",
             "photo": "RobertoMarcondes.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 67,
@@ -565,7 +565,7 @@
             "link": "https://www.csbiology.org/team/RodrigoAquino",
             "photo": "RodrigoAquino.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 68,
@@ -574,7 +574,7 @@
             "link": "https://www.csbiology.org/team/RodrigoOgava",
             "photo": "RodrigoOgava.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 69,
@@ -583,7 +583,7 @@
             "link": "https://www.csbiology.org/team/RonaldoSilva",
             "photo": "RonaldoSilva.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 70,
@@ -592,7 +592,7 @@
             "link": "https://www.csbiology.org/team/SaraSorgi",
             "photo": "SaraSorgi.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 71,
@@ -601,7 +601,7 @@
             "link": "https://www.csbiology.org/team/StellaFrancy",
             "photo": "StellaFrancy.png",
             "status": "Former",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 72,
@@ -610,7 +610,7 @@
             "link": "https://www.csbiology.org/team/ThiagoHirata",
             "photo": "ThiagoHirata.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 73,
@@ -619,7 +619,7 @@
             "link": "https://www.csbiology.org/team/ThomazLuscher",
             "photo": "ThomazLuscher.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 75,
@@ -628,7 +628,7 @@
             "link": "https://www.csbiology.org/team/TiagoLubiana",
             "photo": "TiagoLubiana.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 77,
@@ -637,7 +637,7 @@
             "link": "https://www.csbiology.org/team/VanessaEscolano",
             "photo": "VanessaEscolano.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 79,
@@ -646,7 +646,7 @@
             "link": "https://www.csbiology.org/team/VitorCrupe",
             "photo": "VitorCrupe.PNG",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 81,
@@ -655,7 +655,7 @@
             "link": "https://www.csbiology.org/team/VitorFelix",
             "photo": "VitorFelix.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 82,
@@ -664,7 +664,7 @@
             "link": "https://www.csbiology.org/team/VivianeSchuch",
             "photo": "VivianeSchuch.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 83,
@@ -673,7 +673,7 @@
             "link": "https://www.csbiology.org/team/YouvikaSingh",
             "photo": "YouvikaSingh.png",
             "status": "Current",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 84,
@@ -682,7 +682,7 @@
             "link": "https://www.csbiology.org/",
             "photo": "logo.png",
             "status": "",
-            "size": "80"
+            "size": 80.0
         },
         {
             "id": 85,
@@ -691,7 +691,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 86,
@@ -700,7 +700,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 87,
@@ -709,7 +709,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 88,
@@ -718,7 +718,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 89,
@@ -727,7 +727,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 90,
@@ -736,7 +736,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 91,
@@ -745,7 +745,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 92,
@@ -754,7 +754,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 93,
@@ -763,7 +763,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 95,
@@ -772,7 +772,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         },
         {
             "id": 94,
@@ -781,7 +781,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": "20"
+            "size": 20.0
         }
     ],
     "links": [
