@@ -682,7 +682,7 @@
             "link": "https://www.csbiology.org/",
             "photo": "logo.png",
             "status": "",
-            "size": 40.0
+            "size": 80.0
         },
         {
             "id": 85,
@@ -691,7 +691,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 86,
@@ -700,7 +700,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 87,
@@ -709,7 +709,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 88,
@@ -718,7 +718,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 89,
@@ -727,7 +727,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 90,
@@ -736,7 +736,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 91,
@@ -745,7 +745,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 92,
@@ -754,7 +754,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 93,
@@ -763,7 +763,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 95,
@@ -772,7 +772,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         },
         {
             "id": 94,
@@ -781,7 +781,7 @@
             "link": "",
             "photo": "hcabr.png",
             "status": "",
-            "size": 25.0
+            "size": 15.0
         }
     ],
     "links": [
