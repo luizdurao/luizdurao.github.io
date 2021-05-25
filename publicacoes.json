@@ -1,7 +1,7 @@
 {
     "nodes": [
         {
-            "id": "15033445",
+            "id": 1,
             "name": "Biochemical and biophysical research communications. 2004. RASL11A, member of a novel small monomeric GTPase gene family, is down-regulated in prostate tumors.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/15033445",
@@ -13,7 +13,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "15221013",
+            "id": 2,
             "name": "Oncogene. 2004. Antisense intronic non-coding RNA levels correlate to the degree of tumor differentiation in prostate cancer.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/15221013",
@@ -25,7 +25,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "15805775",
+            "id": 3,
             "name": "Omics. 2005. As antisense RNA gets intronic.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/15805775",
@@ -37,7 +37,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "17263875",
+            "id": 4,
             "name": "BMC biology. 2007. Androgen responsive intronic non-coding RNAs.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/17263875",
@@ -49,7 +49,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "17386095",
+            "id": 5,
             "name": "Genome biology. 2007. Genome mapping and expression analyses of human intronic noncoding RNAs reveal tissue-specific patterns and enrichment in genes related to regulation of transcription.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/17386095",
@@ -61,7 +61,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "18273443",
+            "id": 6,
             "name": "Biochemical and biophysical research communications. 2007. Splice variants of TLE family genes and up-regulation of a TLE3 isoform in prostate tumors.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/18273443",
@@ -73,7 +73,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "2007chapter1",
+            "id": 7,
             "name": "Nucleic Acids Hybridization Modern Applications. 2007. Concepts on Microarray Design for Genome and Transcriptome Analyses",
             "color": "#000000",
             "link": "https://link.springer.com/chapter/10.1007/978-1-4020-6040-3_11",
@@ -85,7 +85,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "18223091",
+            "id": 8,
             "name": "Journal of bacteriology. 2008. The iron stimulon of Xylella fastidiosa includes genes for type IV pilus and colicin V-like bacteriocins.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/18223091",
@@ -97,7 +97,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "18495418",
+            "id": 9,
             "name": "Genomics. 2008. Conserved tissue expression signatures of intronic noncoding RNAs transcribed from human and mouse loci.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/18495418",
@@ -109,7 +109,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "19116666",
+            "id": 10,
             "name": "PloS one. 2008. Origins of the Xylella fastidiosa prophage-like regions and their impact in genome differentiation.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/19116666",
@@ -121,7 +121,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "19029902",
+            "id": 11,
             "name": "Nature immunology. 2009. Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/19029902",
@@ -133,7 +133,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "20495560",
+            "id": 12,
             "name": "Nature immunology. 2010. The T helper type 2 response to cysteine proteases requires dendritic cell-basophil cooperation via ROS-mediated signaling.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/20495560",
@@ -145,7 +145,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "20705860",
+            "id": 13,
             "name": "Science. 2010. Activation of beta-catenin in dendritic cells regulates immunity versus tolerance in the intestine.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/20705860",
@@ -157,7 +157,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "21029962",
+            "id": 14,
             "name": "Immunity. 2010. Systems vaccinology.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/21029962",
@@ -169,7 +169,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "21350488",
+            "id": 15,
             "name": "Nature. 2011. Programming the magnitude and persistence of antibody responses with innate immunity.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/21350488",
@@ -181,7 +181,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "21383243",
+            "id": 16,
             "name": "Journal of immunology. 2011. Phenotype, function, and gene expression profiles of programmed death-1(hi) CD8 T cells in healthy human adults.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/21383243",
@@ -193,7 +193,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "21743478",
+            "id": 17,
             "name": "Nature immunology. 2011. Systems biology of vaccination for seasonal influenza in humans.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/21743478",
@@ -205,7 +205,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "22012654",
+            "id": 18,
             "name": "Wiley interdisciplinary reviews. 2012. Systems vaccinology: learning to compute the behavior of vaccine induced immunity.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/22012654",
@@ -217,7 +217,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "22156839",
+            "id": 19,
             "name": "Current Opinion in HIV and AIDS. 2012. Systems vaccinology: its promise and challenge for HIV vaccine development.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/22156839",
@@ -229,7 +229,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "22246032",
+            "id": 20,
             "name": "Blood. 2012. Distinct TLR adjuvants differentially stimulate systemic and local innate immune responses in nonhuman primates.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/22246032",
@@ -241,7 +241,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "22632124",
+            "id": 21,
             "name": "Cellular microbiology. 2012. Repression of bacterial lipoprotein production by Francisella novicida facilitates evasion of innate immune recognition.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/22632124",
@@ -253,7 +253,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "22833339",
+            "id": 22,
             "name": "Arthritis and rheumatism. 2012. Gene profiling of Chikungunya virus arthritis in a mouse model reveals significant overlap with rheumatoid arthritis.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/22833339",
@@ -265,7 +265,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "22903566",
+            "id": 23,
             "name": "Current topics in microbiology and immunology. 2013. Systems biology of vaccination in the elderly.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/22903566",
@@ -277,7 +277,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "23438822",
+            "id": 24,
             "name": "Immunity. 2013. Chronic but not acute virus infection induces sustained expansion of myeloid suppressor cell numbers that inhibit viral-specific T cell immunity.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/23438822",
@@ -289,7 +289,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "23725471",
+            "id": 25,
             "name": "Annual review of phytopathology. 2013. The role of prophage in plant-pathogenic bacteria.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/23725471",
@@ -301,7 +301,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "23796714",
+            "id": 26,
             "name": "Seminars in immunology. 2013. Systems biological approaches to measure and understand vaccine immunity in humans.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/23796714",
@@ -313,7 +313,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "23947360",
+            "id": 27,
             "name": "Immunological reviews. 2013. Immunity to viruses: learning from successful human vaccines.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/23947360",
@@ -325,7 +325,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "23990798",
+            "id": 28,
             "name": "PLoS genetics. 2013. The intronic long noncoding RNA ANRASSF1 recruits PRC2 to the RASSF1A promoter, reducing the expression of RASSF1A and increasing cell proliferation.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/23990798",
@@ -337,7 +337,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "24136404",
+            "id": 29,
             "name": "European journal of immunology. 2013. Gene signatures related to B-cell proliferation predict influenza vaccine-induced antibody response.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/24136404",
@@ -349,7 +349,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "24336226",
+            "id": 30,
             "name": "Nature immunology. 2013. Molecular signatures of antibody responses derived from a systems biology study of five human vaccines.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/24336226",
@@ -361,7 +361,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "24310610",
+            "id": 31,
             "name": "Science. 2014. Vaccine activation of the nutrient sensor GCN2 in dendritic cells enhances antigen presentation.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/24310610",
@@ -373,7 +373,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "24465609",
+            "id": 32,
             "name": "PloS one. 2014. Genomic analyses reveal broad impact of miR-137 on genes associated with malignant transformation and neuronal differentiation in glioblastoma cells.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/24465609",
@@ -385,7 +385,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "24689057",
+            "id": 33,
             "name": "Editorial. 2014. Genetic control of immune response and susceptibility to infectious diseases.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/24689057",
@@ -397,7 +397,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "24696480",
+            "id": 34,
             "name": "Journal of virology. 2014. CCR2 deficiency promotes exacerbated chronic erosive neutrophil-dominated chikungunya virus arthritis.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/24696480",
@@ -409,7 +409,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "24981333",
+            "id": 35,
             "name": "Cell host & microbe. 2014. Dengue virus infection induces expansion of a CD14(+)CD16(+) monocyte population that stimulates plasmablast differentiation.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/24981333",
@@ -421,7 +421,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "25220212",
+            "id": 36,
             "name": "Immunity. 2014. TLR5-mediated sensing of gut microbiota is necessary for antibody responses to seasonal influenza vaccination.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/25220212",
@@ -433,7 +433,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "25474568",
+            "id": 37,
             "name": "PLoS neglected tropical diseases. 2014. Multiple immune factors are involved in controlling acute and chronic chikungunya virus infection.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/25474568",
@@ -445,7 +445,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "2014chapter2",
+            "id": 38,
             "name": "Computational Systems Biology. 2014. Systems Biology of Infectious Diseases and Vaccines",
             "color": "#000000",
             "link": "https://www.sciencedirect.com/science/article/pii/B9780124059269000150?via%3Dihub",
@@ -457,7 +457,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "25713354",
+            "id": 39,
             "name": "PNAS. 2015. Initial viral load determines the magnitude of the human CD8 T cell response to yellow fever vaccination.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/25713354",
@@ -469,7 +469,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "25858860",
+            "id": 40,
             "name": "Vaccine. 2015. Systems vaccinology: Enabling rational vaccine design with systems biological approaches.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/25858860",
@@ -481,7 +481,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "25915555",
+            "id": 41,
             "name": "Expert review of vaccines. 2015. Is the gut microbiome key to modulating vaccine efficacy?",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/25915555",
@@ -493,7 +493,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "25964458",
+            "id": 42,
             "name": "Philos. Trans. R. Soc. B. 2015. Vaccinology in the era of high-throughput biology.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/25964458",
@@ -505,7 +505,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "26086673",
+            "id": 43,
             "name": "PLoS neglected tropical diseases. 2015. MicroRNA Transcriptome Profiling in Heart of Trypanosoma cruzi-Infected Mice: Parasitological and Cardiological Outcomes.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/26086673",
@@ -517,7 +517,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "26100017",
+            "id": 44,
             "name": "Molecular and cellular biology. 2015. RNA-Binding Protein Musashi1 Is a Central Regulator of Adhesion Pathways in Glioblastoma.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/26100017",
@@ -529,7 +529,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "26402251",
+            "id": 45,
             "name": "PLoS neglected tropical diseases. 2015. Synergy of Omeprazole and Praziquantel In Vitro Treatment against Schistosoma mansoni Adult Worms.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/26402251",
@@ -541,7 +541,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "26632272",
+            "id": 46,
             "name": "Cellular immunology. 2015. Myeloperoxidase in human peripheral blood lymphocytes: Production and subcellular localization.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/26632272",
@@ -553,7 +553,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "26682988",
+            "id": 47,
             "name": "Immunity. 2015. Systems Analysis of Immunity to Influenza Vaccination across Multiple Years and in Diverse Populations Reveals Shared Molecular Signatures.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/26682988",
@@ -565,7 +565,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "26755593",
+            "id": 48,
             "name": "PNAS. 2016. Systems biology of immunity to MF59-adjuvanted versus nonadjuvanted trivalent seasonal influenza vaccines in early childhood.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/26755593",
@@ -577,7 +577,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "26762976",
+            "id": 49,
             "name": "Nucleic acids research. 2016. Analysis of LexA binding sites and transcriptomics in response to genotoxic stress in Leptospira interrogans.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/26762976",
@@ -589,7 +589,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "26982722",
+            "id": 50,
             "name": "Nature. 2016. The amino acid sensor GCN2 controls gut inflammation by inhibiting inflammasome activation.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/26982722",
@@ -601,7 +601,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "27109612",
+            "id": 51,
             "name": "The American journal of pathology. 2016. SerpinB2 Deficiency Results in a Stratum Corneum Defect and Increased Sensitivity to Topically Applied Inflammatory Agents.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/27109612",
@@ -613,7 +613,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "27501248",
+            "id": 52,
             "name": "Nature. 2016. Defining CD8+ T cells that provide the proliferative burst after PD-1 therapy.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/27501248",
@@ -625,7 +625,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "27525369",
+            "id": 53,
             "name": "Nature immunology. 2016. Defining antigen-specific plasmablast and memory B cell subsets in human blood after viral infection or vaccination.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/27525369",
@@ -637,7 +637,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "27994673",
+            "id": 54,
             "name": "Journal of Cancer. 2016. Antimicrobial peptide LL-37 participates in the transcriptional regulation of melanoma cells.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/27994673",
@@ -649,7 +649,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "27648510",
+            "id": 55,
             "name": "Current issues in molecular biology. 2017. Systems Vaccinology Applied to DNA Vaccines: Perspective and Challenges.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/27648510",
@@ -661,7 +661,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "27928002",
+            "id": 56,
             "name": "Journal Article. 2017. Adjuvanting a Simian Immunodeficiency Virus Vaccine with Toll-Like Receptor Ligands Encapsulated in Nanoparticles Induces Persistent Antibody Responses and Enhanced Protection in TRIM5? Restrictive Macaques.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/27928002",
@@ -673,7 +673,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28003350",
+            "id": 57,
             "name": "The Journal of infectious diseases. 2017. Blood Gene Signatures of Chagas Cardiomyopathy With or Without Ventricular Dysfunction.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28003350",
@@ -685,7 +685,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28030816",
+            "id": 58,
             "name": "Oncotarget. 2017. Down-regulation of 14q32-encoded miRNAs and tumor suppressor role for miR-654-3p in papillary thyroid cancer.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28030816",
@@ -697,7 +697,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28193898",
+            "id": 59,
             "name": "PNAS. 2017. Systems analysis of protective immune responses to RTS,S malaria vaccination in humans.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28193898",
@@ -709,7 +709,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28442607",
+            "id": 60,
             "name": "mBio. 2017. <i>N</i>-Methyl-d-Aspartate (NMDA) Receptor Blockade Prevents Neuronal Death Induced by Zika Virus Infection.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28442607",
@@ -721,7 +721,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28502771",
+            "id": 61,
             "name": "Cell. 2017. Metabolic Phenotypes of Response to Vaccination in Humans.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28502771",
@@ -733,7 +733,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28515464",
+            "id": 62,
             "name": "Scientific reports. 2017. Systems Immunology of Diabetes-Tuberculosis Comorbidity Reveals Signatures of Disease Complications.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28515464",
@@ -745,7 +745,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28848230",
+            "id": 63,
             "name": "Nature microbiology. 2017. Specific inhibition of NLRP3 in chikungunya disease reveals a role for inflammasomes in alphavirus-induced inflammation.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28848230",
@@ -757,7 +757,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28882690",
+            "id": 64,
             "name": "Pharmacological research. 2017. Toxicogenomic and bioinformatics platforms to identify key molecular mechanisms of a curcumin-analogue DM-1 toxicity in melanoma cells.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28882690",
@@ -769,7 +769,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28895840",
+            "id": 65,
             "name": "eLife. 2017. Crucial role for T cell-intrinsic IL-18R-MyD88 signaling in cognate immune response to intracellular parasite infection.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28895840",
@@ -781,7 +781,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "28981105",
+            "id": 66,
             "name": "Cell death & disease. 2017. Calcium/calmodulin-dependent kinase kinase 2 regulates hematopoietic stem and progenitor cell regeneration.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/28981105",
@@ -793,7 +793,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29075261",
+            "id": 67,
             "name": "Frontiers in immunology. 2017. Induction of Cell Cycle and NK Cell Responses by Live-Attenuated Oral Vaccines against Typhoid Fever.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29075261",
@@ -805,7 +805,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29269773",
+            "id": 68,
             "name": "Scientific reports. 2017. Integration of miRNA and gene expression profiles suggest a role for miRNAs in the pathobiological processes of acute Trypanosoma cruzi infection.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29269773",
@@ -817,7 +817,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29281739",
+            "id": 69,
             "name": "PLoS pathogens. 2017. Lower temperatures reduce type I interferon activity and promote alphaviral arthritis.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29281739",
@@ -829,7 +829,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29396410",
+            "id": 70,
             "name": "Nature communications. 2018. Discordant congenital Zika syndrome twins show differential in vitro viral susceptibility of neural progenitor cells.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29396410",
@@ -841,7 +841,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29426578",
+            "id": 71,
             "name": "Journal of autoimmunity. 2018. TGF-? signalling defect is linked to low CD39 expression on regulatory T cells and methotrexate resistance in rheumatoid arthritis.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29426578",
@@ -853,7 +853,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29454313",
+            "id": 72,
             "name": "BMC bioinformatics. 2018. StructRNAfinder: an automated pipeline and web server for RNA families prediction.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29454313",
@@ -865,7 +865,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29458351",
+            "id": 73,
             "name": "BMC bioinformatics. 2018. CEMiTool: a Bioconductor package for performing comprehensive modular co-expression analyses.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29458351",
@@ -877,7 +877,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29540241",
+            "id": 74,
             "name": "Genome biology. 2018. Genomic positional conservation identifies topological anchor point RNAs linked to developmental loci.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29540241",
@@ -889,7 +889,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29627147",
+            "id": 75,
             "name": "The Lancet Infectious diseases. 2018. Determinants of antibody persistence across doses and continents after single-dose rVSV-ZEBOV vaccination for Ebola virus disease: an observational cohort study.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29627147",
@@ -901,7 +901,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29666415",
+            "id": 76,
             "name": "Nature communications. 2018. Canonical PI3K? signaling in myeloid cells restricts Trypanosoma cruzi infection and dampens chagasic myocarditis.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29666415",
@@ -913,7 +913,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29758668",
+            "id": 77,
             "name": "Physical review. E. 2018. Gene regulatory and signaling networks exhibit distinct topological distributions of motifs.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29758668",
@@ -925,7 +925,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29774022",
+            "id": 78,
             "name": "Frontiers in immunology. 2018. Acute Zika Virus Infection in an Endemic Area Shows Modest Proinflammatory Systemic Immunoactivation and Cytokine-Symptom Associations.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29774022",
@@ -937,7 +937,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "29805094",
+            "id": 79,
             "name": "Cell host & microbe. 2018. Daily Rhythms of TNF? Expression and Food Intake Regulate Synchrony of Plasmodium Stages with the Host Circadian Cycle.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/29805094",
@@ -949,7 +949,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "30374129",
+            "id": 80,
             "name": "Nature immunology. 2018. Inflammation induced by influenza virus impairs human innate immune control of pneumococcus.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/30374129",
@@ -961,7 +961,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "30382855",
+            "id": 81,
             "name": "Malaria journal. 2018. Genetic sequence characterization and naturally acquired immune response to Plasmodium vivax Rhoptry Neck Protein 2 (PvRON2).",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/30382855",
@@ -973,7 +973,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "30473680",
+            "id": 82,
             "name": "Frontiers in microbiology. 2018. <i>In situ</i> Immune Signatures and Microbial Load at the Nasopharyngeal Interface in Children With Acute Respiratory Infection.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/30473680",
@@ -985,7 +985,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "30514497",
+            "id": 83,
             "name": "Tuberculosis. 2018. Building capacity for advances in tuberculosis research; proceedings of the third RePORT international meeting.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/30514497",
@@ -997,7 +997,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "2018chapter3",
+            "id": 84,
             "name": "Theoretical and Applied Aspects of Systems Biology. 2018. Systems Immunology",
             "color": "#000000",
             "link": "https://www.springerprofessional.de/en/systems-immunology/15865294",
@@ -1009,7 +1009,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "30894872",
+            "id": 85,
             "name": "Frontiers in genetics. 2019. webCEMiTool: Co-expression Modular Analysis Made Easy.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/30894872",
@@ -1021,7 +1021,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31020552",
+            "id": 86,
             "name": "Methods in molecular biology. 2019. Predicting RNA Families in Nucleotide Sequences Using StructRNAfinder.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31020552",
@@ -1033,7 +1033,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31142816",
+            "id": 87,
             "name": "Scientific reports. 2019. Molecular degree of perturbation of plasma inflammatory markers associated with tuberculosis reveals distinct disease profiles between Indian and Chinese populations.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31142816",
@@ -1045,7 +1045,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31211814",
+            "id": 88,
             "name": "PLoS pathogens. 2019. Systems analysis of subjects acutely infected with the Chikungunya virus.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31211814",
@@ -1057,7 +1057,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31399544",
+            "id": 89,
             "name": "PNAS. 2019. Long noncoding RNAs are involved in multiple immunological pathways in response to vaccination.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31399544",
@@ -1069,7 +1069,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31455834",
+            "id": 90,
             "name": "Scientific reports. 2019. SerpinB2 inhibits migration and promotes a resolution phase signature in large peritoneal macrophages.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31455834",
@@ -1081,7 +1081,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31456798",
+            "id": 91,
             "name": "Frontiers in immunology. 2019. Neonatal T Follicular Helper Cells Are Lodged in a Pre-T Follicular Helper Stage Favoring Innate Over Adaptive Germinal Center Responses.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31456798",
@@ -1093,7 +1093,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31610635",
+            "id": 92,
             "name": "Acta paediatrica. 2019. Biological sex influences antibody responses to routine vaccinations in the first year of life.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31610635",
@@ -1105,7 +1105,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31708960",
+            "id": 93,
             "name": "Frontiers in genetics. 2019. Assessing the Impact of Sample Heterogeneity on Transcriptome Analysis of Human Diseases Using MDP Webtool.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31708960",
@@ -1117,7 +1117,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31767231",
+            "id": 94,
             "name": "Environmental pollution. 2019. Hydroquinone exposure alters the morphology of lymphoid organs in vaccinated C57Bl/6 mice.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31767231",
@@ -1129,7 +1129,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31815398",
+            "id": 95,
             "name": "Computational Biology. 2019. Integrative Biology Approaches Applied to Human Diseases",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31815398",
@@ -1141,7 +1141,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31849947",
+            "id": 96,
             "name": "Frontiers in immunology. 2019. Exacerbation of Chikungunya Virus Rheumatic Immunopathology by a High Fiber Diet and Butyrate.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31849947",
@@ -1153,7 +1153,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "31869262",
+            "id": 97,
             "name": "Human vaccines & immunotherapeutics. 2020. Methods for predicting vaccine immunogenicity and reactogenicity.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/31869262",
@@ -1165,7 +1165,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32117223",
+            "id": 98,
             "name": "Frontiers in immunology. 2020. Flavivirus-Mediating B Cell Differentiation Into Antibody-Secreting Cells in Humans Is Associated With the Activation of the Tryptophan Metabolism.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32117223",
@@ -1177,7 +1177,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32352843",
+            "id": 99,
             "name": "DNA and cell biology. 2020. Variants in the Kisspeptin-GnRH Pathway Modulate the Hormonal Profile and Reproductive Outcomes.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32352843",
@@ -1189,7 +1189,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32362926",
+            "id": 100,
             "name": "The journal of venomous animals and toxins including tropical diseases. 2020. S\u00e3o Paulo School of Advanced Sciences on Vaccines: an overview.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32362926",
@@ -1201,7 +1201,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32398742",
+            "id": 101,
             "name": "Translational psychiatry. 2020. Drug repositioning for psychiatric and neurological disorders through a network medicine approach.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32398742",
@@ -1213,7 +1213,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32428113",
+            "id": 102,
             "name": "Clinics. 2020. Susceptibility of the Elderly to SARS-CoV-2 Infection: ACE-2 Overexpression, Shedding, and Antibody-dependent Enhancement (ADE).",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32428113",
@@ -1225,7 +1225,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32518143",
+            "id": 103,
             "name": "Science signaling. 2020. Molecular alterations in the extracellular matrix in the brains of newborns with congenital Zika syndrome.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32518143",
@@ -1237,7 +1237,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32526012",
+            "id": 104,
             "name": "The Journal of infectious diseases. 2020. ACE2 Expression Is Increased in the Lungs of Patients With Comorbidities Associated With Severe COVID-19.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32526012",
@@ -1249,7 +1249,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32687542",
+            "id": 105,
             "name": "PLoS neglected tropical diseases. 2020. Platelet disturbances correlate with endothelial cell activation in uncomplicated Plasmodium vivax malaria.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32687542",
@@ -1261,7 +1261,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32697943",
+            "id": 106,
             "name": "Cell metabolism. 2020. Elevated Glucose Levels Favor SARS-CoV-2 Infection and Monocyte Response through a HIF-1?/Glycolysis-Dependent Axis.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32697943",
@@ -1273,7 +1273,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32703910",
+            "id": 107,
             "name": "Science. 2020. Evolution and epidemic spread of SARS-CoV-2 in Brazil.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32703910",
@@ -1285,7 +1285,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32750260",
+            "id": 108,
             "name": "Human vaccines & immunotherapeutics. 2020. Antigenicity prediction and vaccine recommendation of human influenza virus A (H3N2) using convolutional neural networks.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32750260",
@@ -1297,7 +1297,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32794262",
+            "id": 109,
             "name": "Journal of leukocyte biology. 2020. Immature neutrophil signature associated with the sexual dimorphism of systemic juvenile idiopathic arthritis.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32794262",
@@ -1309,7 +1309,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33033490",
+            "id": 110,
             "name": "Frontiers in genetics. 2020. Editorial: User-Friendly Tools Applied to Genetics or Systems Biology.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33033490",
@@ -1321,7 +1321,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33097049",
+            "id": 111,
             "name": "BMC medical genomics. 2020. Noninvasive prenatal paternity determination using microhaplotypes: a pilot study.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33097049",
@@ -1333,7 +1333,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33129683",
+            "id": 112,
             "name": "Research in Social and Administrative Pharmacy. 2020. Genomics, epigenomics and pharmacogenomics of Familial Hypercholesterolemia (FHBGEP): A study protocol.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33129683",
@@ -1345,7 +1345,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33162295",
+            "id": 113,
             "name": "Seminars in immunology. 2020. Network vaccinology.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33162295",
@@ -1357,7 +1357,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33351798",
+            "id": 114,
             "name": "PLoS neglected tropical diseases. 2020. miRNAs may play a major role in the control of gene expression in key pathobiological processes in Chagas disease cardiomyopathy.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33351798",
@@ -1369,7 +1369,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33463950",
+            "id": 115,
             "name": "Critical reviews in immunology. 2020. Toward an Integrated View of Operational Tolerance in Human Renal Transplantation: A Systems Biology Perspective.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33463950",
@@ -1381,7 +1381,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33580050",
+            "id": 116,
             "name": "NPJ vaccines. 2020. Rapid dose-dependent Natural Killer (NK) cell modulation and cytokine responses following human rVSV-ZEBOV Ebolavirus vaccination.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33580050",
@@ -1393,7 +1393,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "32779279",
+            "id": 117,
             "name": "Journal of leukocyte biology. 2020. Neuroinflammation at single cell level: What is new?",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/32779279",
@@ -1405,7 +1405,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "2020chapter4",
+            "id": 118,
             "name": "Computational Biology. 2020. Network Medicine: Methods and Applications",
             "color": "#000000",
             "link": "https://link.springer.com/chapter/10.1007/978-3-030-51862-2_1",
@@ -1417,7 +1417,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33497364",
+            "id": 119,
             "name": "JCI insight. 2021. Pneumococcal colonization impairs mucosal immune responses to live attenuated influenza vaccine.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33497364",
@@ -1429,7 +1429,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33498214",
+            "id": 120,
             "name": "Vaccines. 2021. Human Transcriptomic Response to the VSV-Vectored Ebola Vaccine.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33498214",
@@ -1441,7 +1441,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33587339",
+            "id": 121,
             "name": "Physiological reports. 2021. Profiling plasma-extracellular vesicle proteins and microRNAs in diabetes onset in middle-aged male participants in the ELSA-Brasil study.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33587339",
@@ -1453,7 +1453,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33713813",
+            "id": 122,
             "name": "International journal of infectious diseases. 2021. In-depth analysis of laboratory parameters reveals the interplay between sex, age, and systemic inflammation in individuals with COVID-19.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33713813",
@@ -1465,7 +1465,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33751207",
+            "id": 123,
             "name": "European archives of psychiatry and clinical neuroscience. 2021. Linking proteomic alterations in schizophrenia hippocampus to NMDAr hypofunction in human neurons and oligodendrocytes.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33751207",
@@ -1477,7 +1477,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33777004",
+            "id": 124,
             "name": "Frontiers in immunology. 2021. Systems Biology Analysis of the Radiation-Attenuated Schistosome Vaccine Reveals a Role for Growth Factors in Protection and Hemostasis Inhibition in Parasite Survival.",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33777004",
@@ -1489,7 +1489,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33863789",
+            "id": 125,
             "name": "Journal of immunology. 2021. Kdm6b Regulates the Generation of Effector CD8 + T Cells by Inducing Chromatin Accessibility in Effector-Associated Genes",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33863789",
@@ -1501,7 +1501,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "33907239",
+            "id": 126,
             "name": "Scientific reports. 2021. Colorimetric RT-LAMP SARS-CoV-2 diagnostic sensitivity relies on color interpretation and viral load",
             "color": "#000000",
             "link": "https://pubmed.ncbi.nlm.nih.gov/33907239",
@@ -1513,7 +1513,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "mr11250090",
+            "id": 127,
             "name": "Melatonin Research. 2021. Melatonin-Index as a biomarker for predicting the distribution of presymptomatic and asymptomatic SARS-CoV-2 carriers",
             "color": "#000000",
             "link": "https://melatonin-research.net/index.php/MR/article/view/109",
@@ -1525,7 +1525,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "hep4",
+            "id": 128,
             "name": "Hepatology Communications. 2021. An Experimental DUAL Model of Advanced Liver Damage",
             "color": "#000000",
             "link": "https://aasldpubs.onlinelibrary.wiley.com/doi/full/10.1002/hep4.1698",
@@ -1537,7 +1537,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "84",
+            "id": 129,
             "name": "CSBL",
             "color": "?",
             "link": "https://www.csbiology.org/",
@@ -1549,7 +1549,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "Project2",
+            "id": 130,
             "name": "Network & Precision Medicine",
             "color": "?",
             "link": "https://www.csbiology.org/",
@@ -1561,7 +1561,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "Project3",
+            "id": 131,
             "name": "Digital Epidemiology",
             "color": "?",
             "link": "https://www.csbiology.org/",
@@ -1573,7 +1573,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "Project4",
+            "id": 132,
             "name": "User-friendly computational Tools",
             "color": "?",
             "link": "https://www.csbiology.org/",
@@ -1585,7 +1585,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "Project5",
+            "id": 133,
             "name": "Systems Immunology of Human Diseases",
             "color": "?",
             "link": "https://www.csbiology.org/",
@@ -1597,7 +1597,7 @@
             "bordersize": "0.8px"
         },
         {
-            "id": "Project6",
+            "id": 134,
             "name": "Knowledge-based network",
             "color": "?",
             "link": "https://www.csbiology.org/",
@@ -1611,540 +1611,540 @@
     ],
     "links": [
         {
-            "source": "19029902",
-            "target": "Project1"
+            "source": 11,
+            "target": 141
         },
         {
-            "source": "21029962",
-            "target": "Project1"
+            "source": 14,
+            "target": 141
         },
         {
-            "source": "21743478",
-            "target": "Project1"
+            "source": 17,
+            "target": 141
         },
         {
-            "source": "22012654",
-            "target": "Project1"
+            "source": 18,
+            "target": 141
         },
         {
-            "source": "22156839",
-            "target": "Project1"
+            "source": 19,
+            "target": 141
         },
         {
-            "source": "22903566",
-            "target": "Project1"
+            "source": 23,
+            "target": 141
         },
         {
-            "source": "23796714",
-            "target": "Project1"
+            "source": 26,
+            "target": 141
         },
         {
-            "source": "23947360",
-            "target": "Project1"
+            "source": 27,
+            "target": 141
         },
         {
-            "source": "24136404",
-            "target": "Project1"
+            "source": 29,
+            "target": 141
         },
         {
-            "source": "24336226",
-            "target": "Project1"
+            "source": 30,
+            "target": 141
         },
         {
-            "source": "25858860",
-            "target": "Project1"
+            "source": 40,
+            "target": 141
         },
         {
-            "source": "25964458",
-            "target": "Project1"
+            "source": 42,
+            "target": 141
         },
         {
-            "source": "26682988",
-            "target": "Project1"
+            "source": 47,
+            "target": 141
         },
         {
-            "source": "26755593",
-            "target": "Project1"
+            "source": 48,
+            "target": 141
         },
         {
-            "source": "27648510",
-            "target": "Project1"
+            "source": 55,
+            "target": 141
         },
         {
-            "source": "27928002",
-            "target": "Project1"
+            "source": 56,
+            "target": 141
         },
         {
-            "source": "28193898",
-            "target": "Project1"
+            "source": 59,
+            "target": 141
         },
         {
-            "source": "28502771",
-            "target": "Project1"
+            "source": 61,
+            "target": 141
         },
         {
-            "source": "29075261",
-            "target": "Project1"
+            "source": 67,
+            "target": 141
         },
         {
-            "source": "31399544",
-            "target": "Project1"
+            "source": 89,
+            "target": 141
         },
         {
-            "source": "31869262",
-            "target": "Project1"
+            "source": 97,
+            "target": 141
         },
         {
-            "source": "32750260",
-            "target": "Project1"
+            "source": 108,
+            "target": 141
         },
         {
-            "source": "33497364",
-            "target": "Project1"
+            "source": 119,
+            "target": 141
         },
         {
-            "source": "33498214",
-            "target": "Project1"
+            "source": 120,
+            "target": 141
         },
         {
-            "source": "33777004",
-            "target": "Project1"
+            "source": 124,
+            "target": 141
         },
         {
-            "source": "33162295",
-            "target": "Project1"
+            "source": 113,
+            "target": 141
         },
         {
-            "source": "29758668",
-            "target": "Project2"
+            "source": 77,
+            "target": 130
         },
         {
-            "source": "32398742",
-            "target": "Project2"
+            "source": 101,
+            "target": 130
         },
         {
-            "source": "32526012",
-            "target": "Project2"
+            "source": 104,
+            "target": 130
         },
         {
-            "source": "33713813",
-            "target": "Project2"
+            "source": 122,
+            "target": 130
         },
         {
-            "source": "33751207",
-            "target": "Project2"
+            "source": 123,
+            "target": 130
         },
         {
-            "source": "33162295",
-            "target": "Project2"
+            "source": 113,
+            "target": 130
         },
         {
-            "source": "32703910",
-            "target": "Project3"
+            "source": 107,
+            "target": 131
         },
         {
-            "source": "29454313",
-            "target": "Project4"
+            "source": 72,
+            "target": 132
         },
         {
-            "source": "29458351",
-            "target": "Project4"
+            "source": 73,
+            "target": 132
         },
         {
-            "source": "30894872",
-            "target": "Project4"
+            "source": 85,
+            "target": 132
         },
         {
-            "source": "31020552",
-            "target": "Project4"
+            "source": 86,
+            "target": 132
         },
         {
-            "source": "31708960",
-            "target": "Project4"
+            "source": 93,
+            "target": 132
         },
         {
-            "source": "33033490",
-            "target": "Project4"
+            "source": 110,
+            "target": 132
         },
         {
-            "source": "33097049",
-            "target": "Project4"
+            "source": 111,
+            "target": 132
         },
         {
-            "source": "22833339",
-            "target": "Project5"
+            "source": 22,
+            "target": 133
         },
         {
-            "source": "26402251",
-            "target": "Project5"
+            "source": 45,
+            "target": 133
         },
         {
-            "source": "28515464",
-            "target": "Project5"
+            "source": 62,
+            "target": 133
         },
         {
-            "source": "29396410",
-            "target": "Project5"
+            "source": 70,
+            "target": 133
         },
         {
-            "source": "29805094",
-            "target": "Project5"
+            "source": 79,
+            "target": 133
         },
         {
-            "source": "30374129",
-            "target": "Project5"
+            "source": 80,
+            "target": 133
         },
         {
-            "source": "31211814",
-            "target": "Project5"
+            "source": 88,
+            "target": 133
         },
         {
-            "source": "31456798",
-            "target": "Project5"
+            "source": 91,
+            "target": 133
         },
         {
-            "source": "31849947",
-            "target": "Project5"
+            "source": 96,
+            "target": 133
         },
         {
-            "source": "32518143",
-            "target": "Project5"
+            "source": 103,
+            "target": 133
         },
         {
-            "source": "32687542",
-            "target": "Project5"
+            "source": 105,
+            "target": 133
         },
         {
-            "source": "32697943",
-            "target": "Project5"
+            "source": 106,
+            "target": 133
         },
         {
-            "source": "32794262",
-            "target": "Project5"
+            "source": 109,
+            "target": 133
         },
         {
-            "source": "33351798",
-            "target": "Project5"
+            "source": 114,
+            "target": 133
         },
         {
-            "source": "33463950",
-            "target": "Project5"
+            "source": 115,
+            "target": 133
         },
         {
-            "source": "33863789",
-            "target": "Project5"
+            "source": 125,
+            "target": 133
         },
         {
-            "source": "32526012",
-            "target": "Project5"
+            "source": 104,
+            "target": 133
         },
         {
-            "source": "33751207",
-            "target": "Project5"
+            "source": 123,
+            "target": 133
         },
         {
-            "source": "29758668",
-            "target": "Project6"
+            "source": 77,
+            "target": 134
         },
         {
-            "source": "32398742",
-            "target": "Project6"
+            "source": 101,
+            "target": 134
         },
         {
-            "source": "33162295",
-            "target": "Project6"
+            "source": 113,
+            "target": 134
         },
         {
-            "source": "32526012",
-            "target": "Project6"
+            "source": 104,
+            "target": 134
         },
         {
-            "source": "25915555",
-            "target": "Project7"
+            "source": 41,
+            "target": 135
         },
         {
-            "source": "28882690",
-            "target": "Project7"
+            "source": 64,
+            "target": 135
         },
         {
-            "source": "32398742",
-            "target": "Project7"
+            "source": 101,
+            "target": 135
         },
         {
-            "source": "19029902",
-            "target": "Project8"
+            "source": 11,
+            "target": 136
         },
         {
-            "source": "21743478",
-            "target": "Project8"
+            "source": 17,
+            "target": 136
         },
         {
-            "source": "22012654",
-            "target": "Project8"
+            "source": 18,
+            "target": 136
         },
         {
-            "source": "26682988",
-            "target": "Project8"
+            "source": 47,
+            "target": 136
         },
         {
-            "source": "31869262",
-            "target": "Project8"
+            "source": 97,
+            "target": 136
         },
         {
-            "source": "32750260",
-            "target": "Project8"
+            "source": 108,
+            "target": 136
         },
         {
-            "source": "33713813",
-            "target": "Project8"
+            "source": 122,
+            "target": 136
         },
         {
-            "source": "31211814",
-            "target": "Project8"
+            "source": 88,
+            "target": 136
         },
         {
-            "source": "32794262",
-            "target": "Project8"
+            "source": 109,
+            "target": 136
         },
         {
-            "source": "20495560",
-            "target": "Project9"
+            "source": 12,
+            "target": 137
         },
         {
-            "source": "20705860",
-            "target": "Project9"
+            "source": 13,
+            "target": 137
         },
         {
-            "source": "21350488",
-            "target": "Project9"
+            "source": 15,
+            "target": 137
         },
         {
-            "source": "21383243",
-            "target": "Project9"
+            "source": 16,
+            "target": 137
         },
         {
-            "source": "22246032",
-            "target": "Project9"
+            "source": 20,
+            "target": 137
         },
         {
-            "source": "22632124",
-            "target": "Project9"
+            "source": 21,
+            "target": 137
         },
         {
-            "source": "23438822",
-            "target": "Project9"
+            "source": 24,
+            "target": 137
         },
         {
-            "source": "24310610",
-            "target": "Project9"
+            "source": 31,
+            "target": 137
         },
         {
-            "source": "24696480",
-            "target": "Project9"
+            "source": 34,
+            "target": 137
         },
         {
-            "source": "24981333",
-            "target": "Project9"
+            "source": 35,
+            "target": 137
         },
         {
-            "source": "25220212",
-            "target": "Project9"
+            "source": 36,
+            "target": 137
         },
         {
-            "source": "25474568",
-            "target": "Project9"
+            "source": 37,
+            "target": 137
         },
         {
-            "source": "25713354",
-            "target": "Project9"
+            "source": 39,
+            "target": 137
         },
         {
-            "source": "26632272",
-            "target": "Project9"
+            "source": 46,
+            "target": 137
         },
         {
-            "source": "26762976",
-            "target": "Project9"
+            "source": 49,
+            "target": 137
         },
         {
-            "source": "26982722",
-            "target": "Project9"
+            "source": 50,
+            "target": 137
         },
         {
-            "source": "27109612",
-            "target": "Project9"
+            "source": 51,
+            "target": 137
         },
         {
-            "source": "27501248",
-            "target": "Project9"
+            "source": 52,
+            "target": 137
         },
         {
-            "source": "27525369",
-            "target": "Project9"
+            "source": 53,
+            "target": 137
         },
         {
-            "source": "28003350",
-            "target": "Project9"
+            "source": 57,
+            "target": 137
         },
         {
-            "source": "28442607",
-            "target": "Project9"
+            "source": 60,
+            "target": 137
         },
         {
-            "source": "28848230",
-            "target": "Project9"
+            "source": 63,
+            "target": 137
         },
         {
-            "source": "28895840",
-            "target": "Project9"
+            "source": 65,
+            "target": 137
         },
         {
-            "source": "28981105",
-            "target": "Project9"
+            "source": 66,
+            "target": 137
         },
         {
-            "source": "29281739",
-            "target": "Project9"
+            "source": 69,
+            "target": 137
         },
         {
-            "source": "29426578",
-            "target": "Project9"
+            "source": 71,
+            "target": 137
         },
         {
-            "source": "29627147",
-            "target": "Project9"
+            "source": 75,
+            "target": 137
         },
         {
-            "source": "29666415",
-            "target": "Project9"
+            "source": 76,
+            "target": 137
         },
         {
-            "source": "29774022",
-            "target": "Project9"
+            "source": 78,
+            "target": 137
         },
         {
-            "source": "30382855",
-            "target": "Project9"
+            "source": 81,
+            "target": 137
         },
         {
-            "source": "30473680",
-            "target": "Project9"
+            "source": 82,
+            "target": 137
         },
         {
-            "source": "31142816",
-            "target": "Project9"
+            "source": 87,
+            "target": 137
         },
         {
-            "source": "31455834",
-            "target": "Project9"
+            "source": 90,
+            "target": 137
         },
         {
-            "source": "31610635",
-            "target": "Project9"
+            "source": 92,
+            "target": 137
         },
         {
-            "source": "31767231",
-            "target": "Project9"
+            "source": 94,
+            "target": 137
         },
         {
-            "source": "32117223",
-            "target": "Project9"
+            "source": 98,
+            "target": 137
         },
         {
-            "source": "32352843",
-            "target": "Project9"
+            "source": 99,
+            "target": 137
         },
         {
-            "source": "32428113",
-            "target": "Project9"
+            "source": 102,
+            "target": 137
         },
         {
-            "source": "33580050",
-            "target": "Project9"
+            "source": 116,
+            "target": 137
         },
         {
-            "source": "33907239",
-            "target": "Project9"
+            "source": 126,
+            "target": 137
         },
         {
-            "source": "31456798",
-            "target": "Project9"
+            "source": 91,
+            "target": 137
         },
         {
-            "source": "32697943",
-            "target": "Project9"
+            "source": 106,
+            "target": 137
         },
         {
-            "source": "17386095",
-            "target": "Project10"
+            "source": 5,
+            "target": 138
         },
         {
-            "source": "24465609",
-            "target": "Project10"
+            "source": 32,
+            "target": 138
         },
         {
-            "source": "26086673",
-            "target": "Project10"
+            "source": 43,
+            "target": 138
         },
         {
-            "source": "26100017",
-            "target": "Project10"
+            "source": 44,
+            "target": 138
         },
         {
-            "source": "27994673",
-            "target": "Project10"
+            "source": 54,
+            "target": 138
         },
         {
-            "source": "28030816",
-            "target": "Project10"
+            "source": 58,
+            "target": 138
         },
         {
-            "source": "29269773",
-            "target": "Project10"
+            "source": 68,
+            "target": 138
         },
         {
-            "source": "31815398",
-            "target": "Project10"
+            "source": 95,
+            "target": 138
         },
         {
-            "source": "33129683",
-            "target": "Project10"
+            "source": 112,
+            "target": 138
         },
         {
-            "source": "33587339",
-            "target": "Project10"
+            "source": 121,
+            "target": 138
         },
         {
-            "source": "28502771",
-            "target": "Project10"
+            "source": 61,
+            "target": 138
         },
         {
-            "source": "29396410",
-            "target": "Project10"
+            "source": 70,
+            "target": 138
         },
         {
-            "source": "30374129",
-            "target": "Project10"
+            "source": 80,
+            "target": 138
         },
         {
-            "source": "32518143",
-            "target": "Project10"
+            "source": 103,
+            "target": 138
         },
         {
-            "source": "33351798",
-            "target": "Project10"
+            "source": 114,
+            "target": 138
         },
         {
-            "source": "33751207",
-            "target": "Project10"
+            "source": 123,
+            "target": 138
         },
         {
-            "source": "32526012",
-            "target": "Project10"
+            "source": 104,
+            "target": 138
         },
         {
-            "source": "28882690",
-            "target": "Project10"
+            "source": 64,
+            "target": 138
         }
     ]
 }
