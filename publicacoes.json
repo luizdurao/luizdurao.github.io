@@ -1532,7 +1532,7 @@
             "photo": "https://ensinoai.com/csbl/publications/circle/hep4_circle.png",
             "status": "2021",
             "status2": "2021",
-            "size": 60.0,
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px"
         },
@@ -1688,7 +1688,7 @@
             "photo": "https://ensinoai.com/csbl/publications/circle/Project1_circle.png",
             "status": "2004",
             "status2": "2021",
-            "size": 10.0,
+            "size": 40.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px"
         }
