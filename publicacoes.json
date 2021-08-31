@@ -1,1636 +1,284 @@
 {
     "nodes": [
         {
-            "id": 1,
-            "name": "Biochemical and biophysical research communications. 2004. RASL11A, member of a novel small monomeric GTPase gene family, is down-regulated in prostate tumors.",
+            "id": 149,
+            "name": "Zika Virus Biology, Transmission, and Pathways Book. 2021. Zika virus infection and cytokines.",
             "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/15033445",
-            "photo": "https://ensinoai.com/csbl/publications/circle/15033445_circle.png",
+            "link": "https://www.elsevier.com/books/zika-virus-biology-transmission-and-pathways/martin/978-0-12-820268-5?fbclid=IwAR0XfgTUL6-5CdbkRi3uacHG26tYZ5VU0usY71jV_HvHvS9TvIOX-DeqyGI",
+            "photo": "https://ensinoai.com/csbl/publications/circle/ZikaChapter1_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 148,
+            "name": "Zika Virus Biology, Transmission, and Pathways Book. 2021. Systems immunology of flavivirus infection.",
+            "color": "#000000",
+            "link": "https://www.elsevier.com/books/zika-virus-biology-transmission-and-pathways/martin/978-0-12-820268-5?fbclid=IwAR0XfgTUL6-5CdbkRi3uacHG26tYZ5VU0usY71jV_HvHvS9TvIOX-DeqyGI",
+            "photo": "https://ensinoai.com/csbl/publications/circle/ZikaChapter2_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 147,
+            "name": "Blood. 2021. Gasdermin D inhibition prevents multiple organ dysfunction during sepsis by blocking NET formation.",
+            "color": "#000000",
+            "link": "https://ashpublications.org/blood/article-abstract/doi/10.1182/blood.2021011525/476604/Gasdermin-D-inhibition-prevents-multiple-organ?redirectedFrom=fulltext",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34407544_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 146,
+            "name": "Clinical Nutrition ESPEN. 2021. Gene signatures of autopsy lungs from obese patients with COVID-19.",
+            "color": "#000000",
+            "link": "https://clinicalnutritionespen.com/article/S2405-4577(21)00184-4/fulltext",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34330510_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 145,
+            "name": "Scientific Reports. 2021. Proteomics reveals disturbances in the immune response and energy metabolism of monocytes from patients with septic shock.",
+            "color": "#000000",
+            "link": "https://www.nature.com/articles/s41598-021-94474-0",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34312428_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 144,
+            "name": "Biological Research. 2021. OUTBREAK: a user-friendly georeferencing online tool for disease surveillance.",
+            "color": "#000000",
+            "link": "https://biolres.biomedcentral.com/articles/10.1186/s40659-021-00343-5",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34238385_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 143,
+            "name": "JCI Insight. 2021. The relationship between cytokine and neutrophil gene network distinguishes SARS-CoV-2-infected patients by sex and age.",
+            "color": "#000000",
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8262322/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34027897_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 142,
+            "name": "Frontiers in Cellular and Infection Microbiology. 2021. P2x7 Receptor Signaling Blockade Reduces Lung Inflammation and Necrosis During Severe Experimental Tuberculosis.",
+            "color": "#000000",
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8131868/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34026666_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 141,
+            "name": "Systems Vaccinology",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/systems-vaccinology",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project1_circle.png",
             "status": "2004",
-            "status2": "2004",
-            "size": 10.0,
+            "status2": "2021",
+            "size": 40.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": ""
+            "label": "Systems Vaccinology"
         },
         {
-            "id": 2,
-            "name": "Oncogene. 2004. Antisense intronic non-coding RNA levels correlate to the degree of tumor differentiation in prostate cancer.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/15221013",
-            "photo": "https://ensinoai.com/csbl/publications/circle/15221013_circle.png",
+            "id": 140,
+            "name": "Long Noncoding RNAs",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/long-noncoding-RNAs",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project12_circle.png",
             "status": "2004",
-            "status2": "2004",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 3,
-            "name": "Omics. 2005. As antisense RNA gets intronic.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/15805775",
-            "photo": "https://ensinoai.com/csbl/publications/circle/15805775_circle.png",
-            "status": "2005",
-            "status2": "2005",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 4,
-            "name": "BMC biology. 2007. Androgen responsive intronic non-coding RNAs.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/17263875",
-            "photo": "https://ensinoai.com/csbl/publications/circle/17263875_circle.png",
-            "status": "2007",
-            "status2": "2007",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 5,
-            "name": "Genome biology. 2007. Genome mapping and expression analyses of human intronic noncoding RNAs reveal tissue-specific patterns and enrichment in genes related to regulation of transcription.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/17386095",
-            "photo": "https://ensinoai.com/csbl/publications/circle/17386095_circle.png",
-            "status": "2007",
-            "status2": "2007",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 6,
-            "name": "Biochemical and biophysical research communications. 2007. Splice variants of TLE family genes and up-regulation of a TLE3 isoform in prostate tumors.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/18273443",
-            "photo": "https://ensinoai.com/csbl/publications/circle/18273443_circle.png",
-            "status": "2007",
-            "status2": "2007",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 7,
-            "name": "Nucleic Acids Hybridization Modern Applications. 2007. Concepts on Microarray Design for Genome and Transcriptome Analyses",
-            "color": "#000000",
-            "link": "https://link.springer.com/chapter/10.1007/978-1-4020-6040-3_11",
-            "photo": "https://ensinoai.com/csbl/publications/circle/2007chapter1_circle.png",
-            "status": "2007",
-            "status2": "2007",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 8,
-            "name": "Journal of bacteriology. 2008. The iron stimulon of Xylella fastidiosa includes genes for type IV pilus and colicin V-like bacteriocins.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/18223091",
-            "photo": "https://ensinoai.com/csbl/publications/circle/18223091_circle.png",
-            "status": "2008",
-            "status2": "2008",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 9,
-            "name": "Genomics. 2008. Conserved tissue expression signatures of intronic noncoding RNAs transcribed from human and mouse loci.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/18495418",
-            "photo": "https://ensinoai.com/csbl/publications/circle/18495418_circle.png",
-            "status": "2008",
-            "status2": "2008",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 10,
-            "name": "PloS one. 2008. Origins of the Xylella fastidiosa prophage-like regions and their impact in genome differentiation.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/19116666",
-            "photo": "https://ensinoai.com/csbl/publications/circle/19116666_circle.png",
-            "status": "2008",
-            "status2": "2008",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 11,
-            "name": "Nature immunology. 2009. Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/19029902",
-            "photo": "https://ensinoai.com/csbl/publications/circle/19029902_circle.png",
-            "status": "2009",
-            "status2": "2009",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 12,
-            "name": "Nature immunology. 2010. The T helper type 2 response to cysteine proteases requires dendritic cell-basophil cooperation via ROS-mediated signaling.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/20495560",
-            "photo": "https://ensinoai.com/csbl/publications/circle/20495560_circle.png",
-            "status": "2010",
-            "status2": "2010",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 13,
-            "name": "Science. 2010. Activation of beta-catenin in dendritic cells regulates immunity versus tolerance in the intestine.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/20705860",
-            "photo": "https://ensinoai.com/csbl/publications/circle/20705860_circle.png",
-            "status": "2010",
-            "status2": "2010",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 14,
-            "name": "Immunity. 2010. Systems vaccinology.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/21029962",
-            "photo": "https://ensinoai.com/csbl/publications/circle/21029962_circle.png",
-            "status": "2010",
-            "status2": "2010",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 15,
-            "name": "Nature. 2011. Programming the magnitude and persistence of antibody responses with innate immunity.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/21350488",
-            "photo": "https://ensinoai.com/csbl/publications/circle/21350488_circle.png",
-            "status": "2011",
-            "status2": "2011",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 16,
-            "name": "Journal of immunology. 2011. Phenotype, function, and gene expression profiles of programmed death-1(hi) CD8 T cells in healthy human adults.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/21383243",
-            "photo": "https://ensinoai.com/csbl/publications/circle/21383243_circle.png",
-            "status": "2011",
-            "status2": "2011",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 17,
-            "name": "Nature immunology. 2011. Systems biology of vaccination for seasonal influenza in humans.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/21743478",
-            "photo": "https://ensinoai.com/csbl/publications/circle/21743478_circle.png",
-            "status": "2011",
-            "status2": "2011",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 18,
-            "name": "Wiley interdisciplinary reviews. 2012. Systems vaccinology: learning to compute the behavior of vaccine induced immunity.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/22012654",
-            "photo": "https://ensinoai.com/csbl/publications/circle/22012654_circle.png",
-            "status": "2012",
-            "status2": "2012",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 19,
-            "name": "Current Opinion in HIV and AIDS. 2012. Systems vaccinology: its promise and challenge for HIV vaccine development.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/22156839",
-            "photo": "https://ensinoai.com/csbl/publications/circle/22156839_circle.png",
-            "status": "2012",
-            "status2": "2012",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 20,
-            "name": "Blood. 2012. Distinct TLR adjuvants differentially stimulate systemic and local innate immune responses in nonhuman primates.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/22246032",
-            "photo": "https://ensinoai.com/csbl/publications/circle/22246032_circle.png",
-            "status": "2012",
-            "status2": "2012",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 21,
-            "name": "Cellular microbiology. 2012. Repression of bacterial lipoprotein production by Francisella novicida facilitates evasion of innate immune recognition.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/22632124",
-            "photo": "https://ensinoai.com/csbl/publications/circle/22632124_circle.png",
-            "status": "2012",
-            "status2": "2012",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 22,
-            "name": "Arthritis and rheumatism. 2012. Gene profiling of Chikungunya virus arthritis in a mouse model reveals significant overlap with rheumatoid arthritis.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/22833339",
-            "photo": "https://ensinoai.com/csbl/publications/circle/22833339_circle.png",
-            "status": "2012",
-            "status2": "2012",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 23,
-            "name": "Current topics in microbiology and immunology. 2013. Systems biology of vaccination in the elderly.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/22903566",
-            "photo": "https://ensinoai.com/csbl/publications/circle/22903566_circle.png",
-            "status": "2013",
-            "status2": "2013",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 24,
-            "name": "Immunity. 2013. Chronic but not acute virus infection induces sustained expansion of myeloid suppressor cell numbers that inhibit viral-specific T cell immunity.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/23438822",
-            "photo": "https://ensinoai.com/csbl/publications/circle/23438822_circle.png",
-            "status": "2013",
-            "status2": "2013",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 25,
-            "name": "Annual review of phytopathology. 2013. The role of prophage in plant-pathogenic bacteria.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/23725471",
-            "photo": "https://ensinoai.com/csbl/publications/circle/23725471_circle.png",
-            "status": "2013",
-            "status2": "2013",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 26,
-            "name": "Seminars in immunology. 2013. Systems biological approaches to measure and understand vaccine immunity in humans.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/23796714",
-            "photo": "https://ensinoai.com/csbl/publications/circle/23796714_circle.png",
-            "status": "2013",
-            "status2": "2013",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 27,
-            "name": "Immunological reviews. 2013. Immunity to viruses: learning from successful human vaccines.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/23947360",
-            "photo": "https://ensinoai.com/csbl/publications/circle/23947360_circle.png",
-            "status": "2013",
-            "status2": "2013",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 28,
-            "name": "PLoS genetics. 2013. The intronic long noncoding RNA ANRASSF1 recruits PRC2 to the RASSF1A promoter, reducing the expression of RASSF1A and increasing cell proliferation.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/23990798",
-            "photo": "https://ensinoai.com/csbl/publications/circle/23990798_circle.png",
-            "status": "2013",
-            "status2": "2013",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 29,
-            "name": "European journal of immunology. 2013. Gene signatures related to B-cell proliferation predict influenza vaccine-induced antibody response.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/24136404",
-            "photo": "https://ensinoai.com/csbl/publications/circle/24136404_circle.png",
-            "status": "2013",
-            "status2": "2013",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 30,
-            "name": "Nature immunology. 2013. Molecular signatures of antibody responses derived from a systems biology study of five human vaccines.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/24336226",
-            "photo": "https://ensinoai.com/csbl/publications/circle/24336226_circle.png",
-            "status": "2013",
-            "status2": "2013",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 31,
-            "name": "Science. 2014. Vaccine activation of the nutrient sensor GCN2 in dendritic cells enhances antigen presentation.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/24310610",
-            "photo": "https://ensinoai.com/csbl/publications/circle/24310610_circle.png",
-            "status": "2014",
-            "status2": "2014",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 32,
-            "name": "PloS one. 2014. Genomic analyses reveal broad impact of miR-137 on genes associated with malignant transformation and neuronal differentiation in glioblastoma cells.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/24465609",
-            "photo": "https://ensinoai.com/csbl/publications/circle/24465609_circle.png",
-            "status": "2014",
-            "status2": "2014",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 33,
-            "name": "Editorial. 2014. Genetic control of immune response and susceptibility to infectious diseases.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/24689057",
-            "photo": "https://ensinoai.com/csbl/publications/circle/24689057_circle.png",
-            "status": "2014",
-            "status2": "2014",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 34,
-            "name": "Journal of virology. 2014. CCR2 deficiency promotes exacerbated chronic erosive neutrophil-dominated chikungunya virus arthritis.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/24696480",
-            "photo": "https://ensinoai.com/csbl/publications/circle/24696480_circle.png",
-            "status": "2014",
-            "status2": "2014",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 35,
-            "name": "Cell host & microbe. 2014. Dengue virus infection induces expansion of a CD14(+)CD16(+) monocyte population that stimulates plasmablast differentiation.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/24981333",
-            "photo": "https://ensinoai.com/csbl/publications/circle/24981333_circle.png",
-            "status": "2014",
-            "status2": "2014",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 36,
-            "name": "Immunity. 2014. TLR5-mediated sensing of gut microbiota is necessary for antibody responses to seasonal influenza vaccination.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/25220212",
-            "photo": "https://ensinoai.com/csbl/publications/circle/25220212_circle.png",
-            "status": "2014",
-            "status2": "2014",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 37,
-            "name": "PLoS neglected tropical diseases. 2014. Multiple immune factors are involved in controlling acute and chronic chikungunya virus infection.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/25474568",
-            "photo": "https://ensinoai.com/csbl/publications/circle/25474568_circle.png",
-            "status": "2014",
-            "status2": "2014",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 38,
-            "name": "Computational Systems Biology. 2014. Systems Biology of Infectious Diseases and Vaccines",
-            "color": "#000000",
-            "link": "https://www.sciencedirect.com/science/article/pii/B9780124059269000150?via%3Dihub",
-            "photo": "https://ensinoai.com/csbl/publications/circle/2014chapter2_circle.png",
-            "status": "2014",
-            "status2": "2014",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 39,
-            "name": "PNAS. 2015. Initial viral load determines the magnitude of the human CD8 T cell response to yellow fever vaccination.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/25713354",
-            "photo": "https://ensinoai.com/csbl/publications/circle/25713354_circle.png",
-            "status": "2015",
-            "status2": "2015",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 40,
-            "name": "Vaccine. 2015. Systems vaccinology: Enabling rational vaccine design with systems biological approaches.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/25858860",
-            "photo": "https://ensinoai.com/csbl/publications/circle/25858860_circle.png",
-            "status": "2015",
-            "status2": "2015",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 41,
-            "name": "Expert review of vaccines. 2015. Is the gut microbiome key to modulating vaccine efficacy?",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/25915555",
-            "photo": "https://ensinoai.com/csbl/publications/circle/25915555_circle.png",
-            "status": "2015",
-            "status2": "2015",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 42,
-            "name": "Philos. Trans. R. Soc. B. 2015. Vaccinology in the era of high-throughput biology.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/25964458",
-            "photo": "https://ensinoai.com/csbl/publications/circle/25964458_circle.png",
-            "status": "2015",
-            "status2": "2015",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 43,
-            "name": "PLoS neglected tropical diseases. 2015. MicroRNA Transcriptome Profiling in Heart of Trypanosoma cruzi-Infected Mice: Parasitological and Cardiological Outcomes.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/26086673",
-            "photo": "https://ensinoai.com/csbl/publications/circle/26086673_circle.png",
-            "status": "2015",
-            "status2": "2015",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 44,
-            "name": "Molecular and cellular biology. 2015. RNA-Binding Protein Musashi1 Is a Central Regulator of Adhesion Pathways in Glioblastoma.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/26100017",
-            "photo": "https://ensinoai.com/csbl/publications/circle/26100017_circle.png",
-            "status": "2015",
-            "status2": "2015",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 45,
-            "name": "PLoS neglected tropical diseases. 2015. Synergy of Omeprazole and Praziquantel In Vitro Treatment against Schistosoma mansoni Adult Worms.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/26402251",
-            "photo": "https://ensinoai.com/csbl/publications/circle/26402251_circle.png",
-            "status": "2015",
-            "status2": "2015",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 46,
-            "name": "Cellular immunology. 2015. Myeloperoxidase in human peripheral blood lymphocytes: Production and subcellular localization.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/26632272",
-            "photo": "https://ensinoai.com/csbl/publications/circle/26632272_circle.png",
-            "status": "2015",
-            "status2": "2015",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 47,
-            "name": "Immunity. 2015. Systems Analysis of Immunity to Influenza Vaccination across Multiple Years and in Diverse Populations Reveals Shared Molecular Signatures.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/26682988",
-            "photo": "https://ensinoai.com/csbl/publications/circle/26682988_circle.png",
-            "status": "2015",
-            "status2": "2015",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 48,
-            "name": "PNAS. 2016. Systems biology of immunity to MF59-adjuvanted versus nonadjuvanted trivalent seasonal influenza vaccines in early childhood.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/26755593",
-            "photo": "https://ensinoai.com/csbl/publications/circle/26755593_circle.png",
-            "status": "2016",
-            "status2": "2016",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 49,
-            "name": "Nucleic acids research. 2016. Analysis of LexA binding sites and transcriptomics in response to genotoxic stress in Leptospira interrogans.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/26762976",
-            "photo": "https://ensinoai.com/csbl/publications/circle/26762976_circle.png",
-            "status": "2016",
-            "status2": "2016",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 50,
-            "name": "Nature. 2016. The amino acid sensor GCN2 controls gut inflammation by inhibiting inflammasome activation.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/26982722",
-            "photo": "https://ensinoai.com/csbl/publications/circle/26982722_circle.png",
-            "status": "2016",
-            "status2": "2016",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 51,
-            "name": "The American journal of pathology. 2016. SerpinB2 Deficiency Results in a Stratum Corneum Defect and Increased Sensitivity to Topically Applied Inflammatory Agents.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/27109612",
-            "photo": "https://ensinoai.com/csbl/publications/circle/27109612_circle.png",
-            "status": "2016",
-            "status2": "2016",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 52,
-            "name": "Nature. 2016. Defining CD8+ T cells that provide the proliferative burst after PD-1 therapy.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/27501248",
-            "photo": "https://ensinoai.com/csbl/publications/circle/27501248_circle.png",
-            "status": "2016",
-            "status2": "2016",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 53,
-            "name": "Nature immunology. 2016. Defining antigen-specific plasmablast and memory B cell subsets in human blood after viral infection or vaccination.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/27525369",
-            "photo": "https://ensinoai.com/csbl/publications/circle/27525369_circle.png",
-            "status": "2016",
-            "status2": "2016",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 54,
-            "name": "Journal of Cancer. 2016. Antimicrobial peptide LL-37 participates in the transcriptional regulation of melanoma cells.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/27994673",
-            "photo": "https://ensinoai.com/csbl/publications/circle/27994673_circle.png",
-            "status": "2016",
-            "status2": "2016",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 55,
-            "name": "Current issues in molecular biology. 2017. Systems Vaccinology Applied to DNA Vaccines: Perspective and Challenges.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/27648510",
-            "photo": "https://ensinoai.com/csbl/publications/circle/27648510_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 56,
-            "name": "Journal Article. 2017. Adjuvanting a Simian Immunodeficiency Virus Vaccine with Toll-Like Receptor Ligands Encapsulated in Nanoparticles Induces Persistent Antibody Responses and Enhanced Protection in TRIM5? Restrictive Macaques.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/27928002",
-            "photo": "https://ensinoai.com/csbl/publications/circle/27928002_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 57,
-            "name": "The Journal of infectious diseases. 2017. Blood Gene Signatures of Chagas Cardiomyopathy With or Without Ventricular Dysfunction.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28003350",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28003350_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 58,
-            "name": "Oncotarget. 2017. Down-regulation of 14q32-encoded miRNAs and tumor suppressor role for miR-654-3p in papillary thyroid cancer.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28030816",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28030816_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 59,
-            "name": "PNAS. 2017. Systems analysis of protective immune responses to RTS,S malaria vaccination in humans.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28193898",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28193898_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 60,
-            "name": "mBio. 2017. <i>N</i>-Methyl-d-Aspartate (NMDA) Receptor Blockade Prevents Neuronal Death Induced by Zika Virus Infection.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28442607",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28442607_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 61,
-            "name": "Cell. 2017. Metabolic Phenotypes of Response to Vaccination in Humans.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28502771",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28502771_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 62,
-            "name": "Scientific reports. 2017. Systems Immunology of Diabetes-Tuberculosis Comorbidity Reveals Signatures of Disease Complications.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28515464",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28515464_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 63,
-            "name": "Nature microbiology. 2017. Specific inhibition of NLRP3 in chikungunya disease reveals a role for inflammasomes in alphavirus-induced inflammation.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28848230",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28848230_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 64,
-            "name": "Pharmacological research. 2017. Toxicogenomic and bioinformatics platforms to identify key molecular mechanisms of a curcumin-analogue DM-1 toxicity in melanoma cells.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28882690",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28882690_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 65,
-            "name": "eLife. 2017. Crucial role for T cell-intrinsic IL-18R-MyD88 signaling in cognate immune response to intracellular parasite infection.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28895840",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28895840_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 66,
-            "name": "Cell death & disease. 2017. Calcium/calmodulin-dependent kinase kinase 2 regulates hematopoietic stem and progenitor cell regeneration.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/28981105",
-            "photo": "https://ensinoai.com/csbl/publications/circle/28981105_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 67,
-            "name": "Frontiers in immunology. 2017. Induction of Cell Cycle and NK Cell Responses by Live-Attenuated Oral Vaccines against Typhoid Fever.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29075261",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29075261_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 68,
-            "name": "Scientific reports. 2017. Integration of miRNA and gene expression profiles suggest a role for miRNAs in the pathobiological processes of acute Trypanosoma cruzi infection.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29269773",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29269773_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 69,
-            "name": "PLoS pathogens. 2017. Lower temperatures reduce type I interferon activity and promote alphaviral arthritis.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29281739",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29281739_circle.png",
-            "status": "2017",
-            "status2": "2017",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 70,
-            "name": "Nature communications. 2018. Discordant congenital Zika syndrome twins show differential in vitro viral susceptibility of neural progenitor cells.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29396410",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29396410_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 71,
-            "name": "Journal of autoimmunity. 2018. TGF-? signalling defect is linked to low CD39 expression on regulatory T cells and methotrexate resistance in rheumatoid arthritis.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29426578",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29426578_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 72,
-            "name": "BMC bioinformatics. 2018. StructRNAfinder: an automated pipeline and web server for RNA families prediction.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29454313",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29454313_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 73,
-            "name": "BMC bioinformatics. 2018. CEMiTool: a Bioconductor package for performing comprehensive modular co-expression analyses.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29458351",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29458351_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 74,
-            "name": "Genome biology. 2018. Genomic positional conservation identifies topological anchor point RNAs linked to developmental loci.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29540241",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29540241_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 75,
-            "name": "The Lancet Infectious diseases. 2018. Determinants of antibody persistence across doses and continents after single-dose rVSV-ZEBOV vaccination for Ebola virus disease: an observational cohort study.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29627147",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29627147_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 76,
-            "name": "Nature communications. 2018. Canonical PI3K? signaling in myeloid cells restricts Trypanosoma cruzi infection and dampens chagasic myocarditis.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29666415",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29666415_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 77,
-            "name": "Physical review. E. 2018. Gene regulatory and signaling networks exhibit distinct topological distributions of motifs.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29758668",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29758668_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 78,
-            "name": "Frontiers in immunology. 2018. Acute Zika Virus Infection in an Endemic Area Shows Modest Proinflammatory Systemic Immunoactivation and Cytokine-Symptom Associations.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29774022",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29774022_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 79,
-            "name": "Cell host & microbe. 2018. Daily Rhythms of TNF? Expression and Food Intake Regulate Synchrony of Plasmodium Stages with the Host Circadian Cycle.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/29805094",
-            "photo": "https://ensinoai.com/csbl/publications/circle/29805094_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 80,
-            "name": "Nature immunology. 2018. Inflammation induced by influenza virus impairs human innate immune control of pneumococcus.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/30374129",
-            "photo": "https://ensinoai.com/csbl/publications/circle/30374129_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 81,
-            "name": "Malaria journal. 2018. Genetic sequence characterization and naturally acquired immune response to Plasmodium vivax Rhoptry Neck Protein 2 (PvRON2).",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/30382855",
-            "photo": "https://ensinoai.com/csbl/publications/circle/30382855_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 82,
-            "name": "Frontiers in microbiology. 2018. <i>In situ</i> Immune Signatures and Microbial Load at the Nasopharyngeal Interface in Children With Acute Respiratory Infection.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/30473680",
-            "photo": "https://ensinoai.com/csbl/publications/circle/30473680_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 83,
-            "name": "Tuberculosis. 2018. Building capacity for advances in tuberculosis research; proceedings of the third RePORT international meeting.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/30514497",
-            "photo": "https://ensinoai.com/csbl/publications/circle/30514497_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 84,
-            "name": "Theoretical and Applied Aspects of Systems Biology. 2018. Systems Immunology",
-            "color": "#000000",
-            "link": "https://www.springerprofessional.de/en/systems-immunology/15865294",
-            "photo": "https://ensinoai.com/csbl/publications/circle/2018chapter3_circle.png",
-            "status": "2018",
-            "status2": "2018",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 85,
-            "name": "Frontiers in genetics. 2019. webCEMiTool: Co-expression Modular Analysis Made Easy.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/30894872",
-            "photo": "https://ensinoai.com/csbl/publications/circle/30894872_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 86,
-            "name": "Methods in molecular biology. 2019. Predicting RNA Families in Nucleotide Sequences Using StructRNAfinder.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31020552",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31020552_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 87,
-            "name": "Scientific reports. 2019. Molecular degree of perturbation of plasma inflammatory markers associated with tuberculosis reveals distinct disease profiles between Indian and Chinese populations.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31142816",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31142816_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 88,
-            "name": "PLoS pathogens. 2019. Systems analysis of subjects acutely infected with the Chikungunya virus.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31211814",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31211814_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 89,
-            "name": "PNAS. 2019. Long noncoding RNAs are involved in multiple immunological pathways in response to vaccination.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31399544",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31399544_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 90,
-            "name": "Scientific reports. 2019. SerpinB2 inhibits migration and promotes a resolution phase signature in large peritoneal macrophages.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31455834",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31455834_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 91,
-            "name": "Frontiers in immunology. 2019. Neonatal T Follicular Helper Cells Are Lodged in a Pre-T Follicular Helper Stage Favoring Innate Over Adaptive Germinal Center Responses.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31456798",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31456798_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 92,
-            "name": "Acta paediatrica. 2019. Biological sex influences antibody responses to routine vaccinations in the first year of life.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31610635",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31610635_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 93,
-            "name": "Frontiers in genetics. 2019. Assessing the Impact of Sample Heterogeneity on Transcriptome Analysis of Human Diseases Using MDP Webtool.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31708960",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31708960_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 94,
-            "name": "Environmental pollution. 2019. Hydroquinone exposure alters the morphology of lymphoid organs in vaccinated C57Bl/6 mice.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31767231",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31767231_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 95,
-            "name": "Computational Biology. 2019. Integrative Biology Approaches Applied to Human Diseases",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31815398",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31815398_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 96,
-            "name": "Frontiers in immunology. 2019. Exacerbation of Chikungunya Virus Rheumatic Immunopathology by a High Fiber Diet and Butyrate.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31849947",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31849947_circle.png",
-            "status": "2019",
-            "status2": "2019",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 97,
-            "name": "Human vaccines & immunotherapeutics. 2020. Methods for predicting vaccine immunogenicity and reactogenicity.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/31869262",
-            "photo": "https://ensinoai.com/csbl/publications/circle/31869262_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 98,
-            "name": "Frontiers in immunology. 2020. Flavivirus-Mediating B Cell Differentiation Into Antibody-Secreting Cells in Humans Is Associated With the Activation of the Tryptophan Metabolism.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32117223",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32117223_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 99,
-            "name": "DNA and cell biology. 2020. Variants in the Kisspeptin-GnRH Pathway Modulate the Hormonal Profile and Reproductive Outcomes.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32352843",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32352843_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 100,
-            "name": "The journal of venomous animals and toxins including tropical diseases. 2020. S\u00e3o Paulo School of Advanced Sciences on Vaccines: an overview.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32362926",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32362926_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 101,
-            "name": "Translational psychiatry. 2020. Drug repositioning for psychiatric and neurological disorders through a network medicine approach.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32398742",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32398742_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 102,
-            "name": "Clinics. 2020. Susceptibility of the Elderly to SARS-CoV-2 Infection: ACE-2 Overexpression, Shedding, and Antibody-dependent Enhancement (ADE).",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32428113",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32428113_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 103,
-            "name": "Science signaling. 2020. Molecular alterations in the extracellular matrix in the brains of newborns with congenital Zika syndrome.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32518143",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32518143_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 104,
-            "name": "The Journal of infectious diseases. 2020. ACE2 Expression Is Increased in the Lungs of Patients With Comorbidities Associated With Severe COVID-19.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32526012",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32526012_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 105,
-            "name": "PLoS neglected tropical diseases. 2020. Platelet disturbances correlate with endothelial cell activation in uncomplicated Plasmodium vivax malaria.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32687542",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32687542_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 106,
-            "name": "Cell metabolism. 2020. Elevated Glucose Levels Favor SARS-CoV-2 Infection and Monocyte Response through a HIF-1?/Glycolysis-Dependent Axis.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32697943",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32697943_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 107,
-            "name": "Science. 2020. Evolution and epidemic spread of SARS-CoV-2 in Brazil.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32703910",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32703910_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 108,
-            "name": "Human vaccines & immunotherapeutics. 2020. Antigenicity prediction and vaccine recommendation of human influenza virus A (H3N2) using convolutional neural networks.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32750260",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32750260_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 109,
-            "name": "Journal of leukocyte biology. 2020. Immature neutrophil signature associated with the sexual dimorphism of systemic juvenile idiopathic arthritis.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32794262",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32794262_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 110,
-            "name": "Frontiers in genetics. 2020. Editorial: User-Friendly Tools Applied to Genetics or Systems Biology.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33033490",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33033490_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 111,
-            "name": "BMC medical genomics. 2020. Noninvasive prenatal paternity determination using microhaplotypes: a pilot study.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33097049",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33097049_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 112,
-            "name": "Research in Social and Administrative Pharmacy. 2020. Genomics, epigenomics and pharmacogenomics of Familial Hypercholesterolemia (FHBGEP): A study protocol.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33129683",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33129683_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 113,
-            "name": "Seminars in immunology. 2020. Network vaccinology.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33162295",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33162295_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 114,
-            "name": "PLoS neglected tropical diseases. 2020. miRNAs may play a major role in the control of gene expression in key pathobiological processes in Chagas disease cardiomyopathy.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33351798",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33351798_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 115,
-            "name": "Critical reviews in immunology. 2020. Toward an Integrated View of Operational Tolerance in Human Renal Transplantation: A Systems Biology Perspective.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33463950",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33463950_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 116,
-            "name": "NPJ vaccines. 2020. Rapid dose-dependent Natural Killer (NK) cell modulation and cytokine responses following human rVSV-ZEBOV Ebolavirus vaccination.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33580050",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33580050_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 117,
-            "name": "Journal of leukocyte biology. 2020. Neuroinflammation at single cell level: What is new?",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/32779279",
-            "photo": "https://ensinoai.com/csbl/publications/circle/32779279_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 118,
-            "name": "Computational Biology. 2020. Network Medicine: Methods and Applications",
-            "color": "#000000",
-            "link": "https://link.springer.com/chapter/10.1007/978-3-030-51862-2_1",
-            "photo": "https://ensinoai.com/csbl/publications/circle/2020chapter4_circle.png",
-            "status": "2020",
-            "status2": "2020",
-            "size": 10.0,
-            "bordercolor": " #000000",
-            "bordersize": "0.8px",
-            "label": ""
-        },
-        {
-            "id": 119,
-            "name": "JCI insight. 2021. Pneumococcal colonization impairs mucosal immune responses to live attenuated influenza vaccine.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33497364",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33497364_circle.png",
-            "status": "2021",
             "status2": "2021",
-            "size": 10.0,
+            "size": 40.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": ""
+            "label": "Long Noncoding RNAs"
         },
         {
-            "id": 120,
-            "name": "Vaccines. 2021. Human Transcriptomic Response to the VSV-Vectored Ebola Vaccine.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33498214",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33498214_circle.png",
-            "status": "2021",
+            "id": 139,
+            "name": "Life Sciences",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/life-sciences",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project11_circle.png",
+            "status": "2004",
             "status2": "2021",
-            "size": 10.0,
+            "size": 40.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": ""
+            "label": "Life Sciences"
         },
         {
-            "id": 121,
-            "name": "Physiological reports. 2021. Profiling plasma-extracellular vesicle proteins and microRNAs in diabetes onset in middle-aged male participants in the ELSA-Brasil study.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33587339",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33587339_circle.png",
-            "status": "2021",
+            "id": 138,
+            "name": "Integrative Biology",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/integrative-biology",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project10_circle.png",
+            "status": "2004",
             "status2": "2021",
-            "size": 10.0,
+            "size": 40.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": ""
+            "label": "Integrative Biology"
         },
         {
-            "id": 122,
-            "name": "International journal of infectious diseases. 2021. In-depth analysis of laboratory parameters reveals the interplay between sex, age, and systemic inflammation in individuals with COVID-19.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33713813",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33713813_circle.png",
-            "status": "2021",
+            "id": 137,
+            "name": "Microbiology or Immunology",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/microbiology-immunology",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project9_circle.png",
+            "status": "2004",
             "status2": "2021",
-            "size": 10.0,
+            "size": 40.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": ""
+            "label": "Microbiology and Immunology"
         },
         {
-            "id": 123,
-            "name": "European archives of psychiatry and clinical neuroscience. 2021. Linking proteomic alterations in schizophrenia hippocampus to NMDAr hypofunction in human neurons and oligodendrocytes.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33751207",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33751207_circle.png",
-            "status": "2021",
+            "id": 136,
+            "name": "Machine Learning",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/machine-learning",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project8_circle.png",
+            "status": "2004",
             "status2": "2021",
-            "size": 10.0,
+            "size": 40.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": ""
+            "label": "Machine Learning"
         },
         {
-            "id": 124,
-            "name": "Frontiers in immunology. 2021. Systems Biology Analysis of the Radiation-Attenuated Schistosome Vaccine Reveals a Role for Growth Factors in Protection and Hemostasis Inhibition in Parasite Survival.",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33777004",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33777004_circle.png",
-            "status": "2021",
+            "id": 135,
+            "name": "Drug repositioning",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/drug-repositioning",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project7_circle.png",
+            "status": "2004",
             "status2": "2021",
-            "size": 10.0,
+            "size": 40.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": ""
+            "label": "Drug repositioning"
         },
         {
-            "id": 125,
-            "name": "Journal of immunology. 2021. Kdm6b Regulates the Generation of Effector CD8 + T Cells by Inducing Chromatin Accessibility in Effector-Associated Genes",
-            "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33863789",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33863789_circle.png",
-            "status": "2021",
+            "id": 134,
+            "name": "Knowledge-based network",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/knowledge-based-network",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project6_circle.png",
+            "status": "2004",
             "status2": "2021",
-            "size": 10.0,
+            "size": 40.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": ""
+            "label": "Knowledge-based network"
         },
         {
-            "id": 126,
-            "name": "Scientific reports. 2021. Colorimetric RT-LAMP SARS-CoV-2 diagnostic sensitivity relies on color interpretation and viral load",
+            "id": 133,
+            "name": "Systems Immunology of Human Diseases",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/systems-immunology-human-diseases",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project5_circle.png",
+            "status": "2004",
+            "status2": "2021",
+            "size": 40.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": "Systems Immunology of Human Diseases"
+        },
+        {
+            "id": 132,
+            "name": "User-friendly computational Tools",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/user-friendly-computational-tools",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project4_circle.png",
+            "status": "2004",
+            "status2": "2021",
+            "size": 40.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": "User-friendly computational Tools"
+        },
+        {
+            "id": 131,
+            "name": "Digital Epidemiology",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/digital-epidemiology",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project3_circle.png",
+            "status": "2004",
+            "status2": "2021",
+            "size": 40.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": "Digital Epidemiology"
+        },
+        {
+            "id": 130,
+            "name": "Network & Precision Medicine",
+            "color": "?",
+            "link": "https://www.csbiology.org/project/network-precision-medicine",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Project2_circle.png",
+            "status": "2004",
+            "status2": "2021",
+            "size": 40.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": "Network & Precision Medicine"
+        },
+        {
+            "id": 129,
+            "name": "CSBL",
+            "color": "?",
+            "link": "https://www.csbiology.org/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/logo_circle.png",
+            "status": "2004",
+            "status2": "2021",
+            "size": 80.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": "CSBL"
+        },
+        {
+            "id": 128,
+            "name": "Hepatology Communications. 2021. An Experimental DUAL Model of Advanced Liver Damage",
             "color": "#000000",
-            "link": "https://pubmed.ncbi.nlm.nih.gov/33907239",
-            "photo": "https://ensinoai.com/csbl/publications/circle/33907239_circle.png",
+            "link": "https://aasldpubs.onlinelibrary.wiley.com/doi/full/10.1002/hep4.1698",
+            "photo": "https://ensinoai.com/csbl/publications/circle/hep4_circle.png",
             "status": "2021",
             "status2": "2021",
             "size": 10.0,
@@ -1652,11 +300,11 @@
             "label": ""
         },
         {
-            "id": 128,
-            "name": "Hepatology Communications. 2021. An Experimental DUAL Model of Advanced Liver Damage",
+            "id": 126,
+            "name": "Scientific reports. 2021. Colorimetric RT-LAMP SARS-CoV-2 diagnostic sensitivity relies on color interpretation and viral load",
             "color": "#000000",
-            "link": "https://aasldpubs.onlinelibrary.wiley.com/doi/full/10.1002/hep4.1698",
-            "photo": "https://ensinoai.com/csbl/publications/circle/hep4_circle.png",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33907239",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33907239_circle.png",
             "status": "2021",
             "status2": "2021",
             "size": 10.0,
@@ -1665,470 +313,1678 @@
             "label": ""
         },
         {
-            "id": 129,
-            "name": "CSBL",
-            "color": "?",
-            "link": "https://www.csbiology.org/",
-            "photo": "https://ensinoai.com/csbl/publications/circle/logo_circle.png",
-            "status": "2004",
+            "id": 125,
+            "name": "Journal of immunology. 2021. Kdm6b Regulates the Generation of Effector CD8 + T Cells by Inducing Chromatin Accessibility in Effector-Associated Genes",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33863789",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33863789_circle.png",
+            "status": "2021",
             "status2": "2021",
-            "size": 80.0,
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "CSBL"
+            "label": ""
         },
         {
-            "id": 130,
-            "name": "Network & Precision Medicine",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/network-precision-medicine",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project2_circle.png",
-            "status": "2004",
+            "id": 124,
+            "name": "Frontiers in immunology. 2021. Systems Biology Analysis of the Radiation-Attenuated Schistosome Vaccine Reveals a Role for Growth Factors in Protection and Hemostasis Inhibition in Parasite Survival.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33777004",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33777004_circle.png",
+            "status": "2021",
             "status2": "2021",
-            "size": 40.0,
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Network & Precision Medicine"
+            "label": ""
         },
         {
-            "id": 131,
-            "name": "Digital Epidemiology",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/digital-epidemiology",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project3_circle.png",
-            "status": "2004",
+            "id": 123,
+            "name": "European archives of psychiatry and clinical neuroscience. 2021. Linking proteomic alterations in schizophrenia hippocampus to NMDAr hypofunction in human neurons and oligodendrocytes.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33751207",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33751207_circle.png",
+            "status": "2021",
             "status2": "2021",
-            "size": 40.0,
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Digital Epidemiology"
+            "label": ""
         },
         {
-            "id": 132,
-            "name": "User-friendly computational Tools",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/user-friendly-computational-tools",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project4_circle.png",
-            "status": "2004",
+            "id": 122,
+            "name": "International journal of infectious diseases. 2021. In-depth analysis of laboratory parameters reveals the interplay between sex, age, and systemic inflammation in individuals with COVID-19.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33713813",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33713813_circle.png",
+            "status": "2021",
             "status2": "2021",
-            "size": 40.0,
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "User-friendly computational Tools"
+            "label": ""
         },
         {
-            "id": 133,
-            "name": "Systems Immunology of Human Diseases",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/systems-immunology-human-diseases",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project5_circle.png",
-            "status": "2004",
+            "id": 121,
+            "name": "Physiological reports. 2021. Profiling plasma-extracellular vesicle proteins and microRNAs in diabetes onset in middle-aged male participants in the ELSA-Brasil study.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33587339",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33587339_circle.png",
+            "status": "2021",
             "status2": "2021",
-            "size": 40.0,
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Systems Immunology of Human Diseases"
+            "label": ""
         },
         {
-            "id": 134,
-            "name": "Knowledge-based network",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/knowledge-based-network",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project6_circle.png",
-            "status": "2004",
+            "id": 120,
+            "name": "Vaccines. 2021. Human Transcriptomic Response to the VSV-Vectored Ebola Vaccine.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33498214",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33498214_circle.png",
+            "status": "2021",
             "status2": "2021",
-            "size": 40.0,
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Knowledge-based network"
+            "label": ""
         },
         {
-            "id": 135,
-            "name": "Drug repositioning",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/drug-repositioning",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project7_circle.png",
-            "status": "2004",
+            "id": 119,
+            "name": "JCI insight. 2021. Pneumococcal colonization impairs mucosal immune responses to live attenuated influenza vaccine.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33497364",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33497364_circle.png",
+            "status": "2021",
             "status2": "2021",
-            "size": 40.0,
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Drug repositioning"
+            "label": ""
         },
         {
-            "id": 136,
-            "name": "Machine Learning",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/machine-learning",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project8_circle.png",
-            "status": "2004",
-            "status2": "2021",
-            "size": 40.0,
+            "id": 118,
+            "name": "Computational Biology. 2020. Network Medicine: Methods and Applications",
+            "color": "#000000",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-030-51862-2_1",
+            "photo": "https://ensinoai.com/csbl/publications/circle/2020chapter4_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Machine Learning"
+            "label": ""
         },
         {
-            "id": 137,
-            "name": "Microbiology or Immunology",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/microbiology-immunology",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project9_circle.png",
-            "status": "2004",
-            "status2": "2021",
-            "size": 40.0,
+            "id": 117,
+            "name": "Journal of leukocyte biology. 2020. Neuroinflammation at single cell level: What is new?",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32779279",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32779279_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Microbiology and Immunology"
+            "label": ""
         },
         {
-            "id": 138,
-            "name": "Integrative Biology",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/integrative-biology",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project10_circle.png",
-            "status": "2004",
-            "status2": "2021",
-            "size": 40.0,
+            "id": 116,
+            "name": "NPJ vaccines. 2020. Rapid dose-dependent Natural Killer (NK) cell modulation and cytokine responses following human rVSV-ZEBOV Ebolavirus vaccination.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33580050",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33580050_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Integrative Biology"
+            "label": ""
         },
         {
-            "id": 139,
-            "name": "Life Sciences",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/life-sciences",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project11_circle.png",
-            "status": "2004",
-            "status2": "2021",
-            "size": 40.0,
+            "id": 115,
+            "name": "Critical reviews in immunology. 2020. Toward an Integrated View of Operational Tolerance in Human Renal Transplantation: A Systems Biology Perspective.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33463950",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33463950_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Life Sciences"
+            "label": ""
         },
         {
-            "id": 140,
-            "name": "Long Noncoding RNAs",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/long-noncoding-RNAs",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project12_circle.png",
-            "status": "2004",
-            "status2": "2021",
-            "size": 40.0,
+            "id": 114,
+            "name": "PLoS neglected tropical diseases. 2020. miRNAs may play a major role in the control of gene expression in key pathobiological processes in Chagas disease cardiomyopathy.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33351798",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33351798_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Long Noncoding RNAs"
+            "label": ""
         },
         {
-            "id": 141,
-            "name": "Systems Vaccinology",
-            "color": "?",
-            "link": "https://www.csbiology.org/project/systems-vaccinology",
-            "photo": "https://ensinoai.com/csbl/publications/circle/Project1_circle.png",
-            "status": "2004",
-            "status2": "2021",
-            "size": 40.0,
+            "id": 113,
+            "name": "Seminars in immunology. 2020. Network vaccinology.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33162295",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33162295_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
             "bordercolor": " #000000",
             "bordersize": "0.8px",
-            "label": "Systems Vaccinology"
+            "label": ""
+        },
+        {
+            "id": 112,
+            "name": "Research in Social and Administrative Pharmacy. 2020. Genomics, epigenomics and pharmacogenomics of Familial Hypercholesterolemia (FHBGEP): A study protocol.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33129683",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33129683_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 111,
+            "name": "BMC medical genomics. 2020. Noninvasive prenatal paternity determination using microhaplotypes: a pilot study.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33097049",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33097049_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 110,
+            "name": "Frontiers in genetics. 2020. Editorial: User-Friendly Tools Applied to Genetics or Systems Biology.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/33033490",
+            "photo": "https://ensinoai.com/csbl/publications/circle/33033490_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 109,
+            "name": "Journal of leukocyte biology. 2020. Immature neutrophil signature associated with the sexual dimorphism of systemic juvenile idiopathic arthritis.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32794262",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32794262_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 108,
+            "name": "Human vaccines & immunotherapeutics. 2020. Antigenicity prediction and vaccine recommendation of human influenza virus A (H3N2) using convolutional neural networks.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32750260",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32750260_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 107,
+            "name": "Science. 2020. Evolution and epidemic spread of SARS-CoV-2 in Brazil.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32703910",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32703910_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 106,
+            "name": "Cell metabolism. 2020. Elevated Glucose Levels Favor SARS-CoV-2 Infection and Monocyte Response through a HIF-1?/Glycolysis-Dependent Axis.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32697943",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32697943_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 105,
+            "name": "PLoS neglected tropical diseases. 2020. Platelet disturbances correlate with endothelial cell activation in uncomplicated Plasmodium vivax malaria.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32687542",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32687542_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 104,
+            "name": "The Journal of infectious diseases. 2020. ACE2 Expression Is Increased in the Lungs of Patients With Comorbidities Associated With Severe COVID-19.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32526012",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32526012_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 103,
+            "name": "Science signaling. 2020. Molecular alterations in the extracellular matrix in the brains of newborns with congenital Zika syndrome.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32518143",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32518143_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 102,
+            "name": "Clinics. 2020. Susceptibility of the Elderly to SARS-CoV-2 Infection: ACE-2 Overexpression, Shedding, and Antibody-dependent Enhancement (ADE).",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32428113",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32428113_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 101,
+            "name": "Translational psychiatry. 2020. Drug repositioning for psychiatric and neurological disorders through a network medicine approach.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32398742",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32398742_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 100,
+            "name": "The journal of venomous animals and toxins including tropical diseases. 2020. S\u00e3o Paulo School of Advanced Sciences on Vaccines: an overview.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32362926",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32362926_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 99,
+            "name": "DNA and cell biology. 2020. Variants in the Kisspeptin-GnRH Pathway Modulate the Hormonal Profile and Reproductive Outcomes.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32352843",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32352843_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 98,
+            "name": "Frontiers in immunology. 2020. Flavivirus-Mediating B Cell Differentiation Into Antibody-Secreting Cells in Humans Is Associated With the Activation of the Tryptophan Metabolism.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/32117223",
+            "photo": "https://ensinoai.com/csbl/publications/circle/32117223_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 97,
+            "name": "Human vaccines & immunotherapeutics. 2020. Methods for predicting vaccine immunogenicity and reactogenicity.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31869262",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31869262_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 96,
+            "name": "Frontiers in immunology. 2019. Exacerbation of Chikungunya Virus Rheumatic Immunopathology by a High Fiber Diet and Butyrate.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31849947",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31849947_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 95,
+            "name": "Computational Biology. 2019. Integrative Biology Approaches Applied to Human Diseases",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31815398",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31815398_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 94,
+            "name": "Environmental pollution. 2019. Hydroquinone exposure alters the morphology of lymphoid organs in vaccinated C57Bl/6 mice.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31767231",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31767231_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 93,
+            "name": "Frontiers in genetics. 2019. Assessing the Impact of Sample Heterogeneity on Transcriptome Analysis of Human Diseases Using MDP Webtool.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31708960",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31708960_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 92,
+            "name": "Acta paediatrica. 2019. Biological sex influences antibody responses to routine vaccinations in the first year of life.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31610635",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31610635_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 91,
+            "name": "Frontiers in immunology. 2019. Neonatal T Follicular Helper Cells Are Lodged in a Pre-T Follicular Helper Stage Favoring Innate Over Adaptive Germinal Center Responses.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31456798",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31456798_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 90,
+            "name": "Scientific reports. 2019. SerpinB2 inhibits migration and promotes a resolution phase signature in large peritoneal macrophages.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31455834",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31455834_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 89,
+            "name": "PNAS. 2019. Long noncoding RNAs are involved in multiple immunological pathways in response to vaccination.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31399544",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31399544_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 88,
+            "name": "PLoS pathogens. 2019. Systems analysis of subjects acutely infected with the Chikungunya virus.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31211814",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31211814_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 87,
+            "name": "Scientific reports. 2019. Molecular degree of perturbation of plasma inflammatory markers associated with tuberculosis reveals distinct disease profiles between Indian and Chinese populations.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31142816",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31142816_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 86,
+            "name": "Methods in molecular biology. 2019. Predicting RNA Families in Nucleotide Sequences Using StructRNAfinder.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/31020552",
+            "photo": "https://ensinoai.com/csbl/publications/circle/31020552_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 85,
+            "name": "Frontiers in genetics. 2019. webCEMiTool: Co-expression Modular Analysis Made Easy.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/30894872",
+            "photo": "https://ensinoai.com/csbl/publications/circle/30894872_circle.png",
+            "status": "2019",
+            "status2": "2019",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 84,
+            "name": "Theoretical and Applied Aspects of Systems Biology. 2018. Systems Immunology",
+            "color": "#000000",
+            "link": "https://www.springerprofessional.de/en/systems-immunology/15865294",
+            "photo": "https://ensinoai.com/csbl/publications/circle/2018chapter3_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 83,
+            "name": "Tuberculosis. 2018. Building capacity for advances in tuberculosis research; proceedings of the third RePORT international meeting.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/30514497",
+            "photo": "https://ensinoai.com/csbl/publications/circle/30514497_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 82,
+            "name": "Frontiers in microbiology. 2018. <i>In situ</i> Immune Signatures and Microbial Load at the Nasopharyngeal Interface in Children With Acute Respiratory Infection.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/30473680",
+            "photo": "https://ensinoai.com/csbl/publications/circle/30473680_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 81,
+            "name": "Malaria journal. 2018. Genetic sequence characterization and naturally acquired immune response to Plasmodium vivax Rhoptry Neck Protein 2 (PvRON2).",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/30382855",
+            "photo": "https://ensinoai.com/csbl/publications/circle/30382855_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 80,
+            "name": "Nature immunology. 2018. Inflammation induced by influenza virus impairs human innate immune control of pneumococcus.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/30374129",
+            "photo": "https://ensinoai.com/csbl/publications/circle/30374129_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 79,
+            "name": "Cell host & microbe. 2018. Daily Rhythms of TNF? Expression and Food Intake Regulate Synchrony of Plasmodium Stages with the Host Circadian Cycle.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29805094",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29805094_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 78,
+            "name": "Frontiers in immunology. 2018. Acute Zika Virus Infection in an Endemic Area Shows Modest Proinflammatory Systemic Immunoactivation and Cytokine-Symptom Associations.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29774022",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29774022_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 77,
+            "name": "Physical review. E. 2018. Gene regulatory and signaling networks exhibit distinct topological distributions of motifs.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29758668",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29758668_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 76,
+            "name": "Nature communications. 2018. Canonical PI3K? signaling in myeloid cells restricts Trypanosoma cruzi infection and dampens chagasic myocarditis.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29666415",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29666415_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 75,
+            "name": "The Lancet Infectious diseases. 2018. Determinants of antibody persistence across doses and continents after single-dose rVSV-ZEBOV vaccination for Ebola virus disease: an observational cohort study.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29627147",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29627147_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 74,
+            "name": "Genome biology. 2018. Genomic positional conservation identifies topological anchor point RNAs linked to developmental loci.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29540241",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29540241_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 73,
+            "name": "BMC bioinformatics. 2018. CEMiTool: a Bioconductor package for performing comprehensive modular co-expression analyses.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29458351",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29458351_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 72,
+            "name": "BMC bioinformatics. 2018. StructRNAfinder: an automated pipeline and web server for RNA families prediction.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29454313",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29454313_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 71,
+            "name": "Journal of autoimmunity. 2018. TGF-? signalling defect is linked to low CD39 expression on regulatory T cells and methotrexate resistance in rheumatoid arthritis.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29426578",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29426578_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 70,
+            "name": "Nature communications. 2018. Discordant congenital Zika syndrome twins show differential in vitro viral susceptibility of neural progenitor cells.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29396410",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29396410_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 69,
+            "name": "PLoS pathogens. 2017. Lower temperatures reduce type I interferon activity and promote alphaviral arthritis.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29281739",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29281739_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 68,
+            "name": "Scientific reports. 2017. Integration of miRNA and gene expression profiles suggest a role for miRNAs in the pathobiological processes of acute Trypanosoma cruzi infection.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29269773",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29269773_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 67,
+            "name": "Frontiers in immunology. 2017. Induction of Cell Cycle and NK Cell Responses by Live-Attenuated Oral Vaccines against Typhoid Fever.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/29075261",
+            "photo": "https://ensinoai.com/csbl/publications/circle/29075261_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 66,
+            "name": "Cell death & disease. 2017. Calcium/calmodulin-dependent kinase kinase 2 regulates hematopoietic stem and progenitor cell regeneration.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28981105",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28981105_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 65,
+            "name": "eLife. 2017. Crucial role for T cell-intrinsic IL-18R-MyD88 signaling in cognate immune response to intracellular parasite infection.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28895840",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28895840_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 64,
+            "name": "Pharmacological research. 2017. Toxicogenomic and bioinformatics platforms to identify key molecular mechanisms of a curcumin-analogue DM-1 toxicity in melanoma cells.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28882690",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28882690_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 63,
+            "name": "Nature microbiology. 2017. Specific inhibition of NLRP3 in chikungunya disease reveals a role for inflammasomes in alphavirus-induced inflammation.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28848230",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28848230_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 62,
+            "name": "Scientific reports. 2017. Systems Immunology of Diabetes-Tuberculosis Comorbidity Reveals Signatures of Disease Complications.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28515464",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28515464_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 61,
+            "name": "Cell. 2017. Metabolic Phenotypes of Response to Vaccination in Humans.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28502771",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28502771_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 60,
+            "name": "mBio. 2017. <i>N</i>-Methyl-d-Aspartate (NMDA) Receptor Blockade Prevents Neuronal Death Induced by Zika Virus Infection.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28442607",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28442607_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 59,
+            "name": "PNAS. 2017. Systems analysis of protective immune responses to RTS,S malaria vaccination in humans.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28193898",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28193898_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 58,
+            "name": "Oncotarget. 2017. Down-regulation of 14q32-encoded miRNAs and tumor suppressor role for miR-654-3p in papillary thyroid cancer.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28030816",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28030816_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 57,
+            "name": "The Journal of infectious diseases. 2017. Blood Gene Signatures of Chagas Cardiomyopathy With or Without Ventricular Dysfunction.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/28003350",
+            "photo": "https://ensinoai.com/csbl/publications/circle/28003350_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 56,
+            "name": "Journal Article. 2017. Adjuvanting a Simian Immunodeficiency Virus Vaccine with Toll-Like Receptor Ligands Encapsulated in Nanoparticles Induces Persistent Antibody Responses and Enhanced Protection in TRIM5? Restrictive Macaques.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/27928002",
+            "photo": "https://ensinoai.com/csbl/publications/circle/27928002_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 55,
+            "name": "Current issues in molecular biology. 2017. Systems Vaccinology Applied to DNA Vaccines: Perspective and Challenges.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/27648510",
+            "photo": "https://ensinoai.com/csbl/publications/circle/27648510_circle.png",
+            "status": "2017",
+            "status2": "2017",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 54,
+            "name": "Journal of Cancer. 2016. Antimicrobial peptide LL-37 participates in the transcriptional regulation of melanoma cells.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/27994673",
+            "photo": "https://ensinoai.com/csbl/publications/circle/27994673_circle.png",
+            "status": "2016",
+            "status2": "2016",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 53,
+            "name": "Nature immunology. 2016. Defining antigen-specific plasmablast and memory B cell subsets in human blood after viral infection or vaccination.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/27525369",
+            "photo": "https://ensinoai.com/csbl/publications/circle/27525369_circle.png",
+            "status": "2016",
+            "status2": "2016",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 52,
+            "name": "Nature. 2016. Defining CD8+ T cells that provide the proliferative burst after PD-1 therapy.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/27501248",
+            "photo": "https://ensinoai.com/csbl/publications/circle/27501248_circle.png",
+            "status": "2016",
+            "status2": "2016",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 51,
+            "name": "The American journal of pathology. 2016. SerpinB2 Deficiency Results in a Stratum Corneum Defect and Increased Sensitivity to Topically Applied Inflammatory Agents.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/27109612",
+            "photo": "https://ensinoai.com/csbl/publications/circle/27109612_circle.png",
+            "status": "2016",
+            "status2": "2016",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 50,
+            "name": "Nature. 2016. The amino acid sensor GCN2 controls gut inflammation by inhibiting inflammasome activation.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/26982722",
+            "photo": "https://ensinoai.com/csbl/publications/circle/26982722_circle.png",
+            "status": "2016",
+            "status2": "2016",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 49,
+            "name": "Nucleic acids research. 2016. Analysis of LexA binding sites and transcriptomics in response to genotoxic stress in Leptospira interrogans.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/26762976",
+            "photo": "https://ensinoai.com/csbl/publications/circle/26762976_circle.png",
+            "status": "2016",
+            "status2": "2016",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 48,
+            "name": "PNAS. 2016. Systems biology of immunity to MF59-adjuvanted versus nonadjuvanted trivalent seasonal influenza vaccines in early childhood.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/26755593",
+            "photo": "https://ensinoai.com/csbl/publications/circle/26755593_circle.png",
+            "status": "2016",
+            "status2": "2016",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 47,
+            "name": "Immunity. 2015. Systems Analysis of Immunity to Influenza Vaccination across Multiple Years and in Diverse Populations Reveals Shared Molecular Signatures.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/26682988",
+            "photo": "https://ensinoai.com/csbl/publications/circle/26682988_circle.png",
+            "status": "2015",
+            "status2": "2015",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 46,
+            "name": "Cellular immunology. 2015. Myeloperoxidase in human peripheral blood lymphocytes: Production and subcellular localization.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/26632272",
+            "photo": "https://ensinoai.com/csbl/publications/circle/26632272_circle.png",
+            "status": "2015",
+            "status2": "2015",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 45,
+            "name": "PLoS neglected tropical diseases. 2015. Synergy of Omeprazole and Praziquantel In Vitro Treatment against Schistosoma mansoni Adult Worms.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/26402251",
+            "photo": "https://ensinoai.com/csbl/publications/circle/26402251_circle.png",
+            "status": "2015",
+            "status2": "2015",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 44,
+            "name": "Molecular and cellular biology. 2015. RNA-Binding Protein Musashi1 Is a Central Regulator of Adhesion Pathways in Glioblastoma.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/26100017",
+            "photo": "https://ensinoai.com/csbl/publications/circle/26100017_circle.png",
+            "status": "2015",
+            "status2": "2015",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 43,
+            "name": "PLoS neglected tropical diseases. 2015. MicroRNA Transcriptome Profiling in Heart of Trypanosoma cruzi-Infected Mice: Parasitological and Cardiological Outcomes.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/26086673",
+            "photo": "https://ensinoai.com/csbl/publications/circle/26086673_circle.png",
+            "status": "2015",
+            "status2": "2015",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 42,
+            "name": "Philos. Trans. R. Soc. B. 2015. Vaccinology in the era of high-throughput biology.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/25964458",
+            "photo": "https://ensinoai.com/csbl/publications/circle/25964458_circle.png",
+            "status": "2015",
+            "status2": "2015",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 41,
+            "name": "Expert review of vaccines. 2015. Is the gut microbiome key to modulating vaccine efficacy?",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/25915555",
+            "photo": "https://ensinoai.com/csbl/publications/circle/25915555_circle.png",
+            "status": "2015",
+            "status2": "2015",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 40,
+            "name": "Vaccine. 2015. Systems vaccinology: Enabling rational vaccine design with systems biological approaches.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/25858860",
+            "photo": "https://ensinoai.com/csbl/publications/circle/25858860_circle.png",
+            "status": "2015",
+            "status2": "2015",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 39,
+            "name": "PNAS. 2015. Initial viral load determines the magnitude of the human CD8 T cell response to yellow fever vaccination.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/25713354",
+            "photo": "https://ensinoai.com/csbl/publications/circle/25713354_circle.png",
+            "status": "2015",
+            "status2": "2015",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 38,
+            "name": "Computational Systems Biology. 2014. Systems Biology of Infectious Diseases and Vaccines",
+            "color": "#000000",
+            "link": "https://www.sciencedirect.com/science/article/pii/B9780124059269000150?via%3Dihub",
+            "photo": "https://ensinoai.com/csbl/publications/circle/2014chapter2_circle.png",
+            "status": "2014",
+            "status2": "2014",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 37,
+            "name": "PLoS neglected tropical diseases. 2014. Multiple immune factors are involved in controlling acute and chronic chikungunya virus infection.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/25474568",
+            "photo": "https://ensinoai.com/csbl/publications/circle/25474568_circle.png",
+            "status": "2014",
+            "status2": "2014",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 36,
+            "name": "Immunity. 2014. TLR5-mediated sensing of gut microbiota is necessary for antibody responses to seasonal influenza vaccination.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/25220212",
+            "photo": "https://ensinoai.com/csbl/publications/circle/25220212_circle.png",
+            "status": "2014",
+            "status2": "2014",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 35,
+            "name": "Cell host & microbe. 2014. Dengue virus infection induces expansion of a CD14(+)CD16(+) monocyte population that stimulates plasmablast differentiation.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/24981333",
+            "photo": "https://ensinoai.com/csbl/publications/circle/24981333_circle.png",
+            "status": "2014",
+            "status2": "2014",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 34,
+            "name": "Journal of virology. 2014. CCR2 deficiency promotes exacerbated chronic erosive neutrophil-dominated chikungunya virus arthritis.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/24696480",
+            "photo": "https://ensinoai.com/csbl/publications/circle/24696480_circle.png",
+            "status": "2014",
+            "status2": "2014",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 33,
+            "name": "Editorial. 2014. Genetic control of immune response and susceptibility to infectious diseases.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/24689057",
+            "photo": "https://ensinoai.com/csbl/publications/circle/24689057_circle.png",
+            "status": "2014",
+            "status2": "2014",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 32,
+            "name": "PloS one. 2014. Genomic analyses reveal broad impact of miR-137 on genes associated with malignant transformation and neuronal differentiation in glioblastoma cells.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/24465609",
+            "photo": "https://ensinoai.com/csbl/publications/circle/24465609_circle.png",
+            "status": "2014",
+            "status2": "2014",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 31,
+            "name": "Science. 2014. Vaccine activation of the nutrient sensor GCN2 in dendritic cells enhances antigen presentation.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/24310610",
+            "photo": "https://ensinoai.com/csbl/publications/circle/24310610_circle.png",
+            "status": "2014",
+            "status2": "2014",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 30,
+            "name": "Nature immunology. 2013. Molecular signatures of antibody responses derived from a systems biology study of five human vaccines.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/24336226",
+            "photo": "https://ensinoai.com/csbl/publications/circle/24336226_circle.png",
+            "status": "2013",
+            "status2": "2013",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 29,
+            "name": "European journal of immunology. 2013. Gene signatures related to B-cell proliferation predict influenza vaccine-induced antibody response.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/24136404",
+            "photo": "https://ensinoai.com/csbl/publications/circle/24136404_circle.png",
+            "status": "2013",
+            "status2": "2013",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 28,
+            "name": "PLoS genetics. 2013. The intronic long noncoding RNA ANRASSF1 recruits PRC2 to the RASSF1A promoter, reducing the expression of RASSF1A and increasing cell proliferation.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/23990798",
+            "photo": "https://ensinoai.com/csbl/publications/circle/23990798_circle.png",
+            "status": "2013",
+            "status2": "2013",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 27,
+            "name": "Immunological reviews. 2013. Immunity to viruses: learning from successful human vaccines.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/23947360",
+            "photo": "https://ensinoai.com/csbl/publications/circle/23947360_circle.png",
+            "status": "2013",
+            "status2": "2013",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 26,
+            "name": "Seminars in immunology. 2013. Systems biological approaches to measure and understand vaccine immunity in humans.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/23796714",
+            "photo": "https://ensinoai.com/csbl/publications/circle/23796714_circle.png",
+            "status": "2013",
+            "status2": "2013",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 25,
+            "name": "Annual review of phytopathology. 2013. The role of prophage in plant-pathogenic bacteria.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/23725471",
+            "photo": "https://ensinoai.com/csbl/publications/circle/23725471_circle.png",
+            "status": "2013",
+            "status2": "2013",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 24,
+            "name": "Immunity. 2013. Chronic but not acute virus infection induces sustained expansion of myeloid suppressor cell numbers that inhibit viral-specific T cell immunity.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/23438822",
+            "photo": "https://ensinoai.com/csbl/publications/circle/23438822_circle.png",
+            "status": "2013",
+            "status2": "2013",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 23,
+            "name": "Current topics in microbiology and immunology. 2013. Systems biology of vaccination in the elderly.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/22903566",
+            "photo": "https://ensinoai.com/csbl/publications/circle/22903566_circle.png",
+            "status": "2013",
+            "status2": "2013",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 22,
+            "name": "Arthritis and rheumatism. 2012. Gene profiling of Chikungunya virus arthritis in a mouse model reveals significant overlap with rheumatoid arthritis.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/22833339",
+            "photo": "https://ensinoai.com/csbl/publications/circle/22833339_circle.png",
+            "status": "2012",
+            "status2": "2012",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 21,
+            "name": "Cellular microbiology. 2012. Repression of bacterial lipoprotein production by Francisella novicida facilitates evasion of innate immune recognition.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/22632124",
+            "photo": "https://ensinoai.com/csbl/publications/circle/22632124_circle.png",
+            "status": "2012",
+            "status2": "2012",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 20,
+            "name": "Blood. 2012. Distinct TLR adjuvants differentially stimulate systemic and local innate immune responses in nonhuman primates.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/22246032",
+            "photo": "https://ensinoai.com/csbl/publications/circle/22246032_circle.png",
+            "status": "2012",
+            "status2": "2012",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 19,
+            "name": "Current Opinion in HIV and AIDS. 2012. Systems vaccinology: its promise and challenge for HIV vaccine development.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/22156839",
+            "photo": "https://ensinoai.com/csbl/publications/circle/22156839_circle.png",
+            "status": "2012",
+            "status2": "2012",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 18,
+            "name": "Wiley interdisciplinary reviews. 2012. Systems vaccinology: learning to compute the behavior of vaccine induced immunity.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/22012654",
+            "photo": "https://ensinoai.com/csbl/publications/circle/22012654_circle.png",
+            "status": "2012",
+            "status2": "2012",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 17,
+            "name": "Nature immunology. 2011. Systems biology of vaccination for seasonal influenza in humans.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/21743478",
+            "photo": "https://ensinoai.com/csbl/publications/circle/21743478_circle.png",
+            "status": "2011",
+            "status2": "2011",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 16,
+            "name": "Journal of immunology. 2011. Phenotype, function, and gene expression profiles of programmed death-1(hi) CD8 T cells in healthy human adults.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/21383243",
+            "photo": "https://ensinoai.com/csbl/publications/circle/21383243_circle.png",
+            "status": "2011",
+            "status2": "2011",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 15,
+            "name": "Nature. 2011. Programming the magnitude and persistence of antibody responses with innate immunity.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/21350488",
+            "photo": "https://ensinoai.com/csbl/publications/circle/21350488_circle.png",
+            "status": "2011",
+            "status2": "2011",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 14,
+            "name": "Immunity. 2010. Systems vaccinology.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/21029962",
+            "photo": "https://ensinoai.com/csbl/publications/circle/21029962_circle.png",
+            "status": "2010",
+            "status2": "2010",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 13,
+            "name": "Science. 2010. Activation of beta-catenin in dendritic cells regulates immunity versus tolerance in the intestine.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20705860",
+            "photo": "https://ensinoai.com/csbl/publications/circle/20705860_circle.png",
+            "status": "2010",
+            "status2": "2010",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 12,
+            "name": "Nature immunology. 2010. The T helper type 2 response to cysteine proteases requires dendritic cell-basophil cooperation via ROS-mediated signaling.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/20495560",
+            "photo": "https://ensinoai.com/csbl/publications/circle/20495560_circle.png",
+            "status": "2010",
+            "status2": "2010",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 11,
+            "name": "Nature immunology. 2009. Systems biology approach predicts immunogenicity of the yellow fever vaccine in humans.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/19029902",
+            "photo": "https://ensinoai.com/csbl/publications/circle/19029902_circle.png",
+            "status": "2009",
+            "status2": "2009",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 10,
+            "name": "PloS one. 2008. Origins of the Xylella fastidiosa prophage-like regions and their impact in genome differentiation.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/19116666",
+            "photo": "https://ensinoai.com/csbl/publications/circle/19116666_circle.png",
+            "status": "2008",
+            "status2": "2008",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 9,
+            "name": "Genomics. 2008. Conserved tissue expression signatures of intronic noncoding RNAs transcribed from human and mouse loci.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/18495418",
+            "photo": "https://ensinoai.com/csbl/publications/circle/18495418_circle.png",
+            "status": "2008",
+            "status2": "2008",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 8,
+            "name": "Journal of bacteriology. 2008. The iron stimulon of Xylella fastidiosa includes genes for type IV pilus and colicin V-like bacteriocins.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/18223091",
+            "photo": "https://ensinoai.com/csbl/publications/circle/18223091_circle.png",
+            "status": "2008",
+            "status2": "2008",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 7,
+            "name": "Nucleic Acids Hybridization Modern Applications. 2007. Concepts on Microarray Design for Genome and Transcriptome Analyses",
+            "color": "#000000",
+            "link": "https://link.springer.com/chapter/10.1007/978-1-4020-6040-3_11",
+            "photo": "https://ensinoai.com/csbl/publications/circle/2007chapter1_circle.png",
+            "status": "2007",
+            "status2": "2007",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 6,
+            "name": "Biochemical and biophysical research communications. 2007. Splice variants of TLE family genes and up-regulation of a TLE3 isoform in prostate tumors.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/18273443",
+            "photo": "https://ensinoai.com/csbl/publications/circle/18273443_circle.png",
+            "status": "2007",
+            "status2": "2007",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 5,
+            "name": "Genome biology. 2007. Genome mapping and expression analyses of human intronic noncoding RNAs reveal tissue-specific patterns and enrichment in genes related to regulation of transcription.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/17386095",
+            "photo": "https://ensinoai.com/csbl/publications/circle/17386095_circle.png",
+            "status": "2007",
+            "status2": "2007",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 4,
+            "name": "BMC biology. 2007. Androgen responsive intronic non-coding RNAs.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/17263875",
+            "photo": "https://ensinoai.com/csbl/publications/circle/17263875_circle.png",
+            "status": "2007",
+            "status2": "2007",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 3,
+            "name": "Omics. 2005. As antisense RNA gets intronic.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/15805775",
+            "photo": "https://ensinoai.com/csbl/publications/circle/15805775_circle.png",
+            "status": "2005",
+            "status2": "2005",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 2,
+            "name": "Oncogene. 2004. Antisense intronic non-coding RNA levels correlate to the degree of tumor differentiation in prostate cancer.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/15221013",
+            "photo": "https://ensinoai.com/csbl/publications/circle/15221013_circle.png",
+            "status": "2004",
+            "status2": "2004",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 1,
+            "name": "Biochemical and biophysical research communications. 2004. RASL11A, member of a novel small monomeric GTPase gene family, is down-regulated in prostate tumors.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/15033445",
+            "photo": "https://ensinoai.com/csbl/publications/circle/15033445_circle.png",
+            "status": "2004",
+            "status2": "2004",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
         }
     ],
     "links": [
         {
+            "source": 1,
+            "target": 139
+        },
+        {
+            "source": 2,
+            "target": 140
+        },
+        {
+            "source": 3,
+            "target": 140
+        },
+        {
+            "source": 4,
+            "target": 140
+        },
+        {
+            "source": 5,
+            "target": 138
+        },
+        {
+            "source": 6,
+            "target": 139
+        },
+        {
+            "source": 7,
+            "target": 139
+        },
+        {
+            "source": 8,
+            "target": 139
+        },
+        {
+            "source": 9,
+            "target": 140
+        },
+        {
+            "source": 10,
+            "target": 139
+        },
+        {
             "source": 11,
             "target": 141
         },
         {
-            "source": 14,
-            "target": 141
-        },
-        {
-            "source": 17,
-            "target": 141
-        },
-        {
-            "source": 18,
-            "target": 141
-        },
-        {
-            "source": 19,
-            "target": 141
-        },
-        {
-            "source": 23,
-            "target": 141
-        },
-        {
-            "source": 26,
-            "target": 141
-        },
-        {
-            "source": 27,
-            "target": 141
-        },
-        {
-            "source": 29,
-            "target": 141
-        },
-        {
-            "source": 30,
-            "target": 141
-        },
-        {
-            "source": 40,
-            "target": 141
-        },
-        {
-            "source": 42,
-            "target": 141
-        },
-        {
-            "source": 47,
-            "target": 141
-        },
-        {
-            "source": 48,
-            "target": 141
-        },
-        {
-            "source": 55,
-            "target": 141
-        },
-        {
-            "source": 56,
-            "target": 141
-        },
-        {
-            "source": 59,
-            "target": 141
-        },
-        {
-            "source": 61,
-            "target": 141
-        },
-        {
-            "source": 67,
-            "target": 141
-        },
-        {
-            "source": 89,
-            "target": 141
-        },
-        {
-            "source": 97,
-            "target": 141
-        },
-        {
-            "source": 108,
-            "target": 141
-        },
-        {
-            "source": 119,
-            "target": 141
-        },
-        {
-            "source": 120,
-            "target": 141
-        },
-        {
-            "source": 124,
-            "target": 141
-        },
-        {
-            "source": 113,
-            "target": 141
-        },
-        {
-            "source": 77,
-            "target": 130
-        },
-        {
-            "source": 101,
-            "target": 130
-        },
-        {
-            "source": 104,
-            "target": 130
-        },
-        {
-            "source": 122,
-            "target": 130
-        },
-        {
-            "source": 123,
-            "target": 130
-        },
-        {
-            "source": 113,
-            "target": 130
-        },
-        {
-            "source": 107,
-            "target": 131
-        },
-        {
-            "source": 72,
-            "target": 132
-        },
-        {
-            "source": 73,
-            "target": 132
-        },
-        {
-            "source": 85,
-            "target": 132
-        },
-        {
-            "source": 86,
-            "target": 132
-        },
-        {
-            "source": 93,
-            "target": 132
-        },
-        {
-            "source": 110,
-            "target": 132
-        },
-        {
-            "source": 111,
-            "target": 132
-        },
-        {
-            "source": 22,
-            "target": 133
-        },
-        {
-            "source": 45,
-            "target": 133
-        },
-        {
-            "source": 62,
-            "target": 133
-        },
-        {
-            "source": 70,
-            "target": 133
-        },
-        {
-            "source": 79,
-            "target": 133
-        },
-        {
-            "source": 80,
-            "target": 133
-        },
-        {
-            "source": 88,
-            "target": 133
-        },
-        {
-            "source": 91,
-            "target": 133
-        },
-        {
-            "source": 96,
-            "target": 133
-        },
-        {
-            "source": 103,
-            "target": 133
-        },
-        {
-            "source": 105,
-            "target": 133
-        },
-        {
-            "source": 106,
-            "target": 133
-        },
-        {
-            "source": 109,
-            "target": 133
-        },
-        {
-            "source": 114,
-            "target": 133
-        },
-        {
-            "source": 115,
-            "target": 133
-        },
-        {
-            "source": 125,
-            "target": 133
-        },
-        {
-            "source": 104,
-            "target": 133
-        },
-        {
-            "source": 123,
-            "target": 133
-        },
-        {
-            "source": 77,
-            "target": 134
-        },
-        {
-            "source": 101,
-            "target": 134
-        },
-        {
-            "source": 113,
-            "target": 134
-        },
-        {
-            "source": 104,
-            "target": 134
-        },
-        {
-            "source": 41,
-            "target": 135
-        },
-        {
-            "source": 64,
-            "target": 135
-        },
-        {
-            "source": 101,
-            "target": 135
-        },
-        {
             "source": 11,
-            "target": 136
-        },
-        {
-            "source": 17,
-            "target": 136
-        },
-        {
-            "source": 18,
-            "target": 136
-        },
-        {
-            "source": 47,
-            "target": 136
-        },
-        {
-            "source": 97,
-            "target": 136
-        },
-        {
-            "source": 108,
-            "target": 136
-        },
-        {
-            "source": 122,
-            "target": 136
-        },
-        {
-            "source": 88,
-            "target": 136
-        },
-        {
-            "source": 109,
             "target": 136
         },
         {
@@ -2140,12 +1996,36 @@
             "target": 137
         },
         {
+            "source": 14,
+            "target": 141
+        },
+        {
             "source": 15,
             "target": 137
         },
         {
             "source": 16,
             "target": 137
+        },
+        {
+            "source": 17,
+            "target": 141
+        },
+        {
+            "source": 17,
+            "target": 136
+        },
+        {
+            "source": 18,
+            "target": 141
+        },
+        {
+            "source": 18,
+            "target": 136
+        },
+        {
+            "source": 19,
+            "target": 141
         },
         {
             "source": 20,
@@ -2156,12 +2036,52 @@
             "target": 137
         },
         {
+            "source": 22,
+            "target": 133
+        },
+        {
+            "source": 23,
+            "target": 141
+        },
+        {
             "source": 24,
             "target": 137
         },
         {
+            "source": 25,
+            "target": 139
+        },
+        {
+            "source": 26,
+            "target": 141
+        },
+        {
+            "source": 27,
+            "target": 141
+        },
+        {
+            "source": 28,
+            "target": 140
+        },
+        {
+            "source": 29,
+            "target": 141
+        },
+        {
+            "source": 30,
+            "target": 141
+        },
+        {
             "source": 31,
             "target": 137
+        },
+        {
+            "source": 32,
+            "target": 138
+        },
+        {
+            "source": 33,
+            "target": 139
         },
         {
             "source": 34,
@@ -2180,12 +2100,52 @@
             "target": 137
         },
         {
+            "source": 38,
+            "target": 133
+        },
+        {
             "source": 39,
             "target": 137
         },
         {
+            "source": 40,
+            "target": 141
+        },
+        {
+            "source": 41,
+            "target": 135
+        },
+        {
+            "source": 42,
+            "target": 141
+        },
+        {
+            "source": 43,
+            "target": 138
+        },
+        {
+            "source": 44,
+            "target": 138
+        },
+        {
+            "source": 45,
+            "target": 133
+        },
+        {
             "source": 46,
             "target": 137
+        },
+        {
+            "source": 47,
+            "target": 141
+        },
+        {
+            "source": 47,
+            "target": 136
+        },
+        {
+            "source": 48,
+            "target": 141
         },
         {
             "source": 49,
@@ -2208,16 +2168,56 @@
             "target": 137
         },
         {
+            "source": 54,
+            "target": 138
+        },
+        {
+            "source": 55,
+            "target": 141
+        },
+        {
+            "source": 56,
+            "target": 141
+        },
+        {
             "source": 57,
             "target": 137
+        },
+        {
+            "source": 58,
+            "target": 138
+        },
+        {
+            "source": 59,
+            "target": 141
         },
         {
             "source": 60,
             "target": 137
         },
         {
+            "source": 61,
+            "target": 141
+        },
+        {
+            "source": 61,
+            "target": 138
+        },
+        {
+            "source": 62,
+            "target": 133
+        },
+        {
             "source": 63,
             "target": 137
+        },
+        {
+            "source": 64,
+            "target": 135
+        },
+        {
+            "source": 64,
+            "target": 138
         },
         {
             "source": 65,
@@ -2228,12 +2228,44 @@
             "target": 137
         },
         {
+            "source": 67,
+            "target": 141
+        },
+        {
+            "source": 68,
+            "target": 138
+        },
+        {
             "source": 69,
             "target": 137
         },
         {
+            "source": 70,
+            "target": 133
+        },
+        {
+            "source": 70,
+            "target": 138
+        },
+        {
             "source": 71,
             "target": 137
+        },
+        {
+            "source": 72,
+            "target": 132
+        },
+        {
+            "source": 73,
+            "target": 132
+        },
+        {
+            "source": 74,
+            "target": 138
+        },
+        {
+            "source": 74,
+            "target": 140
         },
         {
             "source": 75,
@@ -2244,8 +2276,28 @@
             "target": 137
         },
         {
+            "source": 77,
+            "target": 130
+        },
+        {
+            "source": 77,
+            "target": 134
+        },
+        {
             "source": 78,
             "target": 137
+        },
+        {
+            "source": 79,
+            "target": 133
+        },
+        {
+            "source": 80,
+            "target": 133
+        },
+        {
+            "source": 80,
+            "target": 138
         },
         {
             "source": 81,
@@ -2256,11 +2308,51 @@
             "target": 137
         },
         {
+            "source": 83,
+            "target": 139
+        },
+        {
+            "source": 84,
+            "target": 133
+        },
+        {
+            "source": 85,
+            "target": 132
+        },
+        {
+            "source": 86,
+            "target": 132
+        },
+        {
             "source": 87,
             "target": 137
         },
         {
+            "source": 88,
+            "target": 133
+        },
+        {
+            "source": 88,
+            "target": 136
+        },
+        {
+            "source": 89,
+            "target": 141
+        },
+        {
+            "source": 89,
+            "target": 140
+        },
+        {
             "source": 90,
+            "target": 137
+        },
+        {
+            "source": 91,
+            "target": 133
+        },
+        {
+            "source": 91,
             "target": 137
         },
         {
@@ -2268,8 +2360,32 @@
             "target": 137
         },
         {
+            "source": 93,
+            "target": 132
+        },
+        {
             "source": 94,
             "target": 137
+        },
+        {
+            "source": 95,
+            "target": 138
+        },
+        {
+            "source": 96,
+            "target": 133
+        },
+        {
+            "source": 97,
+            "target": 141
+        },
+        {
+            "source": 97,
+            "target": 136
+        },
+        {
+            "source": 97,
+            "target": 138
         },
         {
             "source": 98,
@@ -2280,188 +2396,128 @@
             "target": 137
         },
         {
+            "source": 100,
+            "target": 139
+        },
+        {
+            "source": 101,
+            "target": 130
+        },
+        {
+            "source": 101,
+            "target": 134
+        },
+        {
+            "source": 101,
+            "target": 135
+        },
+        {
             "source": 102,
             "target": 137
         },
         {
-            "source": 116,
-            "target": 137
-        },
-        {
-            "source": 126,
-            "target": 137
-        },
-        {
-            "source": 91,
-            "target": 137
-        },
-        {
-            "source": 106,
-            "target": 137
-        },
-        {
-            "source": 5,
-            "target": 138
-        },
-        {
-            "source": 32,
-            "target": 138
-        },
-        {
-            "source": 43,
-            "target": 138
-        },
-        {
-            "source": 44,
-            "target": 138
-        },
-        {
-            "source": 54,
-            "target": 138
-        },
-        {
-            "source": 58,
-            "target": 138
-        },
-        {
-            "source": 68,
-            "target": 138
-        },
-        {
-            "source": 95,
-            "target": 138
-        },
-        {
-            "source": 112,
-            "target": 138
-        },
-        {
-            "source": 121,
-            "target": 138
-        },
-        {
-            "source": 61,
-            "target": 138
-        },
-        {
-            "source": 70,
-            "target": 138
-        },
-        {
-            "source": 80,
-            "target": 138
+            "source": 103,
+            "target": 133
         },
         {
             "source": 103,
             "target": 138
         },
         {
-            "source": 114,
-            "target": 138
+            "source": 104,
+            "target": 130
         },
         {
-            "source": 123,
-            "target": 138
+            "source": 104,
+            "target": 133
+        },
+        {
+            "source": 104,
+            "target": 134
         },
         {
             "source": 104,
             "target": 138
         },
         {
-            "source": 64,
-            "target": 138
+            "source": 105,
+            "target": 133
         },
         {
-            "source": 97,
-            "target": 138
+            "source": 106,
+            "target": 133
+        },
+        {
+            "source": 106,
+            "target": 137
+        },
+        {
+            "source": 107,
+            "target": 131
+        },
+        {
+            "source": 108,
+            "target": 141
+        },
+        {
+            "source": 108,
+            "target": 136
+        },
+        {
+            "source": 109,
+            "target": 133
+        },
+        {
+            "source": 109,
+            "target": 136
         },
         {
             "source": 109,
             "target": 138
         },
         {
-            "source": 74,
+            "source": 110,
+            "target": 132
+        },
+        {
+            "source": 111,
+            "target": 132
+        },
+        {
+            "source": 112,
             "target": 138
         },
         {
-            "source": 1,
-            "target": 139
+            "source": 113,
+            "target": 141
         },
         {
-            "source": 8,
-            "target": 139
+            "source": 113,
+            "target": 130
         },
         {
-            "source": 6,
-            "target": 139
+            "source": 113,
+            "target": 134
         },
         {
-            "source": 10,
-            "target": 139
+            "source": 114,
+            "target": 133
         },
         {
-            "source": 25,
-            "target": 139
+            "source": 114,
+            "target": 138
         },
         {
-            "source": 33,
-            "target": 139
+            "source": 115,
+            "target": 133
         },
         {
-            "source": 83,
-            "target": 139
-        },
-        {
-            "source": 100,
-            "target": 139
-        },
-        {
-            "source": 2,
-            "target": 140
-        },
-        {
-            "source": 3,
-            "target": 140
-        },
-        {
-            "source": 4,
-            "target": 140
-        },
-        {
-            "source": 9,
-            "target": 140
-        },
-        {
-            "source": 28,
-            "target": 140
-        },
-        {
-            "source": 89,
-            "target": 140
-        },
-        {
-            "source": 74,
-            "target": 140
+            "source": 116,
+            "target": 137
         },
         {
             "source": 117,
             "target": 137
-        },
-        {
-            "source": 127,
-            "target": 138
-        },
-        {
-            "source": 7,
-            "target": 139
-        },
-        {
-            "source": 38,
-            "target": 133
-        },
-        {
-            "source": 84,
-            "target": 133
         },
         {
             "source": 118,
@@ -2470,6 +2526,54 @@
         {
             "source": 118,
             "target": 134
+        },
+        {
+            "source": 119,
+            "target": 141
+        },
+        {
+            "source": 120,
+            "target": 141
+        },
+        {
+            "source": 121,
+            "target": 138
+        },
+        {
+            "source": 122,
+            "target": 130
+        },
+        {
+            "source": 122,
+            "target": 136
+        },
+        {
+            "source": 123,
+            "target": 130
+        },
+        {
+            "source": 123,
+            "target": 133
+        },
+        {
+            "source": 123,
+            "target": 138
+        },
+        {
+            "source": 124,
+            "target": 141
+        },
+        {
+            "source": 125,
+            "target": 133
+        },
+        {
+            "source": 126,
+            "target": 137
+        },
+        {
+            "source": 127,
+            "target": 138
         },
         {
             "source": 128,
@@ -2522,6 +2626,38 @@
         {
             "source": 129,
             "target": 140
+        },
+        {
+            "source": 149,
+            "target": 133
+        },
+        {
+            "source": 148,
+            "target": 133
+        },
+        {
+            "source": 147,
+            "target": 137
+        },
+        {
+            "source": 146,
+            "target": 130
+        },
+        {
+            "source": 145,
+            "target": 138
+        },
+        {
+            "source": 144,
+            "target": 132
+        },
+        {
+            "source": 143,
+            "target": 133
+        },
+        {
+            "source": 142,
+            "target": 137
         }
     ]
 }
