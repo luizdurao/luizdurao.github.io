@@ -1,6 +1,97 @@
 {
     "nodes": [
         {
+            "id": 156,
+            "name": "Microbiol Resour Announc. 2021. Whole-Genome Sequencing of Leishmania infantum chagasi Isolates from Honduras and Brazil",
+            "color": "#000000",
+            "link": "https://journals.asm.org/doi/10.1128/MRA.00471-21",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34854707_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 155,
+            "name": "Nat Commun. 2021. Pediatric COVID-19 patients in South Brazil show abundant viral mRNA and strong specific anti-viral responses",
+            "color": "#000000",
+            "link": "https://www.nature.com/articles/s41467-021-27120-y",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34824230_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 154,
+            "name": "eLife. 2021. Total parasite biomass but not peripheral parasitaemia is associated with endothelial and haematological perturbations in Plasmodium vivax patients",
+            "color": "#000000",
+            "link": "https://elifesciences.org/articles/71351",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34585667_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 153,
+            "name": "Nature immunology. 2021. Hidden in plain sight: uncovering the role of CREB1 in HIV-1 vaccine-induced immunity",
+            "color": "#000000",
+            "link": "https://www.nature.com/articles/s41590-021-01018-9",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34556875_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 152,
+            "name": "Essays in Biochemistry. 2021. Long non-coding RNAs associated with infection and vaccine-induced immunity",
+            "color": "#000000",
+            "link": "https://portlandpress.com/essaysbiochem/article-abstract/65/4/657/229791/Long-non-coding-RNAs-associated-with-infection-and?redirectedFrom=fulltext",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34528687_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 151,
+            "name": "Frontiers in Medicine. 2021. Acid pH Increases SARS-CoV-2 Infection and the Risk of Death by COVID-19",
+            "color": "#000000",
+            "link": "https://www.frontiersin.org/articles/10.3389/fmed.2021.637885/full",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34490283_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 150,
+            "name": "Immunity. 2021. Sepsis expands a CD39(+) plasmablast population that promotes immunosuppression via adenosine-mediated inhibition of macrophage antimicrobial activity",
+            "color": "#000000",
+            "link": "https://www.cell.com/immunity/fulltext/S1074-7613(21)00335-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1074761321003356%3Fshowall%3Dtrue",
+            "photo": "https://ensinoai.com/csbl/publications/circle/34473957_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
             "id": 149,
             "name": "Zika Virus Biology, Transmission, and Pathways Book. 2021. Zika virus infection and cytokines.",
             "color": "#000000",
@@ -2657,6 +2748,34 @@
         },
         {
             "source": 142,
+            "target": 137
+        },
+        {
+            "source": 156,
+            "target": 137
+        },
+        {
+            "source": 155,
+            "target": 137
+        },
+        {
+            "source": 154,
+            "target": 133
+        },
+        {
+            "source": 153,
+            "target": 141
+        },
+        {
+            "source": 152,
+            "target": 140
+        },
+        {
+            "source": 151,
+            "target": 130
+        },
+        {
+            "source": 150,
             "target": 137
         }
     ]
