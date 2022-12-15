@@ -1,6 +1,318 @@
 {
     "nodes": [
         {
+            "id": 180,
+            "name": "iScience. 2022. The evolution of knowledge on genes associated with human diseases",
+            "color": "#000000",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2589004221015807",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Thomaz_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 179,
+            "name": "eLife. 2022. Efferocytosis of SARS-CoV-2-infected dying cells impairs macrophage anti-inflammatory functions and clearance of apoptotic cells",
+            "color": "#000000",
+            "link": "https://elifesciences.org/articles/74443",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Larissa_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 178,
+            "name": "The Lancet Microbe. 2022. Transcriptomic signatures induced by the Ebola virus vaccine rVSV-ZEBOV-GP in adult cohorts in Europe, Africa, and North America: a molecular biomarker study",
+            "color": "#000000",
+            "link": "https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00235-4/fulltext",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Lancet_microbe_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 177,
+            "name": "Cell Reports Medicine. 2022. Prior upregulation of interferon pathways in the nasopharynx impacts viral shedding following live attenuated influenza vaccine challenge in children",
+            "color": "#000000",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2666379121003372",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Thushan_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 176,
+            "name": "The Lancet Regional Health-Americas. 2022. Why should obese youth be prioritized in COVID-19 vaccination programs? A nationwide retrospective study",
+            "color": "#000000",
+            "link": "https://www.thelancet.com/journals/lanam/article/PIIS2667-193X(21)00163-0/fulltext",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Michelle_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 175,
+            "name": "British Journal of Pharmacology. 2022. Aryl hydrocarbon receptor (AhR) activation contributes to high fat diet induced vascular dysfunction",
+            "color": "#000000",
+            "link": "https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.15789",
+            "photo": "https://ensinoai.com/csbl/publications/circle/BJP_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 174,
+            "name": "Frontiers in immunology. 2022. Insight Into the Long Noncoding RNA and mRNA Coexpression Profile in the Human Blood Transcriptome Upon Leishmania infantum Infection.",
+            "color": "#000000",
+            "link": "https://www.frontiersin.org/articles/10.3389/fimmu.2022.784463/full",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Leish_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 173,
+            "name": "Cells. 2022. Severe COVID-19 shares a common neutrophil activation signature with other acute inflammatory states",
+            "color": "#000000",
+            "link": "https://www.mdpi.com/2073-4409/11/5/847",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Lena_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 172,
+            "name": "Annals of Neurology. 2022. MS-Driven Metabolic Alterations Are Recapitulated in iPSC-Derived Astrocytes",
+            "color": "#000000",
+            "link": "https://onlinelibrary.wiley.com/doi/10.1002/ana.26336",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Neurology_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 171,
+            "name": "Pharmaceutics. 2022. Acute Inflammation Is a Predisposing Factor for Weight Gain and Insulin Resistance",
+            "color": "#000000",
+            "link": "https://www.mdpi.com/1999-4923/14/3/623",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Edson_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 170,
+            "name": "Blood advances. 2022. Platelet-monocyte interaction amplifies thromboinflammation through tissue factor signaling in COVID-19",
+            "color": "#000000",
+            "link": "https://ashpublications.org/bloodadvances/article/6/17/5085/484924/Platelet-monocyte-interaction-amplifies",
+            "photo": "https://ensinoai.com/csbl/publications/circle/m_advancesadv2021006680absf1_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 169,
+            "name": "Frontiers in Immunology. 2022. Differentiation of Memory CD8 T Cells Unravel Gene Expression Pattern Common to Effector and Memory Precursors",
+            "color": "#000000",
+            "link": "https://www.frontiersin.org/articles/10.3389/fimmu.2022.840203/full",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Viola_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 168,
+            "name": "Scientific Reports. 2022. HIV infection increases the risk of acquiring Plasmodium vivax malaria: a 4-year cohort study in the Brazilian Amazon HIV and risk of vivax malaria",
+            "color": "#000000",
+            "link": "https://www.nature.com/articles/s41598-022-13256-4",
+            "photo": "https://ensinoai.com/csbl/publications/circle/HIV_malaria_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 167,
+            "name": "Cancer Research. 2022. Knockout of cellular prion protein in glioblastoma affects the expression of Wnt signaling genes",
+            "color": "#000000",
+            "link": "https://aacrjournals.org/cancerres/article/82/12_Supplement/103/701611/Abstract-103-Knockout-of-cellular-prion-protein-in",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Cancer_research_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 166,
+            "name": "Mucosal immunology. 2022. Molecular alterations in human milk in simulated maternal nasal mucosal infection with live attenuated influenza vaccination",
+            "color": "#000000",
+            "link": "https://www.nature.com/articles/s41385-022-00537-4",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Milk_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 165,
+            "name": "Frontiers in Big Data. 2022. Big Data and machine learning in cancer theranostics",
+            "color": "#000000",
+            "link": "https://www.frontiersin.org/articles/10.3389/fdata.2022.972726/full",
+            "photo": "https://ensinoai.com/csbl/publications/circle/BigData_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 164,
+            "name": "PeerJ. 2022. Tucuxi-BLAST: Enabling fast and accurate record linkage of large-scale health-related administrative databases through a DNA-encoded approach",
+            "color": "#000000",
+            "link": "https://peerj.com/articles/13507/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/PeerJ_Tucuxi_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 163,
+            "name": "Cancer Immunology Research. 2022. PD-1/PD-L1 inhibition enhances chemotherapy-induced neuropathic pain by suppressing neuroimmune antinociceptive signaling",
+            "color": "#000000",
+            "link": "https://aacrjournals.org/cancerimmunolres/article-abstract/10/11/1299/709881/PD-1-PD-L1-Inhibition-Enhances-Chemotherapy?redirectedFrom=fulltext",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Carlos_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 162,
+            "name": "Science advances. 2022. PD-1/PD-L1 blockade abrogates a dysfunctional innate-adaptive immune axis in critical beta-coronavirus disease",
+            "color": "#000000",
+            "link": "https://www.science.org/doi/10.1126/sciadv.abn6545?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Maite_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 161,
+            "name": "Angiogenesis. 2022. Tissue-resident glial cells associate with tumoral vasculature and promote cancer progression",
+            "color": "#000000",
+            "link": "https://link.springer.com/article/10.1007/s10456-022-09858-1",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Beatriz_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 160,
+            "name": "Frontiers in Immunology. 2022. SARS-CoV-2 infected children form early immune memory responses dominated by nucleocapsid-specific CD8+ T cells and antibodies",
+            "color": "#000000",
+            "link": "https://www.frontiersin.org/articles/10.3389/fimmu.2022.1033364/full",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Cris_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 159,
+            "name": "Heliyon. 2022. Cross-sectional analysis of students and school workers reveals a high number of asymptomatic SARS-CoV-2 infections during school reopening in Brazilian cities",
+            "color": "#000000",
+            "link": "https://linkinghub.elsevier.com/retrieve/pii/S2405-8440(22)02656-1",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Heliyon_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 158,
+            "name": "Scientific Reports. 2022. Uptake of Plasmodium chabaudi hemozoin drives Kupffer cell death and fuels superinfections",
+            "color": "#000000",
+            "link": "https://www.nature.com/articles/s41598-022-23858-7",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Kupffer_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 157,
+            "name": "PeerJ. 2022. Automatic detection of the parasite Trypanosoma cruzi in blood smears using a machine learning approach applied to mobile phone images",
+            "color": "#000000",
+            "link": "https://peerj.com/articles/13470/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/Mauro_PeerJ_2022_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
             "id": 156,
             "name": "Microbiol Resour Announc. 2021. Whole-Genome Sequencing of Leishmania infantum chagasi Isolates from Honduras and Brazil",
             "color": "#000000",
@@ -2776,6 +3088,54 @@
         },
         {
             "source": 150,
+            "target": 137
+        },
+        {
+            "source": 180,
+            "target": 130
+        },
+        {
+            "source": 179,
+            "target": 133
+        },
+        {
+            "source": 178,
+            "target": 141
+        },
+        {
+            "source": 177,
+            "target": 141
+        },
+        {
+            "source": 176,
+            "target": 131
+        },
+        {
+            "source": 175,
+            "target": 137
+        },
+        {
+            "source": 174,
+            "target": 140
+        },
+        {
+            "source": 173,
+            "target": 133
+        },
+        {
+            "source": 172,
+            "target": 137
+        },
+        {
+            "source": 171,
+            "target": 137
+        },
+        {
+            "source": 170,
+            "target": 137
+        },
+        {
+            "source": 169,
             "target": 137
         }
     ]
