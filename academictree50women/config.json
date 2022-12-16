@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Bioaviz"
+  },
+  "text": {
+    "more": "The network shows the academic descendants of 50 selected women who contributed a lot to Brazilian and world science.\n There are of course thousands of other amazing women (who are not in this network) that have done a lot in training scientists.\n More details here (in Portuguese).",
+    "intro": "The network shows the academic descendants of 50 selected women who contributed a lot to Brazilian and world science.<br> There are of course thousands of other amazing women (who are not in this network) that have done a lot in training scientists.<br><br> More details <a href='https://revistapesquisa.fapesp.br/elas-e-seus-discipulos/'>here</a> (in Portuguese).",
+    "title": "Academic Tree of Life"
+  },
+  "legend": {
+    "edgeLabel": "Mentorship",
+    "colorLabel": "Modules",
+    "nodeLabel": "Scientist"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "nome",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
