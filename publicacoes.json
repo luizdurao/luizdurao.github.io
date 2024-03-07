@@ -2339,6 +2339,435 @@
             "bordercolor": " #000000",
             "bordersize": "0.8px",
             "label": ""
+        },
+        {
+            "id": 181,
+            "name": "Concepts on Microarray Design for Genome and Transcriptome Analyses",
+            "color": "#000000",
+            "link": "https://link.springer.com/chapter/10.1007/978-1-4020-6040-3_11",
+            "photo": "https://ensinoai.com/csbl/publications/circle/2007chapter1_circle.png",
+            "status": "2007",
+            "status2": "2007",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 182,
+            "name": "Chapter 15 - Systems Biology of Infectious Diseases and Vaccines",
+            "color": "#000000",
+            "link": "https://www.sciencedirect.com/science/article/pii/B9780124059269000150?via%3Dihub",
+            "photo": "https://ensinoai.com/csbl/publications/circle/2014chapter2_circle.png",
+            "status": "2014",
+            "status2": "2014",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 183,
+            "name": "Systems Immunology",
+            "color": "#000000",
+            "link": "https://www.springerprofessional.de/en/systems-immunology/15865294",
+            "photo": "https://ensinoai.com/csbl/publications/circle/2018chapter3_circle.png",
+            "status": "2018",
+            "status2": "2018",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 184,
+            "name": "Network Medicine: Methods and Applications",
+            "color": "#000000",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-030-51862-2_1",
+            "photo": "https://ensinoai.com/csbl/publications/circle/2020chapter4_circle.png",
+            "status": "2020",
+            "status2": "2020",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 185,
+            "name": "An Experimental DUAL Model of Advanced Liver Damage",
+            "color": "#000000",
+            "link": "https://aasldpubs.onlinelibrary.wiley.com/doi/full/10.1002/hep4.1698",
+            "photo": "https://ensinoai.com/csbl/publications/circle/hep4_circle.png",
+            "status": "2021",
+            "status2": "2021",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 186,
+            "name": "Tissue-resident glial cells associate with tumoral vasculature and promote cancer progression",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36183032/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36183032_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 187,
+            "name": "Thinking out of the box: revisiting health surveillance based on medical records",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38028896/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/38028896_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 188,
+            "name": "Pyruvate kinase M2 mediates IL-17 signaling in keratinocytes driving psoriatic skin inflammation",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36577385/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36577385_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 189,
+            "name": "Antibody responses to recombinant vesicular stomatitis virus-Zaire Ebolavirus vaccination for Ebola virus disease across doses and continents: 5-year durability",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37661067/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/37661067_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 190,
+            "name": "Increased mTOR Signaling and Impaired Autophagic Flux Are Hallmarks of SARS-CoV-2 Infection.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36661509/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36661509_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 191,
+            "name": "Combining IP(3) affinity chromatography and bioinformatics reveals a novel protein-IP(3) binding site on Plasmodium falciparum MDR1 transporter.",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36582189/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36582189_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 192,
+            "name": "SARS-CoV-2 uses CD4 to infect T helper lymphocytes",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37523305/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/37523305_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 193,
+            "name": "Comparative transcriptomic analysis of long noncoding RNAs in Leishmania-infected human macrophages",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36685903/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36685903_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 194,
+            "name": "Expression of HMGCS2 in intestinal epithelial cells is downregulated in inflammatory bowel disease associated with endoplasmic reticulum stress",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37457727/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/37457727_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 195,
+            "name": "Baseline gene signatures of reactogenicity to Ebola vaccination: a machine learning approach across multiple cohorts",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38022684/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/38022684_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 196,
+            "name": "Immunodominant antibody responses directed to SARS-CoV-2 hotspot mutation sites and risk of immune escape",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36685521/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36685521_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 197,
+            "name": "Chikungunya patient transcriptional signatures faithfully recapitulated in a C57BL/6J mouse model",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36578476/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36578476_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 198,
+            "name": "Novel therapeutic avenues for the study of chronic liver disease and regeneration: The foundation of the Iberoamerican Consortium for the study of liver Cirrhosis",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35688395/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/35688395_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 199,
+            "name": "Identification of pathogenic variants in the Brazilian cohort with Familial hypercholesterolemia using exon-targeted gene sequencing",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37217153/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/37217153_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 200,
+            "name": "Imbalanced IL-1B and IL-18 Expression in S\u00e9zary Syndrome",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36902104/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36902104_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 201,
+            "name": "Global blood miRNA profiling unravels early signatures of immunogenicity of Ebola vaccine rVSV\u0394G-ZEBOV-GP",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/38162033/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/38162033_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 202,
+            "name": "Transcriptome analysis of six tissues obtained post-mortem from sepsis patients",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37731199/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/jcmm17938-fig-0001-m_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 203,
+            "name": "C5aR1 signaling triggers lung immunopathology in COVID-19 through neutrophil extracellular traps",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37104043/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/37104043_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 204,
+            "name": "Cutting Edge: Polycomb Repressive Complex 1 Subunit Cbx4 Positively Regulates Effector Responses in CD8 T Cells",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37486206/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/37486206_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 205,
+            "name": "CASP4/11 Contributes to NLRP3 Activation and COVID-19 Exacerbation",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36763010/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36763010_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 206,
+            "name": "S100A9 Drives the Chronification of Psoriasiform Inflammation by Inducing IL-23/Type 3 Immunity",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36921684/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36921684_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 207,
+            "name": "Integrative systems immunology uncovers molecular networks of the cell cycle that stratify COVID-19 severity",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36597912/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36597912_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 208,
+            "name": "Gene Signatures of Symptomatic and Asymptomatic Clinical-Immunological Profiles of Human Infection by Leishmania (L.) chagasi in Amazonian Brazil",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36985226/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36985226_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 209,
+            "name": "Ten quick tips for harnessing the power of ChatGPT in computational biology",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37561669/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/37561669_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 210,
+            "name": "Clinical markers of post-Chikungunya chronic inflammatory joint disease: A Brazilian cohort",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/36608155/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/36608155_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 211,
+            "name": "COVID-19-related hyperglycemia is associated with infection of hepatocytes and stimulation of gluconeogenesis",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37186819/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/37186819_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 212,
+            "name": "Characteristics and anatomic location of PD-1(+)TCF1(+) stem-like CD8 T cells in chronic viral infection and cancer",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/37782797/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/37782797_circle.png",
+            "status": "2023",
+            "status2": "2023",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
+        },
+        {
+            "id": 213,
+            "name": "Morphological, cellular, and molecular basis of brain infection in COVID-19 patients",
+            "color": "#000000",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/35951647/",
+            "photo": "https://ensinoai.com/csbl/publications/circle/35951647_circle.png",
+            "status": "2022",
+            "status2": "2022",
+            "size": 10.0,
+            "bordercolor": " #000000",
+            "bordersize": "0.8px",
+            "label": ""
         }
     ],
     "links": [
@@ -3185,6 +3614,138 @@
         {
             "source": 180,
             "target": 130
+        },
+        {
+            "source": 181,
+            "target": 139
+        },
+        {
+            "source": 182,
+            "target": 133
+        },
+        {
+            "source": 183,
+            "target": 133
+        },
+        {
+            "source": 184,
+            "target": 130
+        },
+        {
+            "source": 185,
+            "target": 137
+        },
+        {
+            "source": 186,
+            "target": 133
+        },
+        {
+            "source": 187,
+            "target": 131
+        },
+        {
+            "source": 188,
+            "target": 130
+        },
+        {
+            "source": 189,
+            "target": 137
+        },
+        {
+            "source": 190,
+            "target": 133
+        },
+        {
+            "source": 191,
+            "target": 137
+        },
+        {
+            "source": 192,
+            "target": 137
+        },
+        {
+            "source": 193,
+            "target": 140
+        },
+        {
+            "source": 194,
+            "target": 137
+        },
+        {
+            "source": 195,
+            "target": 141
+        },
+        {
+            "source": 196,
+            "target": 137
+        },
+        {
+            "source": 197,
+            "target": 133
+        },
+        {
+            "source": 198,
+            "target": 137
+        },
+        {
+            "source": 199,
+            "target": 137
+        },
+        {
+            "source": 200,
+            "target": 133
+        },
+        {
+            "source": 201,
+            "target": 141
+        },
+        {
+            "source": 202,
+            "target": 130
+        },
+        {
+            "source": 203,
+            "target": 133
+        },
+        {
+            "source": 204,
+            "target": 133
+        },
+        {
+            "source": 205,
+            "target": 137
+        },
+        {
+            "source": 206,
+            "target": 137
+        },
+        {
+            "source": 207,
+            "target": 138
+        },
+        {
+            "source": 208,
+            "target": 130
+        },
+        {
+            "source": 209,
+            "target": 132
+        },
+        {
+            "source": 210,
+            "target": 137
+        },
+        {
+            "source": 211,
+            "target": 133
+        },
+        {
+            "source": 212,
+            "target": 133
+        },
+        {
+            "source": 213,
+            "target": 133
         }
     ]
 }
